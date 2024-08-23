@@ -1,0 +1,565 @@
+st_id,password,first_name,last_name,age,gender,nationality,completed_units,interest
+95841,3VEuK,Fernando,Rivera,21,Male,Philippines,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+20715,dQvKi,Jose,Fernandez,27,Male,Thailand,"BCO6008 (Sem 2, Credits 12)",Financial and Managerial Accounting
+40487,9pvcF,Fernando,Cruz,19,Male,Malaysia,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+15400,jBKZf,Roberto,Martinez,22,Male,Philippines,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+60652,sp3ln,Carmen,Fernandez,24,Female,Myanmar,"BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+67555,UH8tB,Juan,Flores,30,Male,Philippines,"	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+88178,IChcw,Sofia,Gonzalez,26,Female,Laos,"BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+85945,jXqgk,Sofia,Santos,21,Female,Vietnam,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+38050,9Eaop,Ismael,Santos,29,Male,Philippines,"BCO7002 (Sem 4, Credits 12)",General Business and Management
+63467,pOGKC,Maria,Martinez,29,Female,Vietnam,"BCO7007 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+68322,7qIJu,Antonio,Martinez,27,Male,Malaysia,"BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+29523,SGjrW,Rosa,Rivera,34,Female,Indonesia,"BCO7006 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+22931,RKoTf,Alberto,Fernandez,25,Male,Laos,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12)",Leadership and Strategic Management
+06574,vRYhH,Isabela,Cruz,35,Female,Malaysia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+49818,vc8BS,Carlos,Reyes,31,Male,Myanmar,"BCO6008 (Sem 2, Credits 12)",Digital Media and Content Creation
+15727,3KESz,Roberto,Rivera,26,Male,Laos,"	
+WOM1000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+96346,wD3rI,Luisa,Rivera,21,Female,Myanmar,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+25111,7TPrN,Luisa,Flores,22,Female,Singapore,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+72062,79BHM,Sofia,Morales,33,Female,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+52855,7ARFk,Roberto,Ramos,32,Male,Brunei,"BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7003 (Sem 1, Credits 12)",Information Technology and Systems
+25854,7oR41,Alberto,Santos,31,Male,Cambodia,"BCO7002 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+90175,Zi3Vz,Miguel,Reyes,34,Male,Philippines,"BCO7004 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12)",Financial and Managerial Accounting
+99286,7hszN,Alberto,Martinez,34,Male,Thailand,"	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+82464,mJhch,Carlos,Morales,26,Male,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",Leadership and Strategic Management
+13606,wx34E,Juan,Santos,35,Male,Thailand,"BAO6504 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+05471,YdIVv,Ricardo,Gonzalez,33,Male,Cambodia,"BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Information Technology and Systems
+70853,V3FRB,Alberto,Rivera,19,Male,Singapore,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+96187,QDs9r,Roberto,Santos,27,Male,Singapore,"BCO7005 (Sem 2, Credits 12)",Digital Media and Content Creation
+66635,PpLA5,Isabela,Martinez,35,Female,Myanmar,"BCO7005 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+02835,N3W7v,Roberto,Rivera,22,Male,Myanmar,"BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+00771,B1Bub,Isabela,Santos,31,Female,Vietnam,"BEO6000 (Sem 3, Credits 12)",General Business and Management
+03734,yeO9L,Sofia,Martinez,35,Female,Malaysia,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+64096,kSfSX,Veronica,Gonzalez,20,Female,Indonesia,"BCO7005 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+75886,dpsEi,Luisa,Reyes,33,Female,Indonesia,"BCO7005 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+54812,3K26y,Maria,Martinez,18,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+55333,wo1sA,Veronica,Martinez,35,Female,Indonesia,"BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+21745,mjo0Q,Carlos,Flores,30,Male,Singapore,"BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+20242,P1BUZ,Juan,Reyes,20,Male,Singapore,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Operations and Supply Chain Management
+07585,C7UZh,Angelica,Flores,18,Female,Cambodia,"BCO7002 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",General Business and Management
+08886,2IpvR,Jose,Garcia,23,Male,Myanmar,"BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Leadership and Strategic Management
+08650,7MTFG,Fernando,Santos,32,Male,Cambodia,"BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+51421,F0tce,Rosa,Martinez,18,Female,Laos,"BCO7000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+14634,nVfVg,Veronica,Garcia,18,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+15881,Bt7KS,Veronica,Ramos,27,Female,Philippines,"BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+80155,EYHKk,Antonio,Morales,23,Male,Thailand,"BCO7006 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Digital Media and Content Creation
+64733,oMYpH,Juan,Morales,24,Male,Vietnam,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+82981,Rsx6Z,Antonio,Cruz,27,Male,Indonesia,"BCO7000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+69974,PbSLm,Carlos,Torres,27,Male,Myanmar,"BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+20128,WO78U,Carlos,Reyes,27,Male,Philippines,"BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+44466,U3BCX,Ismael,Garcia,18,Male,Indonesia,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+42390,7U7eR,Ismael,Garcia,30,Male,Cambodia,"BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12)",General Business and Management
+47686,BFtun,Antonio,Martinez,32,Male,Malaysia,"BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+15269,DmlCE,Alicia,Santos,35,Female,Indonesia,"BCO7002 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+71669,ONpmk,Miguel,Gonzalez,35,Male,Singapore,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+65357,9B9Fl,Alicia,Morales,28,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+27927,5BWo0,Isabela,Torres,19,Female,Myanmar,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+80150,y1s8q,Fernando,Torres,22,Male,Cambodia,"	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+86977,edXdG,Alicia,Flores,21,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+37498,Z2snU,Jessica,Santos,34,Female,Vietnam,"BAO6504 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+86032,BDFLD,Isabela,Gonzalez,32,Female,Brunei,"BEO6000 (Sem 3, Credits 12), BCO7000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+34068,9QeWo,Jose,Gonzalez,35,Male,Singapore,"BCO7002 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12)",Financial and Managerial Accounting
+05765,aB9Vl,Ismael,Reyes,33,Male,Singapore,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+37036,c0dl4,Jessica,Torres,24,Female,Indonesia,"BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Operations and Supply Chain Management
+47456,bgQGN,Roberto,Rivera,24,Male,Brunei,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Operations and Supply Chain Management
+49471,zhBr3,Maria,Garcia,21,Female,Brunei,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",General Business and Management
+30638,KwNtn,Rosa,Gonzalez,18,Female,Vietnam,"BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+36037,DfgBU,Alberto,Flores,21,Male,Vietnam,"BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+11829,ohdUF,Luisa,Rivera,28,Female,Malaysia,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+42704,3YerD,Ismael,Ramos,21,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+84179,tKdCB,Fernando,Flores,25,Male,Indonesia,"BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+48249,P4Yuv,Roberto,Fernandez,32,Male,Myanmar,"	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+23600,dExyE,Rosa,Ramos,25,Female,Vietnam,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+60571,Vzxtb,Sofia,Cruz,20,Female,Indonesia,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",General Business and Management
+14303,dPO1W,Rosa,Gonzalez,33,Female,Laos,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+81383,OqvxG,Jose,Morales,29,Male,Laos,"BEO6600 (Sem 2, Credits 12)",Leadership and Strategic Management
+84081,2RaGn,Juan,Garcia,28,Male,Malaysia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Information Technology and Systems
+76213,TkUEe,Isabela,Gonzalez,22,Female,Brunei,"BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+73502,vmV03,Angelica,Fernandez,18,Female,Brunei,"BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+04951,BthiN,Angelica,Reyes,35,Female,Cambodia,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+50435,Rd3Nc,Antonio,Gonzalez,22,Male,Myanmar,"BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+19334,fa61x,Carlos,Reyes,23,Male,Malaysia,"BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",General Business and Management
+18612,vZiyV,Roberto,Santos,20,Male,Laos,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+63710,Fvl2d,Luisa,Santos,35,Female,Malaysia,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Leadership and Strategic Management
+02752,MN2mf,Alicia,Santos,18,Female,Singapore,"BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+70478,Aalgw,Maria,Gonzalez,32,Female,Singapore,"BCO7002 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+01897,u2cSs,Jessica,Martinez,22,Female,Cambodia,"BCO7002 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Financial and Managerial Accounting
+90312,rArCN,Maria,Santos,35,Female,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",General Business and Management
+93789,rmqGd,Jessica,Cruz,23,Female,Myanmar,"BCO7005 (Sem 2, Credits 12)",Leadership and Strategic Management
+10566,BkoN7,Jessica,Flores,24,Female,Brunei,"BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+57201,BTRFr,Jose,Fernandez,29,Male,Malaysia,"BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+69294,Zfl8C,Ricardo,Fernandez,18,Male,Laos,"BCO7006 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Digital Media and Content Creation
+75736,L2LQ7,Rosa,Ramos,32,Female,Brunei,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+19496,ar38E,Carmen,Garcia,19,Female,Malaysia,"BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12), BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+45250,Oat3U,Alicia,Reyes,33,Female,Singapore,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",General Business and Management
+24428,ZlHft,Roberto,Morales,25,Male,Laos,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7007 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+71552,PqgKv,Miguel,Torres,24,Male,Cambodia,"BCO7005 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+40542,2rdyY,Carmen,Gonzalez,24,Female,Myanmar,"BAO6504 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+28622,ukewR,Antonio,Flores,22,Male,Cambodia,"BEO6000 (Sem 3, Credits 12)",General Business and Management
+42410,dcFpf,Ricardo,Flores,33,Male,Vietnam,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",Operations and Supply Chain Management
+08855,EYxEN,Angelica,Rivera,28,Female,Singapore,"BCO7002 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+76957,kMYQO,Angelica,Flores,28,Female,Laos,"BCO7006 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+08909,EwkSq,Alicia,Morales,26,Female,Singapore,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+00404,IDs9j,Rosa,Rivera,26,Female,Vietnam,"BCO7002 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",General Business and Management
+65084,jfbAd,Jessica,Torres,18,Female,Philippines,"BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12)",Financial and Managerial Accounting
+50943,0EB5X,Fernando,Gonzalez,35,Male,Indonesia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+63517,u35M9,Isabela,Santos,24,Female,Myanmar,"BCO7004 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+41503,mxDph,Jose,Fernandez,34,Male,Cambodia,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+32767,J15k9,Alberto,Rivera,29,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Leadership and Strategic Management
+20598,KqlIG,Juan,Torres,26,Male,Malaysia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+96087,8DEY9,Jessica,Cruz,24,Female,Thailand,"BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",General Business and Management
+78338,9Y0ti,Sofia,Morales,18,Female,Philippines,"BCO7003 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",Information Technology and Systems
+22750,wnb4r,Alicia,Reyes,30,Female,Malaysia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+75269,22n47,Luisa,Torres,26,Female,Brunei,"BCO7000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+89522,ogON0,Jose,Morales,35,Male,Indonesia,"BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+07500,ULdPW,Rosa,Gonzalez,32,Female,Myanmar,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+41324,8hfHO,Jose,Reyes,27,Male,Brunei,"BCO7000 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+77288,uVbSC,Miguel,Reyes,31,Male,Vietnam,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",General Business and Management
+29270,SS9SK,Rosa,Reyes,34,Female,Singapore,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+37553,ixqOO,Roberto,Reyes,23,Male,Vietnam,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+14383,yRHCx,Maria,Torres,31,Female,Vietnam,"BCO7007 (Sem 2, Credits 12)",General Business and Management
+34057,BGyyF,Jose,Flores,24,Male,Cambodia,"BCO7003 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+90457,582Vr,Miguel,Reyes,23,Male,Myanmar,"BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+38299,dFs38,Rosa,Martinez,25,Female,Indonesia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+04303,aVfWd,Sofia,Reyes,20,Female,Malaysia,"BEO6000 (Sem 3, Credits 12)",General Business and Management
+30348,CLjAT,Antonio,Santos,25,Male,Malaysia,"	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+67679,yinW7,Maria,Flores,18,Female,Philippines,"BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+35637,lahRD,Ismael,Cruz,26,Male,Laos,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+21587,n5Ced,Jose,Cruz,18,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO7000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+69918,OMHZL,Juan,Fernandez,31,Male,Cambodia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+99116,eHdtY,Ismael,Torres,20,Male,Vietnam,"BCO7006 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+65143,sv5e5,Jose,Rivera,33,Male,Philippines,"BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+83248,u8uzb,Rosa,Cruz,18,Female,Malaysia,"BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+17029,iZJ5Y,Maria,Ramos,25,Female,Malaysia,"BCO7005 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+94958,QBJeU,Carmen,Reyes,27,Female,Indonesia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7005 (Sem 2, Credits 12)",Operations and Supply Chain Management
+94731,NpRuA,Veronica,Morales,20,Female,Laos,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+33694,BVxFr,Antonio,Torres,18,Male,Laos,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",General Business and Management
+59205,dP0VK,Jessica,Ramos,22,Female,Brunei,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+78985,9a7oO,Angelica,Rivera,29,Female,Cambodia,"	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+56022,Fmzs0,Isabela,Gonzalez,27,Female,Malaysia,"BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+67091,yvO7N,Carlos,Morales,20,Male,Philippines,"BEO6600 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+32938,wfEaF,Fernando,Gonzalez,20,Male,Singapore,"BCO7003 (Sem 1, Credits 12)",General Business and Management
+27428,hMQIN,Isabela,Torres,29,Female,Myanmar,"BCO6008 (Sem 2, Credits 12), BCO7003 (Sem 1, Credits 12)",Financial and Managerial Accounting
+29231,UVyqp,Carmen,Santos,24,Female,Laos,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+27845,qzigx,Carmen,Flores,25,Female,Brunei,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+12430,PuDDS,Jose,Ramos,21,Male,Laos,"BCO7007 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12)",Digital Media and Content Creation
+59108,hG5DV,Carmen,Morales,31,Female,Vietnam,"BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+38658,2K0tG,Luisa,Garcia,24,Female,Philippines,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+56549,4BINY,Veronica,Santos,33,Female,Malaysia,"BCO7006 (Sem 1, Credits 12)",Digital Media and Content Creation
+52095,66Xl5,Miguel,Morales,32,Male,Philippines,"BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+59030,JMXWu,Angelica,Santos,35,Female,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+36985,Or6Gt,Maria,Flores,31,Female,Brunei,"BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+96722,O2I36,Alberto,Gonzalez,20,Male,Singapore,"BCO7006 (Sem 1, Credits 12)",Information Technology and Systems
+81749,YlPAc,Veronica,Ramos,19,Female,Myanmar,"BCO7000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+56401,wkibu,Miguel,Reyes,22,Male,Vietnam,"	
+WOM1000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+37055,al0zH,Juan,Fernandez,26,Male,Cambodia,"BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+33930,UOjB0,Fernando,Martinez,27,Male,Laos,"BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+70525,7WrLK,Jose,Ramos,30,Male,Singapore,"BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+81297,8Ckhu,Angelica,Rivera,30,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",General Business and Management
+47681,lkNBO,Carlos,Torres,34,Male,Laos,"BCO6008 (Sem 2, Credits 12)",General Business and Management
+05587,Hjdzp,Miguel,Ramos,19,Male,Singapore,"BCO7003 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+18102,0YXGv,Roberto,Rivera,31,Male,Myanmar,"BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+06021,r5nEB,Ricardo,Flores,20,Male,Brunei,"BCO7000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+41455,DEWtG,Fernando,Reyes,29,Male,Cambodia,"BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+80877,oeMsD,Roberto,Fernandez,28,Male,Brunei,"BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Leadership and Strategic Management
+18626,QrAcA,Sofia,Santos,27,Female,Philippines,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+62544,RLVJW,Rosa,Fernandez,19,Female,Laos,"BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+06686,3ubEC,Jessica,Garcia,35,Female,Thailand,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Leadership and Strategic Management
+89209,s0ty3,Angelica,Martinez,25,Female,Philippines,"BCO7000 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",General Business and Management
+06480,PODUW,Miguel,Rivera,35,Male,Indonesia,"BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+53396,3u9cM,Sofia,Rivera,30,Female,Brunei,"BCO7003 (Sem 1, Credits 12)",Operations and Supply Chain Management
+89734,gdcvV,Alberto,Fernandez,18,Male,Laos,"BCO7002 (Sem 4, Credits 12)",Leadership and Strategic Management
+24334,1Jzdi,Roberto,Cruz,19,Male,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+56138,b85LH,Jose,Flores,18,Male,Laos,"BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+72714,4ZRzH,Ismael,Garcia,20,Male,Malaysia,"BCO7006 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+35795,KMN8K,Isabela,Santos,27,Female,Indonesia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",General Business and Management
+01065,gICKe,Roberto,Gonzalez,34,Male,Vietnam,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12)",Digital Media and Content Creation
+26138,wBkDH,Ismael,Rivera,33,Male,Philippines,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO6008 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+17374,BbQBg,Carmen,Reyes,35,Female,Cambodia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+78415,tj3YJ,Ricardo,Morales,25,Male,Indonesia,"BAO6504 (Sem 1, Credits 12)",Operations and Supply Chain Management
+01298,r43Ge,Angelica,Martinez,24,Female,Brunei,"BCO7006 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+41970,UQauy,Jessica,Fernandez,35,Female,Laos,"BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12)",Leadership and Strategic Management
+54749,DfpQ2,Antonio,Cruz,20,Male,Cambodia,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12)",Leadership and Strategic Management
+62020,1WWfu,Fernando,Rivera,35,Male,Laos,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+30630,1AqJG,Rosa,Rivera,34,Female,Malaysia,"BEO6600 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+18332,YlYxY,Angelica,Martinez,34,Female,Brunei,"BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+85539,O7Ncb,Rosa,Cruz,33,Female,Laos,"BCO6008 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+10788,Gt5zg,Miguel,Martinez,23,Male,Malaysia,"BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+00544,2kOfN,Luisa,Torres,21,Female,Indonesia,"BCO7000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+90060,SNBh8,Roberto,Reyes,27,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Information Technology and Systems
+47997,3fV7G,Juan,Torres,26,Male,Laos,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Operations and Supply Chain Management
+60479,2BOsL,Carlos,Gonzalez,33,Male,Myanmar,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+34202,6u4HA,Angelica,Garcia,24,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+67830,qxLK1,Rosa,Torres,34,Female,Cambodia,"BEO6600 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+86665,VNf3c,Ismael,Morales,34,Male,Cambodia,"BCO7002 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+67856,Ae3ta,Maria,Torres,29,Female,Philippines,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+62487,9ZcU4,Antonio,Morales,21,Male,Vietnam,"BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+42464,ieqeJ,Sofia,Gonzalez,22,Female,Brunei,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+19094,1cbbY,Juan,Rivera,19,Male,Laos,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+75921,jAErx,Rosa,Morales,33,Female,Malaysia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+69897,Gg1XR,Alberto,Gonzalez,33,Male,Malaysia,"BCO7003 (Sem 1, Credits 12)",Leadership and Strategic Management
+37023,hoOis,Sofia,Flores,32,Female,Vietnam,"BCO7003 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",General Business and Management
+17012,LQJB1,Rosa,Santos,32,Female,Vietnam,"	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+54097,YxK1Y,Juan,Fernandez,35,Male,Philippines,"BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+98488,5j4bb,Rosa,Flores,18,Female,Singapore,"BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+64887,QXki0,Ismael,Cruz,19,Male,Vietnam,"BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+04045,Cab0i,Roberto,Ramos,28,Male,Malaysia,"BCO7002 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+93792,yW39g,Luisa,Garcia,25,Female,Vietnam,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7007 (Sem 2, Credits 12)",General Business and Management
+02460,TKIVC,Maria,Santos,21,Female,Myanmar,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+04939,ASmxm,Luisa,Flores,22,Female,Thailand,"BCO7002 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+19886,GYXxR,Angelica,Ramos,24,Female,Thailand,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+14736,Xlqpc,Sofia,Martinez,18,Female,Laos,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7003 (Sem 1, Credits 12)",Digital Media and Content Creation
+14563,g81G4,Angelica,Garcia,28,Female,Vietnam,"BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+43885,whl4C,Isabela,Ramos,35,Female,Philippines,"	
+WOM1000 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+46831,A41Bz,Roberto,Gonzalez,35,Male,Vietnam,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+31540,EHZt4,Luisa,Torres,34,Female,Philippines,"BAO6504 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",General Business and Management
+35100,szxc0,Luisa,Flores,34,Female,Indonesia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12)",Information Technology and Systems
+47538,AqIcW,Alicia,Reyes,20,Female,Malaysia,"BEO6600 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12)",Operations and Supply Chain Management
+89354,oK6kt,Isabela,Flores,33,Female,Philippines,"BEO6600 (Sem 2, Credits 12)",General Business and Management
+65239,yjnHv,Carlos,Reyes,24,Male,Indonesia,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+89126,oS6iI,Jessica,Morales,33,Female,Thailand,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+77755,nzNIK,Juan,Reyes,33,Male,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+80566,zzzUq,Jessica,Cruz,26,Female,Indonesia,"BCO7003 (Sem 1, Credits 12)",Digital Media and Content Creation
+98545,Co7Wl,Veronica,Fernandez,23,Female,Myanmar,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+43852,75WKJ,Luisa,Martinez,28,Female,Brunei,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+67294,qeKrT,Jose,Cruz,27,Male,Thailand,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7003 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+64020,VodUu,Alicia,Morales,22,Female,Malaysia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7007 (Sem 2, Credits 12), BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+81087,suhaZ,Alberto,Rivera,35,Male,Indonesia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+56302,2vKmk,Jose,Morales,18,Male,Singapore,"BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+43911,3zqHt,Jose,Reyes,24,Male,Laos,"BCO6008 (Sem 2, Credits 12)",Information Technology and Systems
+07130,AM76A,Alberto,Rivera,21,Male,Philippines,"	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+77554,JR4ta,Ricardo,Fernandez,18,Male,Malaysia,"	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+52693,VzoE1,Ismael,Santos,26,Male,Brunei,"BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+81418,PnVLa,Rosa,Martinez,26,Female,Indonesia,"BEO6000 (Sem 3, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+06471,Cs6zO,Ricardo,Garcia,21,Male,Vietnam,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7003 (Sem 1, Credits 12)",Digital Media and Content Creation
+58748,2mlcr,Fernando,Garcia,33,Male,Malaysia,"BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+41460,XCR3k,Jose,Fernandez,25,Male,Philippines,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Financial and Managerial Accounting
+33784,l5MdR,Sofia,Flores,34,Female,Singapore,"	
+WOM1000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Operations and Supply Chain Management
+35566,eTzXs,Roberto,Garcia,23,Male,Myanmar,"BCO7002 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Digital Media and Content Creation
+56052,cdyJG,Veronica,Gonzalez,20,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+87757,O1e0l,Sofia,Reyes,29,Female,Myanmar,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+52955,EsZeW,Ismael,Fernandez,32,Male,Thailand,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+39821,3kyYa,Alicia,Gonzalez,28,Female,Malaysia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+79190,NN2ej,Juan,Ramos,31,Male,Indonesia,"	
+WOM1000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+34226,Naebp,Alicia,Martinez,31,Female,Myanmar,"BCO6008 (Sem 2, Credits 12)",General Business and Management
+42950,nj4WI,Miguel,Gonzalez,33,Male,Vietnam,"	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+41251,Xf5EN,Roberto,Rivera,21,Male,Cambodia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7005 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+82678,fvq9h,Isabela,Rivera,22,Female,Philippines,"BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+65495,vOQRw,Antonio,Martinez,20,Male,Laos,"BCO6008 (Sem 2, Credits 12)",Digital Media and Content Creation
+73925,Hjbk5,Maria,Santos,24,Female,Indonesia,"BCO7004 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+10087,Kk302,Juan,Gonzalez,25,Male,Singapore,"BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+74359,S0wCr,Ricardo,Flores,27,Male,Malaysia,"BCO7003 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+10675,EI1CG,Luisa,Gonzalez,34,Female,Malaysia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+08921,8utaN,Carlos,Morales,28,Male,Philippines,"BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+16833,Vv4q3,Jessica,Santos,25,Female,Cambodia,"BCO7006 (Sem 1, Credits 12)",Leadership and Strategic Management
+64268,lstao,Veronica,Martinez,33,Female,Philippines,"BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+46180,nPGhB,Luisa,Garcia,22,Female,Thailand,"BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+34854,6QtcN,Sofia,Garcia,22,Female,Cambodia,"BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+74300,vvdgC,Carlos,Torres,18,Male,Thailand,"BCO6008 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+20785,u610Z,Jose,Cruz,33,Male,Brunei,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Operations and Supply Chain Management
+59766,lkKRE,Roberto,Torres,27,Male,Indonesia,"BCO7000 (Sem 1, Credits 12)",Digital Media and Content Creation
+72379,GHytr,Carlos,Rivera,25,Male,Thailand,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+79052,QvrtD,Ismael,Rivera,22,Male,Malaysia,"BCO7004 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12)",Financial and Managerial Accounting
+34489,wNKAm,Ismael,Fernandez,34,Male,Philippines,"BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Operations and Supply Chain Management
+28742,l7WEA,Sofia,Torres,35,Female,Vietnam,"	
+WOM1000 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+79698,EImQn,Sofia,Flores,34,Female,Singapore,"BCO7003 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+99486,Hp1Sk,Veronica,Ramos,29,Female,Indonesia,"BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+17963,P74ss,Jose,Morales,29,Male,Malaysia,"BCO6008 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+87535,yzsZB,Maria,Gonzalez,19,Female,Thailand,"BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+26607,p8HlB,Jessica,Reyes,21,Female,Cambodia,"	
+WOM1000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+80812,7X7rG,Rosa,Gonzalez,22,Female,Brunei,"BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+63994,hq8sh,Luisa,Morales,21,Female,Indonesia,"BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+10998,IuFYU,Jose,Rivera,26,Male,Malaysia,"BCO7002 (Sem 4, Credits 12)",General Business and Management
+83111,UKDL3,Alicia,Flores,29,Female,Singapore,"BAO6504 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+62964,f8A80,Alicia,Cruz,19,Female,Vietnam,"BCO7006 (Sem 1, Credits 12)",Operations and Supply Chain Management
+74066,PcB7z,Miguel,Cruz,29,Male,Malaysia,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+12718,otcvd,Luisa,Martinez,30,Female,Indonesia,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+13358,D6ZEL,Sofia,Rivera,26,Female,Thailand,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+44796,gG9aa,Ricardo,Gonzalez,33,Male,Indonesia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+67371,t99EK,Carlos,Martinez,29,Male,Thailand,"BCO6008 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+63116,orNJ2,Isabela,Reyes,34,Female,Myanmar,"	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+66725,MK9Wv,Carmen,Santos,31,Female,Cambodia,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12)",Digital Media and Content Creation
+79365,rBygL,Jessica,Ramos,24,Female,Indonesia,"BCO6008 (Sem 2, Credits 12)",Financial and Managerial Accounting
+15952,MXl3t,Miguel,Flores,24,Male,Vietnam,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+09021,XLDZe,Rosa,Gonzalez,28,Female,Singapore,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",General Business and Management
+74554,Kq3WN,Veronica,Cruz,25,Female,Vietnam,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Digital Media and Content Creation
+96805,aelSh,Antonio,Rivera,22,Male,Brunei,"BCO7000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+05544,p4akk,Antonio,Cruz,20,Male,Laos,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+75433,X3Gju,Ismael,Reyes,21,Male,Philippines,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+25971,X2hP3,Ricardo,Cruz,28,Male,Cambodia,"BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+59787,J66Qp,Carlos,Flores,20,Male,Myanmar,"BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12)",General Business and Management
+10248,CkLoj,Carlos,Rivera,30,Male,Malaysia,"BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+62991,Hwzi3,Jessica,Gonzalez,20,Female,Vietnam,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Leadership and Strategic Management
+50493,Xenii,Carmen,Garcia,32,Female,Brunei,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+24003,c69c4,Sofia,Cruz,20,Female,Vietnam,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7003 (Sem 1, Credits 12)",Information Technology and Systems
+63949,aX6cR,Miguel,Cruz,29,Male,Thailand,"BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+67743,oEJrW,Veronica,Reyes,30,Female,Cambodia,"BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+66942,tWre3,Isabela,Morales,21,Female,Vietnam,"BCO7003 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+11358,nb9AM,Carmen,Reyes,28,Female,Philippines,"BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+61555,TJZTk,Juan,Ramos,18,Male,Singapore,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+42783,B5aeL,Isabela,Santos,20,Female,Cambodia,"BEO6000 (Sem 3, Credits 12)",General Business and Management
+22361,PJxsA,Angelica,Fernandez,26,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+38177,HxAUB,Ismael,Garcia,35,Male,Philippines,"BCO7002 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+01313,mSyl4,Alberto,Martinez,33,Male,Myanmar,"BCO7007 (Sem 2, Credits 12)",General Business and Management
+10075,nvQA4,Alicia,Garcia,19,Female,Laos,"BCO7006 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+14865,rWNfz,Jose,Fernandez,31,Male,Philippines,"BCO7005 (Sem 2, Credits 12)",General Business and Management
+76684,WmBI7,Miguel,Santos,32,Male,Philippines,"BCO7003 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+08813,reZ7E,Angelica,Ramos,34,Female,Vietnam,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+49409,CWK6L,Sofia,Cruz,34,Female,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+76856,OSyR2,Isabela,Ramos,26,Female,Laos,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7000 (Sem 1, Credits 12)",Leadership and Strategic Management
+64575,ANBrI,Miguel,Flores,30,Male,Singapore,"BAO6504 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Operations and Supply Chain Management
+10442,OF3sB,Jose,Cruz,18,Male,Singapore,"BAO6504 (Sem 1, Credits 12)",Financial and Managerial Accounting
+57337,oyc9G,Luisa,Martinez,29,Female,Myanmar,"BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+99209,qRoO8,Fernando,Fernandez,21,Male,Vietnam,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+01318,j0KwZ,Carlos,Morales,28,Male,Thailand,"BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+04688,u22Gs,Carmen,Gonzalez,32,Female,Malaysia,"BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+27406,PWEmF,Ricardo,Flores,27,Male,Vietnam,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+25372,2gjE0,Veronica,Torres,32,Female,Brunei,"	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+31224,RmNPy,Luisa,Garcia,30,Female,Singapore,"	
+WOM1000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+90847,mABf8,Juan,Fernandez,26,Male,Singapore,"BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Leadership and Strategic Management
+90073,OO9zs,Maria,Garcia,28,Female,Cambodia,"BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+88830,mSUzM,Roberto,Cruz,27,Male,Philippines,"BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+88114,jF7TB,Alicia,Fernandez,18,Female,Indonesia,"BCO7000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+78734,6hgev,Maria,Martinez,23,Female,Thailand,"BCO7002 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Leadership and Strategic Management
+08824,ongA8,Ismael,Ramos,32,Male,Cambodia,"BCO7004 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",Operations and Supply Chain Management
+52435,nqtET,Carlos,Ramos,20,Male,Thailand,"BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",General Business and Management
+66958,E7qCx,Alicia,Garcia,27,Female,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+39368,KWRAJ,Ricardo,Cruz,23,Male,Singapore,"BCO7006 (Sem 1, Credits 12)",Information Technology and Systems
+65114,oQvPt,Fernando,Santos,35,Male,Myanmar,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+27352,F01ve,Rosa,Rivera,25,Female,Vietnam,"BCO7005 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+39758,X1cX3,Jose,Rivera,23,Male,Cambodia,"BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+59711,4qL5l,Sofia,Gonzalez,20,Female,Indonesia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+14050,KSNDt,Isabela,Torres,34,Female,Indonesia,"BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+89375,YDlVF,Rosa,Gonzalez,34,Female,Thailand,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+75646,1MBrW,Antonio,Martinez,26,Male,Philippines,"BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7003 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+44496,xz7h0,Carlos,Ramos,30,Male,Cambodia,"BCO7002 (Sem 4, Credits 12)",Leadership and Strategic Management
+37360,X6ntO,Angelica,Garcia,26,Female,Vietnam,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+86250,g4nhn,Fernando,Torres,26,Male,Myanmar,"BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+77117,YqBJv,Veronica,Torres,22,Female,Laos,"BAO6504 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+69285,GlZPQ,Isabela,Gonzalez,25,Female,Myanmar,"BCO7005 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+15179,FtHhu,Ricardo,Torres,34,Male,Cambodia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+03313,qd0xm,Jessica,Cruz,25,Female,Laos,"	
+WOM1000 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+18569,pA1FN,Maria,Morales,32,Female,Malaysia,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+31015,NS57g,Carlos,Torres,27,Male,Malaysia,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12)",Leadership and Strategic Management
+07776,yCMaW,Ricardo,Gonzalez,19,Male,Myanmar,"BCO7007 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+74820,olDPB,Rosa,Gonzalez,33,Female,Vietnam,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Operations and Supply Chain Management
+49277,Kcr0j,Miguel,Morales,20,Male,Indonesia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+59745,hNd4n,Luisa,Garcia,22,Female,Cambodia,"BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Leadership and Strategic Management
+03990,azfiT,Juan,Cruz,29,Male,Singapore,"BCO7000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+89329,rSiVI,Alicia,Morales,28,Female,Indonesia,"BAO6504 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+14249,9z2ZZ,Angelica,Reyes,32,Female,Malaysia,"BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+40432,0WAaQ,Rosa,Santos,33,Female,Vietnam,"BCO7002 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Information Technology and Systems
+66416,zvdyH,Alberto,Flores,31,Male,Thailand,"BCO7006 (Sem 1, Credits 12)",Digital Media and Content Creation
+47618,3HKth,Rosa,Santos,21,Female,Malaysia,"BCO7007 (Sem 2, Credits 12)",Financial and Managerial Accounting
+35823,bio0Q,Ismael,Ramos,35,Male,Thailand,"BCO7005 (Sem 2, Credits 12)",Digital Media and Content Creation
+44852,w0GI0,Juan,Fernandez,18,Male,Brunei,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+66335,1OGPm,Sofia,Flores,28,Female,Laos,"BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+81915,XF8Mk,Fernando,Torres,25,Male,Singapore,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+14845,1buP8,Juan,Cruz,19,Male,Indonesia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+46130,DK2NY,Alicia,Torres,30,Female,Vietnam,"BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+31695,KQorR,Maria,Reyes,21,Female,Singapore,"BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+93826,XyIJw,Carlos,Morales,19,Male,Cambodia,"BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",Information Technology and Systems
+55617,YxUbN,Carlos,Morales,29,Male,Laos,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BAO6504 (Sem 1, Credits 12)",Information Technology and Systems
+81535,vLVRk,Juan,Cruz,28,Male,Laos,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",General Business and Management
+92328,GvHyd,Veronica,Reyes,18,Female,Thailand,"BCO7002 (Sem 4, Credits 12)",Leadership and Strategic Management
+23823,Ju5Ca,Jose,Fernandez,27,Male,Indonesia,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+97810,CY3iH,Luisa,Martinez,35,Female,Brunei,"BCO7005 (Sem 2, Credits 12), BCO7006 (Sem 1, Credits 12)",Operations and Supply Chain Management
+49557,1jqtx,Maria,Cruz,34,Female,Laos,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+40107,ezCHE,Antonio,Fernandez,18,Male,Vietnam,"BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+24245,L7RBE,Veronica,Ramos,32,Female,Laos,"BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+97129,eppVH,Antonio,Santos,32,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+22725,ZzK2f,Ismael,Torres,22,Male,Cambodia,"BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",General Business and Management
+28162,CFSr5,Alberto,Rivera,27,Male,Cambodia,"BCO7004 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+63756,2ApFN,Alicia,Ramos,25,Female,Myanmar,"BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Operations and Supply Chain Management
+18268,0PvFt,Angelica,Gonzalez,31,Female,Cambodia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+10637,Zx3OW,Alberto,Cruz,29,Male,Philippines,"	
+WOM1000 (Sem 1, Credits 12)",Leadership and Strategic Management
+38075,AQbJh,Roberto,Torres,29,Male,Indonesia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",General Business and Management
+98172,aSNeD,Roberto,Reyes,32,Male,Cambodia,"BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+03189,2B8pQ,Ismael,Martinez,28,Male,Laos,"BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+19617,KFf49,Maria,Santos,25,Female,Malaysia,"BCO7000 (Sem 1, Credits 12)",Leadership and Strategic Management
+81648,4jtTD,Alicia,Torres,18,Female,Myanmar,"	
+WOM1000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+33247,6wO0g,Ricardo,Rivera,28,Male,Brunei,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+57567,3Zphl,Rosa,Gonzalez,32,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+10595,5WMBq,Ismael,Cruz,29,Male,Cambodia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12)",Financial and Managerial Accounting
+83399,6FRwh,Ricardo,Ramos,32,Male,Malaysia,"BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+92967,UPsPv,Isabela,Martinez,27,Female,Malaysia,"BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+73966,X22LS,Rosa,Gonzalez,32,Female,Indonesia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+88904,dSh8s,Alicia,Flores,35,Female,Brunei,"BCO7002 (Sem 4, Credits 12)",Leadership and Strategic Management
+93184,aQMKF,Juan,Torres,24,Male,Thailand,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Operations and Supply Chain Management
+93411,nsuB3,Sofia,Flores,31,Female,Brunei,"BCO7002 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+85210,25riU,Luisa,Torres,24,Female,Vietnam,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO6008 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+27119,y5eQ5,Carmen,Santos,32,Female,Thailand,"BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+74144,raYLK,Carlos,Flores,33,Male,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+32026,DHIjt,Sofia,Reyes,24,Female,Vietnam,"BCO7004 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+21073,nupYH,Rosa,Morales,31,Female,Indonesia,"BCO7000 (Sem 1, Credits 12)",Leadership and Strategic Management
+02738,Dyjqp,Ricardo,Fernandez,29,Male,Brunei,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+58711,zGYuO,Angelica,Flores,23,Female,Indonesia,"BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+73079,y5Ro0,Roberto,Garcia,30,Male,Thailand,"BCO7000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+76722,1TpsM,Fernando,Cruz,28,Male,Thailand,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+09290,T33Hw,Juan,Gonzalez,25,Male,Brunei,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12), BAO6504 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+87366,wpRQ7,Roberto,Gonzalez,29,Male,Singapore,"BEO6600 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+24660,SlXwe,Juan,Fernandez,22,Male,Myanmar,"BCO6008 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12)",General Business and Management
+47013,87Ep2,Antonio,Flores,34,Male,Thailand,"BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+89520,MdabW,Rosa,Reyes,29,Female,Thailand,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+18864,QNKZU,Fernando,Flores,29,Male,Brunei,"BAO6504 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+46644,K8hGe,Sofia,Gonzalez,25,Female,Philippines,"BCO7004 (Sem 4, Credits 12)",Digital Media and Content Creation
+45052,cgnsL,Angelica,Fernandez,19,Female,Brunei,"BEO6000 (Sem 3, Credits 12)",General Business and Management
+98559,ejucQ,Veronica,Reyes,22,Female,Singapore,"BCO7002 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+98103,Xnn9f,Juan,Flores,32,Male,Philippines,"BAO6504 (Sem 1, Credits 12)",General Business and Management
+24646,PgZUk,Fernando,Flores,35,Male,Philippines,"BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+60653,rBbif,Angelica,Fernandez,22,Female,Philippines,"BCO7005 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Information Technology and Systems
+24688,ViTSO,Antonio,Fernandez,32,Male,Brunei,"	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+47804,Gna5M,Miguel,Fernandez,26,Male,Indonesia,"BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+34923,kfR4X,Alicia,Gonzalez,35,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Digital Media and Content Creation
+82000,eiPj6,Carmen,Cruz,23,Female,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+71236,NFycx,Maria,Flores,34,Female,Cambodia,"BCO7004 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+94324,dW262,Veronica,Rivera,22,Female,Laos,"BAO6504 (Sem 1, Credits 12)",Financial and Managerial Accounting
+04019,IweIR,Alicia,Reyes,33,Female,Vietnam,"	
+WOM1000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+22937,tTdVT,Antonio,Garcia,32,Male,Cambodia,"BCO7007 (Sem 2, Credits 12)",Financial and Managerial Accounting
+51054,n6Ypv,Ricardo,Garcia,24,Male,Laos,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+19600,PGvrl,Rosa,Ramos,21,Female,Cambodia,"BEO6000 (Sem 3, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+34904,QRriW,Rosa,Cruz,22,Female,Philippines,"BEO6000 (Sem 3, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12)",Information Technology and Systems
+96815,k0Tc9,Maria,Fernandez,29,Female,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+36185,UNsEN,Juan,Flores,27,Male,Indonesia,"BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+49911,UJclz,Jose,Rivera,30,Male,Thailand,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+21222,cgbmR,Jose,Morales,33,Male,Brunei,"BCO7005 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Information Technology and Systems
+54086,WfTdr,Antonio,Morales,32,Male,Cambodia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+85176,myWYg,Ricardo,Ramos,32,Male,Myanmar,"BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+98839,uWvHC,Ismael,Fernandez,18,Male,Cambodia,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12), BCO6008 (Sem 2, Credits 12)",Information Technology and Systems
+54029,U7xpN,Roberto,Rivera,24,Male,Laos,"BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+74904,Tbiri,Angelica,Fernandez,23,Female,Singapore,"BAO6504 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+42279,owrIH,Jessica,Ramos,21,Female,Brunei,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6600 (Sem 2, Credits 12)",Marketing Strategy and Consumer Behavior
+35270,xI4eG,Roberto,Santos,30,Male,Indonesia,"BAO6504 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+25512,V3wnx,Maria,Flores,25,Female,Cambodia,"BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Information Technology and Systems
+51935,ml99V,Roberto,Ramos,21,Male,Myanmar,"BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+10710,EpTmX,Angelica,Garcia,29,Female,Singapore,"BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+34974,RPAR6,Fernando,Rivera,20,Male,Brunei,"BEO6600 (Sem 2, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+75556,41YUX,Isabela,Ramos,28,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12)",Information Technology and Systems
+24676,ma5nN,Alberto,Torres,24,Male,Vietnam,"BEO6600 (Sem 2, Credits 12), BCO7000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12)",Leadership and Strategic Management
+93095,lBANt,Carlos,Fernandez,25,Male,Thailand,"BCO7004 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+69546,pjF4z,Angelica,Reyes,21,Female,Vietnam,"BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+30460,e8A0n,Roberto,Ramos,32,Male,Cambodia,"BCO7002 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12)",Information Technology and Systems
+06094,pzyhx,Ricardo,Cruz,32,Male,Indonesia,"BCO7004 (Sem 4, Credits 12), BCO7006 (Sem 1, Credits 12)",Digital Media and Content Creation
+62754,HV5s9,Carlos,Fernandez,23,Male,Brunei,"BCO7004 (Sem 4, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+58064,6nsN3,Ricardo,Reyes,22,Male,Myanmar,"BCO7002 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+98086,N4o7P,Angelica,Santos,25,Female,Philippines,"	
+WOM1000 (Sem 1, Credits 12)",Digital Media and Content Creation
+30429,6Z4JL,Alicia,Torres,34,Female,Thailand,"BEO6000 (Sem 3, Credits 12), BCO7005 (Sem 2, Credits 12), BAO6504 (Sem 1, Credits 12)",Digital Media and Content Creation
+64495,6GWxf,Rosa,Garcia,21,Female,Brunei,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+67875,NPZ23,Juan,Martinez,29,Male,Malaysia,"BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+14439,g905X,Isabela,Ramos,34,Female,Brunei,"BEO6000 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+56584,uXMhX,Rosa,Flores,28,Female,Singapore,"BCO7006 (Sem 1, Credits 12)",Operations and Supply Chain Management
+15924,w0CTg,Ismael,Torres,25,Male,Myanmar,"BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+63836,LLW86,Carmen,Morales,35,Female,Laos,"BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
+14594,KeF1D,Rosa,Martinez,29,Female,Myanmar,"BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+53883,t5Vsb,Carlos,Cruz,25,Male,Philippines,"BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+28262,Y0vCx,Carlos,Morales,33,Male,Laos,"BCO7000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+48740,f3g4N,Ricardo,Santos,23,Male,Indonesia,"	
+WOM1000 (Sem 1, Credits 12)",Data-Driven Decision Making and Analytics
+24054,SF5IZ,Angelica,Ramos,21,Female,Philippines,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), 	
+WOM1000 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Operations and Supply Chain Management
+19317,p2tpE,Luisa,Torres,30,Female,Philippines,"BCO7006 (Sem 1, Credits 12)",General Business and Management
+73326,vP8Ma,Angelica,Garcia,26,Female,Indonesia,"BCO7003 (Sem 1, Credits 12)",Operations and Supply Chain Management
+69432,lK19W,Fernando,Cruz,18,Male,Philippines,"BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+46936,YVzUO,Jessica,Torres,23,Female,Singapore,"BCO6008 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+06651,CJhh8,Luisa,Reyes,34,Female,Singapore,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+28834,0U4rx,Roberto,Morales,35,Male,Thailand,"	
+WOM1000 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+08604,g4tzy,Sofia,Morales,33,Female,Myanmar,"BAO6504 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+88164,EPlQg,Alicia,Santos,31,Female,Laos,"	
+WOM1000 (Sem 1, Credits 12), BCO6008 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Information Technology and Systems
+05543,blHVg,Rosa,Fernandez,24,Female,Singapore,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+01409,vPTT4,Maria,Cruz,24,Female,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7003 (Sem 1, Credits 12)",Operations and Supply Chain Management
+78415,atN5T,Carmen,Santos,29,Female,Laos,"BCO6008 (Sem 2, Credits 12)",Leadership and Strategic Management
+01553,cI2Z3,Rosa,Santos,20,Female,Thailand,"BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+28381,PN4Xs,Fernando,Reyes,23,Male,Philippines,"BCO7002 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12)",Operations and Supply Chain Management
+05704,uvJyd,Sofia,Reyes,18,Female,Philippines,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Leadership and Strategic Management
+27078,yzMoo,Sofia,Morales,30,Female,Brunei,"BCO7002 (Sem 4, Credits 12), BCO7005 (Sem 2, Credits 12)",Digital Media and Content Creation
+15542,Wz7Wk,Ricardo,Ramos,22,Male,Vietnam,"BCO7003 (Sem 1, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+69580,owTYK,Antonio,Torres,26,Male,Cambodia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BEO6600 (Sem 2, Credits 12), BCO7002 (Sem 4, Credits 12)",Digital Media and Content Creation
+59335,Aq50t,Carmen,Garcia,30,Female,Philippines,"BAO6504 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Digital Media and Content Creation
+65292,LHeQN,Isabela,Morales,33,Female,Laos,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Financial and Managerial Accounting
+62798,xcp8e,Sofia,Torres,31,Female,Thailand,"BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+11933,rbgqb,Miguel,Flores,33,Male,Cambodia,"BAO6504 (Sem 1, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",General Business and Management
+93472,Mdvji,Fernando,Cruz,26,Male,Thailand,"BCO7004 (Sem 4, Credits 12), BCO6008 (Sem 2, Credits 12)",Operations and Supply Chain Management
+80016,vnSU1,Jose,Gonzalez,30,Male,Myanmar,"BCO7000 (Sem 1, Credits 12), BCO7006 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+32460,ftag8,Sofia,Torres,27,Female,Laos,"BCO7000 (Sem 1, Credits 12), BCO7002 (Sem 4, Credits 12)",Marketing Strategy and Consumer Behavior
+10577,vzLgp,Rosa,Fernandez,24,Female,Malaysia,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BCO7007 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Marketing Strategy and Consumer Behavior
+70079,2a0Mu,Roberto,Ramos,29,Male,Myanmar,"BEO6000 (Sem 3, Credits 12), BCO7006 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+12570,Nm1P7,Veronica,Cruz,21,Female,Vietnam,"BCO7004 (Sem 4, Credits 12)",Data-Driven Decision Making and Analytics
+15996,JH10w,Angelica,Gonzalez,30,Female,Laos,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12)",Financial and Managerial Accounting
+47240,bE6jJ,Rosa,Ramos,25,Female,Myanmar,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BCO7003 (Sem 1, Credits 12), BCO7005 (Sem 2, Credits 12)",Financial and Managerial Accounting
+32043,oeKgn,Miguel,Cruz,21,Male,Thailand,"BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+38778,aj0et,Isabela,Gonzalez,25,Female,Singapore,"BCO7000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Digital Media and Content Creation
+78549,9ay2h,Antonio,Santos,31,Male,Philippines,"BEO6000 (Sem 3, Credits 12), BCO7004 (Sem 4, Credits 12)",Financial and Managerial Accounting
+34396,GRjIm,Isabela,Martinez,21,Female,Malaysia,"BCO7007 (Sem 2, Credits 12)",Leadership and Strategic Management
+89725,0KYo7,Veronica,Ramos,31,Female,Brunei,"	
+WOM1000 (Sem 1, Credits 12)",Financial and Managerial Accounting
+10064,NvIfE,Maria,Cruz,26,Female,Indonesia,"BCO7006 (Sem 1, Credits 12), BCO7004 (Sem 4, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+00796,nKanW,Ricardo,Torres,26,Male,Malaysia,"BCO7003 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Data-Driven Decision Making and Analytics
+02664,8GdM5,Sofia,Martinez,31,Female,Vietnam,"BCO7004 (Sem 4, Credits 12), BCO7000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Data-Driven Decision Making and Analytics
+35339,aoxw8,Alberto,Ramos,31,Male,Cambodia,"BCO7000 (Sem 3, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6000 (Sem 3, Credits 12)",Operations and Supply Chain Management
+57653,YHi2y,Ricardo,Morales,33,Male,Indonesia,"BEO6000 (Sem 3, Credits 12), BCO7002 (Sem 4, Credits 12), BEO6600 (Sem 2, Credits 12)",Financial and Managerial Accounting
+69605,lhPqC,Isabela,Cruz,31,Female,Philippines,"BCO7000 (Sem 2, Credits 12), BCO7006 (Sem 3, Credits 12), BEO6600 (Sem 2, Credits 12), BEO6000 (Sem 3, Credits 12)",Leadership and Strategic Management
+83277,mfjgz,Maria,Cruz,22,Female,Myanmar,"BCO7005 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12)",Operations and Supply Chain Management
+06688,1ZnX5,Carmen,Reyes,33,Female,Malaysia,"BCO7000 (Sem 4, Credits 12), BCO7006 (Sem 4, Credits 12), BCO7007 (Sem 2, Credits 12), BCO7004 (Sem 4, Credits 12), BAO6504 (Sem 1, Credits 12)",Marketing Strategy and Consumer Behavior
+19060,CDEbU,Sofia,Cruz,28,Female,Brunei,"	
+WOM1000 (Sem 1, Credits 12), BEO6600 (Sem 2, Credits 12)",Information Technology and Systems
