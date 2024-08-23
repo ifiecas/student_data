@@ -1,0 +1,1090 @@
+st_id,password,first_name,last_name,age,gender,nationality,completed_units_1,completed_units_1_sem,completed_units_2,completed_units_2_sem,completed_units_3,completed_units_3_sem,interest
+65233,d3rJF,Fernando,Morales,32,Male,Laos,BCO7000,2,BCO7006,1.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+65956,zCYAn,Jessica,Santos,35,Female,Vietnam,BCO7004,4,BEO6000,3.0,BCO7003,1.0,Marketing Strategy and Consumer Behavior
+22829,DgOln,Jessica,Rivera,22,Female,Cambodia,BCO7002,4,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+59053,tSw5g,Roberto,Torres,25,Male,Singapore,BEO6600,2,,,,,Data-Driven Decision Making and Analytics
+13384,jDzGL,Carlos,Fernandez,22,Male,Myanmar,BCO7000,4,BCO7006,1.0,BCO7002,4.0,General Business and Management
+63547,MGsXs,Jose,Fernandez,18,Male,Vietnam,BCO7006,1,BEO6000,3.0,BCO7004,4.0,Information Technology and Systems
+52339,XVgf8,Ismael,Ramos,27,Male,Cambodia,BCO7004,4,"	
+WOM1000",1.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+89952,n63OX,Miguel,Rivera,35,Male,Laos,BCO7000,1,,,,,Operations and Supply Chain Management
+74973,Ugt8d,Roberto,Torres,21,Male,Thailand,BEO6000,3,BCO7005,2.0,,,Financial and Managerial Accounting
+48519,5ASMy,Jose,Santos,18,Male,Singapore,BCO7005,2,BEO6000,3.0,,,Leadership and Strategic Management
+34362,FVrVu,Carmen,Ramos,35,Female,Indonesia,BCO7004,4,BEO6000,3.0,,,General Business and Management
+35971,j7xA0,Angelica,Santos,23,Female,Thailand,BCO7005,2,BCO7000,1.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+81522,5IpP5,Alberto,Ramos,30,Male,Malaysia,BCO7002,4,BCO7005,2.0,,,Data-Driven Decision Making and Analytics
+62654,upN72,Veronica,Morales,25,Female,Malaysia,BCO7000,4,BCO7006,1.0,"	
+WOM1000",1.0,Data-Driven Decision Making and Analytics
+94900,kyBCP,Isabela,Martinez,26,Female,Cambodia,BAO6504,1,BCO7007,2.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+01048,Z8F9l,Rosa,Rivera,29,Female,Philippines,BEO6600,2,BCO7000,1.0,BCO7004,4.0,Information Technology and Systems
+60138,VwUAk,Antonio,Fernandez,28,Male,Indonesia,BCO7000,2,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+64516,dzepa,Maria,Ramos,31,Female,Philippines,BEO6000,3,BCO7000,1.0,,,Leadership and Strategic Management
+66221,RNo1J,Rosa,Ramos,35,Female,Indonesia,BCO6008,2,,,,,Operations and Supply Chain Management
+93290,j96Yl,Miguel,Rivera,28,Male,Myanmar,BCO7002,4,BAO6504,1.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+49920,37teg,Roberto,Santos,30,Male,Indonesia,BCO7000,1,BCO6008,2.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+25764,RmhHn,Veronica,Cruz,23,Female,Myanmar,BCO7004,4,BCO7003,1.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+45203,XstEP,Carmen,Garcia,20,Female,Indonesia,BCO7002,4,,,,,Marketing Strategy and Consumer Behavior
+32329,Ms5eG,Isabela,Santos,20,Female,Singapore,BEO6600,2,,,,,Operations and Supply Chain Management
+81548,eddt0,Luisa,Santos,35,Female,Malaysia,BCO7006,1,,,,,General Business and Management
+66334,wQ1pv,Rosa,Ramos,27,Female,Laos,BCO6008,2,,,,,Leadership and Strategic Management
+70147,yXILN,Miguel,Ramos,26,Male,Vietnam,BCO7002,4,,,,,Operations and Supply Chain Management
+51388,eib7C,Roberto,Martinez,25,Male,Brunei,BAO6504,1,BCO7004,4.0,,,Financial and Managerial Accounting
+20786,qdMk3,Fernando,Torres,23,Male,Brunei,BCO7004,4,BEO6600,2.0,,,Digital Media and Content Creation
+60998,9sNlp,Sofia,Fernandez,29,Female,Vietnam,BCO7000,1,BCO7004,4.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+47743,ghVlk,Luisa,Morales,33,Female,Singapore,BCO7007,2,BEO6000,3.0,"	
+WOM1000",1.0,Operations and Supply Chain Management
+22712,fJ8ep,Alberto,Torres,28,Male,Philippines,BEO6000,3,,,,,General Business and Management
+60918,yabR2,Angelica,Torres,34,Female,Brunei,BCO7002,4,BCO7005,2.0,BEO6000,3.0,Digital Media and Content Creation
+02897,c4FiV,Antonio,Martinez,25,Male,Laos,BCO6008,2,,,,,Information Technology and Systems
+01944,ujSPZ,Jessica,Santos,21,Female,Philippines,BCO6008,2,BCO7000,1.0,,,Operations and Supply Chain Management
+77082,i0Alq,Luisa,Ramos,19,Female,Thailand,BCO7000,2,BCO7006,2.0,BCO7007,2.0,General Business and Management
+86087,90W2o,Juan,Flores,31,Male,Thailand,BEO6000,3,BCO6008,2.0,,,Digital Media and Content Creation
+19702,UWKr0,Antonio,Garcia,20,Male,Singapore,BEO6600,2,BEO6000,3.0,,,Leadership and Strategic Management
+19938,EStDC,Sofia,Rivera,22,Female,Indonesia,BEO6000,3,,,,,Financial and Managerial Accounting
+40120,klzPq,Angelica,Martinez,19,Female,Cambodia,BCO6008,2,BEO6000,3.0,BCO7004,4.0,Financial and Managerial Accounting
+99073,l9RGn,Maria,Morales,28,Female,Cambodia,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Financial and Managerial Accounting
+82588,XQnh7,Sofia,Ramos,35,Female,Philippines,BCO7002,4,,,,,Information Technology and Systems
+54603,pI2Sv,Sofia,Flores,25,Female,Brunei,BCO7003,1,BCO7004,4.0,BEO6000,3.0,Information Technology and Systems
+87811,Vuy6n,Jessica,Morales,30,Female,Thailand,BCO7002,4,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+46341,AJqLO,Jessica,Martinez,26,Female,Indonesia,BCO7007,2,,,,,Information Technology and Systems
+49801,r7Hqs,Roberto,Flores,30,Male,Thailand,BCO7007,2,,,,,Digital Media and Content Creation
+04375,DeA2F,Carlos,Ramos,25,Male,Laos,BCO7005,2,BCO7002,4.0,,,Leadership and Strategic Management
+08645,11fAq,Alicia,Morales,26,Female,Myanmar,BCO7002,4,BEO6000,3.0,,,General Business and Management
+06267,4LWCu,Fernando,Reyes,21,Male,Laos,BCO7000,3,BCO7006,1.0,BEO6000,3.0,General Business and Management
+74740,qDoVE,Carmen,Torres,24,Female,Brunei,BCO7000,3,BCO7006,4.0,BEO6000,3.0,Leadership and Strategic Management
+49628,86bQM,Luisa,Flores,35,Female,Cambodia,BEO6000,3,BEO6600,2.0,,,Data-Driven Decision Making and Analytics
+98021,6wrb7,Jessica,Cruz,35,Female,Malaysia,BCO6008,2,,,,,Digital Media and Content Creation
+78425,hNUgA,Carmen,Rivera,25,Female,Singapore,BEO6000,3,,,,,General Business and Management
+87074,XhE4N,Jessica,Fernandez,25,Female,Philippines,BEO6000,3,BCO6008,2.0,,,Marketing Strategy and Consumer Behavior
+50500,lGnIo,Luisa,Santos,28,Female,Indonesia,BEO6000,3,BCO7007,2.0,,,Operations and Supply Chain Management
+87385,IVeVy,Antonio,Martinez,35,Male,Laos,BCO7004,4,BCO7003,1.0,BEO6600,2.0,Digital Media and Content Creation
+36209,6VuWr,Isabela,Flores,19,Female,Malaysia,BCO7002,4,"	
+WOM1000",1.0,BCO6008,2.0,Financial and Managerial Accounting
+22404,32Gbk,Roberto,Fernandez,21,Male,Thailand,BCO7002,4,BEO6000,3.0,,,Leadership and Strategic Management
+20487,rzPvF,Carmen,Reyes,29,Female,Vietnam,BCO7000,4,BCO7006,2.0,BCO7004,4.0,Digital Media and Content Creation
+05492,jtmss,Jose,Martinez,35,Male,Laos,BCO7000,1,BCO7006,1.0,,,Data-Driven Decision Making and Analytics
+66429,4Swyp,Juan,Rivera,27,Male,Laos,BCO7002,4,,,,,Data-Driven Decision Making and Analytics
+13387,G9PLF,Jose,Torres,21,Male,Malaysia,BCO7003,1,BCO7002,4.0,BEO6000,3.0,Digital Media and Content Creation
+08576,YqdeV,Carlos,Fernandez,28,Male,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Digital Media and Content Creation
+82771,vS7vQ,Sofia,Cruz,22,Female,Indonesia,BCO7002,4,BCO7005,2.0,,,Data-Driven Decision Making and Analytics
+69597,yjgWm,Alicia,Ramos,22,Female,Vietnam,BCO7002,4,BEO6000,3.0,,,Leadership and Strategic Management
+99772,QAw9d,Alicia,Santos,19,Female,Thailand,BCO6008,2,,,,,Financial and Managerial Accounting
+78025,cXGHw,Isabela,Rivera,20,Female,Indonesia,BCO7000,2,BCO7006,2.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+10338,5wVpJ,Rosa,Santos,32,Female,Philippines,BEO6000,3,BCO7003,1.0,,,Data-Driven Decision Making and Analytics
+11820,lxDOM,Ricardo,Martinez,18,Male,Thailand,BCO7006,1,,,,,Leadership and Strategic Management
+03596,Y39WY,Rosa,Martinez,32,Female,Cambodia,BCO7000,1,BCO7006,4.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+32311,bJYZ3,Ricardo,Rivera,22,Male,Thailand,"	
+WOM1000",1,BEO6000,3.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+01668,Q5YKj,Isabela,Reyes,28,Female,Cambodia,BCO7004,4,"	
+WOM1000",1.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+57441,MrXjb,Rosa,Rivera,24,Female,Vietnam,BCO6008,2,BCO7002,4.0,"	
+WOM1000",1.0,Leadership and Strategic Management
+16096,SAx0t,Carlos,Martinez,22,Male,Laos,BCO7003,1,BCO7002,4.0,BEO6000,3.0,General Business and Management
+09268,Y9Tdc,Juan,Martinez,19,Male,Cambodia,BEO6000,3,,,,,Digital Media and Content Creation
+69195,tOy60,Alberto,Fernandez,19,Male,Laos,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+34636,To1ys,Isabela,Torres,25,Female,Myanmar,BEO6000,3,BCO7002,4.0,BEO6600,2.0,Operations and Supply Chain Management
+05251,eSdzY,Jessica,Santos,28,Female,Singapore,BCO7004,4,,,,,Operations and Supply Chain Management
+24485,BAhH0,Ismael,Gonzalez,22,Male,Vietnam,BCO7003,1,,,,,Financial and Managerial Accounting
+96327,c14YA,Antonio,Garcia,31,Male,Cambodia,BEO6600,2,BEO6000,3.0,BCO7004,4.0,Financial and Managerial Accounting
+40354,SEfct,Jessica,Rivera,20,Female,Philippines,BCO7003,1,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+61630,0LUVh,Veronica,Cruz,26,Female,Malaysia,BCO7007,2,BEO6000,3.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+35012,TXt0C,Roberto,Morales,30,Male,Thailand,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+86430,HAP8y,Angelica,Torres,33,Female,Myanmar,BEO6000,3,,,,,Leadership and Strategic Management
+89239,0v5KI,Alberto,Santos,32,Male,Vietnam,BCO7002,4,BEO6600,2.0,BCO7006,1.0,Leadership and Strategic Management
+89952,2J9ro,Ricardo,Cruz,28,Male,Singapore,BCO7007,2,BCO7002,4.0,BCO7000,1.0,Marketing Strategy and Consumer Behavior
+97975,iDuaR,Juan,Santos,33,Male,Brunei,BEO6000,3,BCO7002,4.0,,,Leadership and Strategic Management
+87462,zg912,Roberto,Martinez,25,Male,Laos,BCO7004,4,BEO6000,3.0,BCO7005,2.0,Operations and Supply Chain Management
+19587,TX4iS,Sofia,Cruz,31,Female,Malaysia,BCO6008,2,,,,,General Business and Management
+60185,SYN15,Luisa,Morales,23,Female,Cambodia,BCO7004,4,BEO6000,3.0,"	
+WOM1000",1.0,Financial and Managerial Accounting
+27287,ARG1d,Fernando,Cruz,19,Male,Thailand,BCO7007,2,,,,,Information Technology and Systems
+78749,Ghxm2,Maria,Flores,19,Female,Brunei,BCO7000,1,BEO6600,2.0,BCO7002,4.0,General Business and Management
+46576,utr6M,Roberto,Santos,18,Male,Indonesia,BCO7007,2,,,,,Financial and Managerial Accounting
+44258,u1Zvu,Veronica,Fernandez,22,Female,Vietnam,BEO6000,3,BCO6008,2.0,BCO7003,1.0,General Business and Management
+19951,AVx6l,Miguel,Gonzalez,28,Male,Vietnam,BCO7002,4,BEO6000,3.0,BCO7005,2.0,Financial and Managerial Accounting
+09389,obvcE,Isabela,Santos,35,Female,Brunei,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Digital Media and Content Creation
+96052,znCcx,Ismael,Martinez,18,Male,Philippines,BEO6000,3,,,,,Information Technology and Systems
+13753,E6NJt,Alberto,Flores,28,Male,Singapore,BEO6000,3,,,,,General Business and Management
+42364,BaK6r,Ismael,Morales,19,Male,Philippines,BEO6000,3,BCO7004,4.0,BAO6504,1.0,Leadership and Strategic Management
+15026,4e2mE,Angelica,Fernandez,30,Female,Laos,BCO7000,1,BCO7006,1.0,BCO7003,1.0,Financial and Managerial Accounting
+89170,pLA8D,Carmen,Garcia,23,Female,Philippines,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Leadership and Strategic Management
+22253,Wcw12,Jessica,Cruz,25,Female,Myanmar,BCO7005,2,,,,,Information Technology and Systems
+83585,P3NmS,Maria,Cruz,32,Female,Philippines,BEO6000,3,"	
+WOM1000",1.0,,,Financial and Managerial Accounting
+23923,dgThB,Jose,Fernandez,28,Male,Cambodia,BCO7007,2,,,,,Leadership and Strategic Management
+28370,GdDcn,Alicia,Flores,23,Female,Singapore,BCO7000,3,BCO7006,4.0,BEO6000,3.0,Digital Media and Content Creation
+68117,ycuFA,Carlos,Fernandez,35,Male,Thailand,BEO6000,3,,,,,Operations and Supply Chain Management
+90911,UyHM1,Carmen,Garcia,33,Female,Philippines,BAO6504,1,,,,,Data-Driven Decision Making and Analytics
+23022,3Lf7j,Angelica,Santos,23,Female,Indonesia,BEO6000,3,,,,,Digital Media and Content Creation
+69289,0BxtI,Miguel,Ramos,28,Male,Laos,BCO7000,4,BCO7006,2.0,BCO7005,2.0,Data-Driven Decision Making and Analytics
+96308,vuugh,Juan,Rivera,25,Male,Malaysia,BCO7000,1,BCO7006,1.0,,,Data-Driven Decision Making and Analytics
+17605,DhxXn,Fernando,Garcia,23,Male,Philippines,BCO7007,2,BCO7002,4.0,,,Data-Driven Decision Making and Analytics
+45749,5Bx47,Ricardo,Rivera,28,Male,Indonesia,BEO6600,2,,,,,Operations and Supply Chain Management
+84185,XNPpS,Sofia,Reyes,32,Female,Indonesia,BCO7000,1,BEO6000,3.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+56951,SATSt,Juan,Torres,31,Male,Vietnam,BCO7007,2,,,,,General Business and Management
+78885,LrCvQ,Carlos,Fernandez,22,Male,Thailand,BEO6000,3,BCO7003,1.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+71926,YL3EA,Rosa,Torres,22,Female,Brunei,BCO7000,1,BCO7006,4.0,BCO7002,4.0,Leadership and Strategic Management
+30236,8sssP,Jose,Fernandez,29,Male,Philippines,BEO6000,3,"	
+WOM1000",1.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+37365,EjGFB,Antonio,Garcia,21,Male,Indonesia,BEO6600,2,,,,,Data-Driven Decision Making and Analytics
+27563,BnIjt,Jessica,Torres,23,Female,Vietnam,BCO7002,4,,,,,Financial and Managerial Accounting
+16139,p2E7C,Ismael,Reyes,23,Male,Malaysia,BCO7002,4,,,,,Financial and Managerial Accounting
+48926,gCHYg,Alicia,Fernandez,26,Female,Myanmar,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Information Technology and Systems
+05747,U94bt,Roberto,Morales,28,Male,Thailand,BCO7000,1,BCO7006,1.0,BAO6504,1.0,Marketing Strategy and Consumer Behavior
+07663,LHnqv,Jose,Santos,35,Male,Malaysia,BCO7000,3,BCO7006,2.0,BCO7007,2.0,Leadership and Strategic Management
+35678,Nnrm9,Angelica,Ramos,20,Female,Laos,BCO7000,2,BCO7006,2.0,BCO7004,4.0,Financial and Managerial Accounting
+32882,UUcgc,Antonio,Flores,22,Male,Myanmar,BEO6000,3,,,,,Leadership and Strategic Management
+40943,XvbEu,Jose,Santos,31,Male,Brunei,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+52920,woSER,Luisa,Fernandez,28,Female,Laos,BCO7004,4,,,,,Financial and Managerial Accounting
+61129,3GvY2,Fernando,Fernandez,33,Male,Brunei,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Digital Media and Content Creation
+38369,eUMut,Sofia,Gonzalez,27,Female,Vietnam,BCO7000,4,BCO7006,3.0,BCO7004,4.0,Financial and Managerial Accounting
+16831,GjFWI,Angelica,Morales,32,Female,Cambodia,BCO7000,1,BEO6000,3.0,BCO6008,2.0,Digital Media and Content Creation
+38963,UawLj,Alberto,Reyes,35,Male,Vietnam,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Operations and Supply Chain Management
+71748,VK8rA,Alicia,Reyes,25,Female,Vietnam,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+99479,e8gyi,Luisa,Reyes,26,Female,Singapore,BCO7006,1,,,,,Operations and Supply Chain Management
+42577,S2r4Z,Maria,Flores,19,Female,Laos,BCO7000,3,BCO7006,3.0,BCO7004,4.0,Digital Media and Content Creation
+65844,Szcli,Fernando,Ramos,22,Male,Singapore,BEO6000,3,BCO7007,2.0,,,Financial and Managerial Accounting
+75776,YYJGl,Jose,Rivera,34,Male,Laos,BCO7000,1,BCO7006,1.0,BCO7005,2.0,Operations and Supply Chain Management
+05422,lC4iu,Ismael,Reyes,19,Male,Indonesia,BCO6008,2,,,,,Information Technology and Systems
+36508,wHcN1,Carmen,Rivera,26,Female,Cambodia,BCO7004,4,,,,,General Business and Management
+73040,P0AMw,Carlos,Morales,33,Male,Myanmar,BCO7007,2,BEO6000,3.0,"	
+WOM1000",1.0,Data-Driven Decision Making and Analytics
+88556,qoz9p,Luisa,Santos,21,Female,Singapore,BCO7002,4,,,,,Marketing Strategy and Consumer Behavior
+01242,5jcK4,Angelica,Rivera,26,Female,Cambodia,BCO7000,1,BCO7004,4.0,BEO6000,3.0,Operations and Supply Chain Management
+18414,1OIhf,Juan,Santos,27,Male,Indonesia,BEO6000,3,BCO7005,2.0,,,General Business and Management
+10145,d5sFU,Jose,Martinez,28,Male,Laos,BCO7007,2,,,,,Information Technology and Systems
+61365,dckpz,Sofia,Fernandez,24,Female,Vietnam,"	
+WOM1000",1,BCO7007,2.0,,,Financial and Managerial Accounting
+43638,59wiY,Luisa,Fernandez,22,Female,Vietnam,BCO7000,1,,,,,Digital Media and Content Creation
+46853,ekLbI,Rosa,Morales,30,Female,Malaysia,BCO7004,4,BEO6000,3.0,,,Financial and Managerial Accounting
+94388,AjbH3,Jose,Flores,30,Male,Indonesia,BCO7003,1,,,,,Digital Media and Content Creation
+16170,1vfd8,Miguel,Martinez,31,Male,Brunei,BCO7002,4,BAO6504,1.0,,,Information Technology and Systems
+47303,t5Snb,Juan,Santos,27,Male,Myanmar,BEO6000,3,,,,,General Business and Management
+24482,qFaPt,Ricardo,Garcia,35,Male,Laos,BCO7006,1,,,,,Data-Driven Decision Making and Analytics
+56440,GCeKS,Miguel,Ramos,29,Male,Laos,BCO6008,2,,,,,Financial and Managerial Accounting
+08005,CDEPN,Fernando,Rivera,19,Male,Laos,BCO7006,1,,,,,Operations and Supply Chain Management
+71410,d4psu,Maria,Torres,19,Female,Cambodia,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+45465,M504r,Angelica,Cruz,31,Female,Indonesia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,General Business and Management
+10786,QiJIT,Ismael,Gonzalez,24,Male,Indonesia,BCO7005,2,BEO6000,3.0,"	
+WOM1000",1.0,General Business and Management
+29535,JhUvE,Jessica,Rivera,27,Female,Malaysia,BCO7000,3,BCO7006,3.0,BAO6504,1.0,Marketing Strategy and Consumer Behavior
+33992,hmBnu,Alicia,Torres,19,Female,Malaysia,BAO6504,1,BCO7004,4.0,,,Financial and Managerial Accounting
+52210,5QRBy,Sofia,Flores,20,Female,Myanmar,BEO6000,3,BCO7004,4.0,,,Information Technology and Systems
+94794,7m57U,Angelica,Fernandez,28,Female,Indonesia,BEO6000,3,,,,,Leadership and Strategic Management
+49090,TzWEo,Angelica,Rivera,22,Female,Singapore,BCO7004,4,BCO7003,1.0,,,Data-Driven Decision Making and Analytics
+06154,2xtRE,Juan,Ramos,24,Male,Vietnam,BCO7003,1,BCO7002,4.0,,,Financial and Managerial Accounting
+89044,XS5C2,Luisa,Fernandez,24,Female,Brunei,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Leadership and Strategic Management
+22964,bT2M2,Antonio,Garcia,29,Male,Malaysia,BCO7000,2,BCO7006,1.0,"	
+WOM1000",1.0,Financial and Managerial Accounting
+63352,luMSC,Ismael,Rivera,21,Male,Singapore,BEO6000,3,,,,,Financial and Managerial Accounting
+22154,5F9Qh,Sofia,Cruz,21,Female,Philippines,BCO7004,4,,,,,Financial and Managerial Accounting
+56891,3EYY3,Alberto,Martinez,34,Male,Philippines,BCO7006,1,,,,,Financial and Managerial Accounting
+22974,dQigr,Angelica,Cruz,21,Female,Cambodia,BCO7000,1,BCO7006,1.0,,,Operations and Supply Chain Management
+50545,uFyla,Miguel,Martinez,24,Male,Singapore,BCO7000,4,BCO7006,1.0,BCO6008,2.0,Marketing Strategy and Consumer Behavior
+15771,7rzVz,Ismael,Torres,31,Male,Indonesia,BCO7003,1,BCO7002,4.0,,,Leadership and Strategic Management
+37821,ffqZK,Carmen,Morales,30,Female,Indonesia,BCO6008,2,BEO6000,3.0,,,Leadership and Strategic Management
+40447,XUdp6,Luisa,Gonzalez,35,Female,Cambodia,BEO6000,3,BEO6600,2.0,,,Data-Driven Decision Making and Analytics
+02990,BLlfJ,Rosa,Reyes,33,Female,Indonesia,BCO6008,2,BCO7000,1.0,,,Financial and Managerial Accounting
+33688,Lyelf,Maria,Gonzalez,19,Female,Malaysia,BCO7002,4,BEO6000,3.0,,,Digital Media and Content Creation
+42216,lbiNy,Alberto,Flores,23,Male,Vietnam,BEO6000,3,,,,,Digital Media and Content Creation
+93846,op27s,Jose,Rivera,19,Male,Indonesia,BCO7004,4,,,,,Financial and Managerial Accounting
+98752,eUwAc,Angelica,Cruz,18,Female,Brunei,BEO6000,3,BCO7006,1.0,,,Data-Driven Decision Making and Analytics
+63219,C5wD5,Ismael,Martinez,21,Male,Thailand,BCO7007,2,BCO7004,4.0,BCO7003,1.0,Operations and Supply Chain Management
+94889,Fmslh,Ismael,Flores,35,Male,Cambodia,BCO7002,4,,,,,General Business and Management
+36311,XVhiW,Carlos,Torres,21,Male,Malaysia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+78682,7nbQS,Luisa,Morales,20,Female,Brunei,BEO6600,2,,,,,Information Technology and Systems
+63117,mHCVm,Alicia,Garcia,19,Female,Thailand,BEO6600,2,BCO7004,4.0,,,Data-Driven Decision Making and Analytics
+82851,dlFJ1,Jessica,Santos,28,Female,Indonesia,"	
+WOM1000",1,BCO7004,4.0,,,Data-Driven Decision Making and Analytics
+02256,wQH0U,Carlos,Gonzalez,18,Male,Malaysia,BCO7006,1,,,,,Financial and Managerial Accounting
+43542,t4ADS,Carlos,Fernandez,33,Male,Indonesia,BCO7000,1,BCO7006,2.0,BEO6600,2.0,Marketing Strategy and Consumer Behavior
+76972,DDXLj,Ismael,Flores,18,Male,Laos,BAO6504,1,BCO7004,4.0,BCO6008,2.0,Financial and Managerial Accounting
+68655,U4ZjK,Jose,Ramos,26,Male,Indonesia,BEO6000,3,,,,,Operations and Supply Chain Management
+54031,92I3K,Maria,Fernandez,23,Female,Indonesia,BCO7007,2,BAO6504,1.0,,,Digital Media and Content Creation
+78994,865Wh,Fernando,Martinez,22,Male,Brunei,BCO7002,4,BEO6000,3.0,BCO7003,1.0,Data-Driven Decision Making and Analytics
+09270,QF0GS,Carlos,Reyes,25,Male,Singapore,BEO6000,3,BCO7004,4.0,BEO6600,2.0,Operations and Supply Chain Management
+08968,Hl4ux,Luisa,Torres,30,Female,Brunei,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Operations and Supply Chain Management
+14211,cMZ0Q,Isabela,Ramos,35,Female,Vietnam,BCO7003,1,BCO6008,2.0,,,General Business and Management
+90380,ZvWJH,Luisa,Martinez,25,Female,Myanmar,"	
+WOM1000",1,BCO7002,4.0,,,Information Technology and Systems
+60708,fn5dt,Veronica,Santos,20,Female,Malaysia,BCO7002,4,,,,,Leadership and Strategic Management
+62440,owN9T,Veronica,Martinez,30,Female,Myanmar,BAO6504,1,BEO6600,2.0,,,Data-Driven Decision Making and Analytics
+10207,OmQ5x,Alicia,Reyes,34,Female,Singapore,BCO7000,1,BCO7006,2.0,BCO7005,2.0,Marketing Strategy and Consumer Behavior
+94433,cZdUL,Alberto,Flores,26,Male,Brunei,BEO6600,2,,,,,Financial and Managerial Accounting
+01997,8sOYO,Sofia,Morales,32,Female,Singapore,BEO6000,3,BCO6008,2.0,,,Data-Driven Decision Making and Analytics
+26892,TwLYQ,Antonio,Santos,32,Male,Philippines,BEO6000,3,BCO7000,1.0,,,Financial and Managerial Accounting
+11869,F4Q1Z,Rosa,Rivera,32,Female,Thailand,BCO6008,2,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+24264,qj78B,Alicia,Flores,31,Female,Thailand,BEO6000,3,BCO7005,2.0,BAO6504,1.0,Information Technology and Systems
+12759,V7kBd,Rosa,Flores,23,Female,Brunei,BEO6000,3,"	
+WOM1000",1.0,,,Financial and Managerial Accounting
+27399,IOSuJ,Isabela,Reyes,32,Female,Singapore,BCO7000,1,BCO6008,2.0,,,Leadership and Strategic Management
+25976,e7XFF,Carlos,Flores,20,Male,Brunei,BCO7003,1,,,,,Data-Driven Decision Making and Analytics
+97976,AfwRG,Sofia,Garcia,23,Female,Myanmar,BCO7002,4,BCO7000,1.0,BCO7007,2.0,Digital Media and Content Creation
+45252,2WKsd,Juan,Morales,27,Male,Indonesia,BCO7004,4,BCO7005,2.0,,,Financial and Managerial Accounting
+27666,ho2UG,Juan,Martinez,24,Male,Malaysia,BCO7007,2,,,,,Information Technology and Systems
+01974,6GgiX,Roberto,Garcia,32,Male,Indonesia,BCO7007,2,,,,,Marketing Strategy and Consumer Behavior
+43083,ArJ3r,Juan,Gonzalez,33,Male,Malaysia,BCO7007,2,BEO6000,3.0,BAO6504,1.0,Digital Media and Content Creation
+12780,6X3bq,Ismael,Flores,19,Male,Laos,BEO6000,3,BCO7005,2.0,BCO7003,1.0,Financial and Managerial Accounting
+98482,616Ol,Carlos,Flores,26,Male,Brunei,BCO7002,4,,,,,Information Technology and Systems
+57514,FrBea,Antonio,Santos,19,Male,Indonesia,BAO6504,1,BCO6008,2.0,,,General Business and Management
+69729,OAn4c,Juan,Ramos,20,Male,Cambodia,BCO7006,1,,,,,Digital Media and Content Creation
+77129,s1wWZ,Alberto,Ramos,32,Male,Vietnam,BCO6008,2,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+22101,dyQYc,Angelica,Morales,29,Female,Indonesia,BCO7000,3,BCO7006,1.0,BEO6000,3.0,Leadership and Strategic Management
+46959,nhrRu,Angelica,Ramos,35,Female,Cambodia,BCO7000,1,BCO7006,1.0,BCO7003,1.0,Operations and Supply Chain Management
+06382,kvk2C,Roberto,Flores,34,Male,Thailand,BCO7000,1,BCO7006,4.0,BEO6000,3.0,General Business and Management
+22504,7SxiK,Fernando,Santos,29,Male,Philippines,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Leadership and Strategic Management
+97866,FSwg9,Miguel,Santos,28,Male,Philippines,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Financial and Managerial Accounting
+33027,7BIDo,Angelica,Garcia,18,Female,Singapore,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Operations and Supply Chain Management
+81791,2Pglj,Sofia,Morales,25,Female,Vietnam,BAO6504,1,BCO7002,4.0,,,Information Technology and Systems
+90220,GnwsV,Juan,Gonzalez,22,Male,Vietnam,BCO7002,4,BAO6504,1.0,,,Operations and Supply Chain Management
+30551,xBGsG,Rosa,Torres,25,Female,Thailand,BCO7004,4,BAO6504,1.0,,,Digital Media and Content Creation
+22943,4envl,Ismael,Cruz,31,Male,Laos,BAO6504,1,BCO7007,2.0,,,Data-Driven Decision Making and Analytics
+41881,kSUgU,Angelica,Martinez,32,Female,Brunei,BCO7006,1,,,,,Financial and Managerial Accounting
+90631,TJOoJ,Maria,Ramos,35,Female,Malaysia,BCO7002,4,BAO6504,1.0,,,Information Technology and Systems
+14838,eWokU,Ismael,Reyes,33,Male,Malaysia,BEO6000,3,,,,,Leadership and Strategic Management
+50477,dG1zK,Sofia,Gonzalez,32,Female,Myanmar,BCO7005,2,BAO6504,1.0,BCO7002,4.0,Operations and Supply Chain Management
+68927,GdZ54,Alberto,Reyes,22,Male,Laos,BCO7006,1,BEO6000,3.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+84537,wWmu4,Isabela,Martinez,29,Female,Malaysia,BEO6000,3,,,,,Digital Media and Content Creation
+04820,cOlCF,Luisa,Flores,26,Female,Vietnam,BCO7000,4,BCO7006,4.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+16066,K7rti,Rosa,Fernandez,23,Female,Laos,BAO6504,1,BCO7002,4.0,,,Financial and Managerial Accounting
+31757,7xxHH,Carmen,Cruz,18,Female,Malaysia,BEO6000,3,BCO7003,1.0,,,General Business and Management
+19207,WIqju,Ricardo,Cruz,29,Male,Singapore,BCO6008,2,BEO6000,3.0,BCO7000,1.0,Leadership and Strategic Management
+09222,ZpKww,Carmen,Ramos,26,Female,Laos,BCO7002,4,,,,,Digital Media and Content Creation
+13905,YyuPk,Luisa,Ramos,22,Female,Brunei,BCO7005,2,,,,,Financial and Managerial Accounting
+35854,KZoYZ,Fernando,Santos,19,Male,Vietnam,BCO7000,2,BCO7006,4.0,BCO7004,4.0,Leadership and Strategic Management
+37270,qzuea,Jose,Torres,33,Male,Malaysia,BCO7000,2,BCO7006,2.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+16372,PgoyB,Rosa,Gonzalez,27,Female,Malaysia,BAO6504,1,,,,,General Business and Management
+20203,yoolY,Veronica,Ramos,28,Female,Cambodia,BCO7005,2,BCO7000,1.0,,,Financial and Managerial Accounting
+09948,OW1RQ,Ismael,Garcia,32,Male,Indonesia,BCO7004,4,,,,,General Business and Management
+09390,vJfp7,Alberto,Cruz,34,Male,Philippines,BAO6504,1,,,,,Operations and Supply Chain Management
+92216,pjx9J,Alicia,Ramos,35,Female,Laos,BCO7002,4,BCO6008,2.0,BEO6000,3.0,Leadership and Strategic Management
+60097,IWJGH,Juan,Garcia,35,Male,Thailand,BCO7000,1,BCO7006,1.0,"	
+WOM1000",1.0,Marketing Strategy and Consumer Behavior
+98615,icfWy,Jessica,Garcia,27,Female,Indonesia,BCO7002,4,,,,,General Business and Management
+11185,dZ5kx,Jessica,Ramos,19,Female,Vietnam,BAO6504,1,BEO6000,3.0,BEO6600,2.0,Operations and Supply Chain Management
+56725,k9cY2,Miguel,Reyes,24,Male,Indonesia,BCO7004,4,,,,,Operations and Supply Chain Management
+02726,VPELl,Maria,Cruz,32,Female,Laos,BCO7000,4,BCO7006,3.0,BCO7004,4.0,Leadership and Strategic Management
+32689,4RnOH,Alberto,Ramos,31,Male,Myanmar,BCO7006,1,,,,,Information Technology and Systems
+88877,WCMJK,Alberto,Rivera,24,Male,Thailand,BCO7000,1,BCO7006,4.0,BCO7002,4.0,Digital Media and Content Creation
+55751,IkaOa,Juan,Rivera,28,Male,Malaysia,BCO7007,2,BEO6000,3.0,"	
+WOM1000",1.0,Digital Media and Content Creation
+94150,9Xqiq,Ricardo,Santos,21,Male,Cambodia,BCO7002,4,BCO7006,1.0,,,Leadership and Strategic Management
+74558,SaI9i,Carmen,Ramos,25,Female,Vietnam,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+09064,UnpKW,Veronica,Gonzalez,18,Female,Indonesia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+30617,8E3eF,Luisa,Morales,30,Female,Singapore,BCO7003,1,BCO7007,2.0,BCO7002,4.0,General Business and Management
+11431,2hRl7,Antonio,Garcia,23,Male,Philippines,BCO7000,1,BEO6000,3.0,BCO7004,4.0,Information Technology and Systems
+69839,sk5R4,Miguel,Santos,28,Male,Singapore,BCO7002,4,"	
+WOM1000",1.0,,,Information Technology and Systems
+38205,kwI8j,Miguel,Garcia,20,Male,Brunei,BCO7005,2,BCO7004,4.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+18920,IclVH,Rosa,Rivera,19,Female,Laos,BCO7002,4,BEO6600,2.0,,,Information Technology and Systems
+21554,wDqvC,Isabela,Fernandez,26,Female,Myanmar,BCO7000,2,BCO7006,1.0,BAO6504,1.0,General Business and Management
+44094,Pp4Io,Luisa,Cruz,28,Female,Cambodia,BCO7000,1,BCO7006,1.0,BEO6000,3.0,Information Technology and Systems
+18385,I9Zi7,Alberto,Martinez,31,Male,Thailand,BEO6000,3,BEO6600,2.0,"	
+WOM1000",1.0,Operations and Supply Chain Management
+38092,gbX8y,Angelica,Cruz,28,Female,Thailand,BEO6600,2,BCO7002,4.0,BAO6504,1.0,Financial and Managerial Accounting
+14839,ZxjpQ,Miguel,Torres,31,Male,Indonesia,BEO6000,3,BCO7004,4.0,,,General Business and Management
+20261,CDm4Z,Veronica,Torres,34,Female,Philippines,BEO6000,3,,,,,Financial and Managerial Accounting
+94775,65tqP,Luisa,Reyes,18,Female,Indonesia,BCO7000,1,BCO7006,1.0,BCO7004,4.0,General Business and Management
+04512,S8Bu5,Jose,Rivera,33,Male,Malaysia,BCO7000,2,BCO7006,2.0,BCO7007,2.0,Marketing Strategy and Consumer Behavior
+77974,GwRBV,Maria,Gonzalez,28,Female,Malaysia,"	
+WOM1000",1,BEO6000,3.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+17904,6JyTu,Luisa,Santos,18,Female,Singapore,BCO7007,2,BCO7002,4.0,,,Leadership and Strategic Management
+78780,eF06E,Isabela,Flores,20,Female,Laos,BCO7003,1,,,,,Operations and Supply Chain Management
+24233,DnMJm,Sofia,Fernandez,22,Female,Singapore,BAO6504,1,BCO7004,4.0,BEO6000,3.0,Digital Media and Content Creation
+20646,9gCJU,Carlos,Rivera,22,Male,Vietnam,BAO6504,1,BEO6000,3.0,,,Information Technology and Systems
+05377,w0ivS,Antonio,Fernandez,20,Male,Myanmar,BEO6000,3,,,,,General Business and Management
+46654,ceDv9,Antonio,Cruz,27,Male,Laos,BCO6008,2,,,,,Leadership and Strategic Management
+59377,6vk7G,Luisa,Santos,28,Female,Indonesia,BCO7002,4,,,,,Operations and Supply Chain Management
+60817,EwX13,Jessica,Ramos,21,Female,Brunei,BCO7000,1,BCO7004,4.0,BEO6000,3.0,Operations and Supply Chain Management
+19150,TIIRC,Rosa,Reyes,27,Female,Thailand,BCO7007,2,,,,,Financial and Managerial Accounting
+02575,jWdqn,Veronica,Fernandez,32,Female,Cambodia,BAO6504,1,BCO7004,4.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+91381,fOmKC,Miguel,Santos,34,Male,Indonesia,BCO7005,2,BCO7004,4.0,,,Digital Media and Content Creation
+33610,qWJtO,Luisa,Cruz,30,Female,Thailand,BCO7000,1,BCO7006,1.0,BAO6504,1.0,Information Technology and Systems
+11133,Pxi6w,Carmen,Fernandez,19,Female,Thailand,"	
+WOM1000",1,,,,,Financial and Managerial Accounting
+85720,YDYOS,Veronica,Gonzalez,18,Female,Malaysia,BCO7000,1,BCO7002,4.0,,,General Business and Management
+47902,gxY4W,Alberto,Fernandez,28,Male,Brunei,BEO6000,3,BCO6008,2.0,BCO7002,4.0,Financial and Managerial Accounting
+54658,HuoEy,Alicia,Martinez,18,Female,Indonesia,BCO7006,1,BEO6600,2.0,BCO7002,4.0,Leadership and Strategic Management
+36363,YVBT3,Miguel,Santos,24,Male,Thailand,BEO6000,3,,,,,Leadership and Strategic Management
+84870,vcibo,Ismael,Fernandez,30,Male,Indonesia,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Leadership and Strategic Management
+58033,5gxGY,Juan,Gonzalez,26,Male,Malaysia,BCO7004,4,BCO7000,1.0,,,Financial and Managerial Accounting
+39947,3N5Vk,Miguel,Ramos,31,Male,Singapore,BCO7002,4,BEO6600,2.0,BEO6000,3.0,General Business and Management
+30929,udGGm,Fernando,Morales,28,Male,Singapore,BCO7006,1,BCO7005,2.0,,,Digital Media and Content Creation
+88263,gAsHV,Isabela,Morales,30,Female,Cambodia,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Leadership and Strategic Management
+70674,G31TP,Carlos,Garcia,33,Male,Cambodia,BCO7006,1,BEO6000,3.0,BCO7002,4.0,Digital Media and Content Creation
+10055,k0Aam,Carlos,Rivera,20,Male,Singapore,BEO6600,2,BEO6000,3.0,,,Financial and Managerial Accounting
+38595,lDD1G,Carlos,Garcia,24,Male,Thailand,BCO7000,4,BCO7006,2.0,BCO6008,2.0,Information Technology and Systems
+57619,o7UEt,Miguel,Morales,22,Male,Laos,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Information Technology and Systems
+38104,703yO,Antonio,Reyes,24,Male,Brunei,BCO7000,1,BCO7006,2.0,BCO7005,2.0,Financial and Managerial Accounting
+11408,QW3Vz,Rosa,Cruz,35,Female,Philippines,BEO6600,2,BAO6504,1.0,,,Operations and Supply Chain Management
+08964,kn8eG,Alicia,Ramos,34,Female,Brunei,BCO7006,1,,,,,General Business and Management
+38042,6MK26,Alberto,Morales,26,Male,Philippines,BCO7004,4,,,,,Digital Media and Content Creation
+94921,r0S9b,Alberto,Torres,20,Male,Cambodia,BCO7004,4,BCO6008,2.0,BCO7003,1.0,Financial and Managerial Accounting
+49931,GRwkw,Sofia,Martinez,32,Female,Indonesia,BEO6000,3,BCO7005,2.0,,,Operations and Supply Chain Management
+45667,m6J10,Ricardo,Ramos,26,Male,Vietnam,BCO6008,2,BCO7003,1.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+78285,ZX1gg,Alicia,Rivera,34,Female,Myanmar,BEO6000,3,BEO6600,2.0,,,Data-Driven Decision Making and Analytics
+35257,BqMzN,Alberto,Cruz,32,Male,Singapore,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+45296,EUT0R,Luisa,Flores,29,Female,Philippines,BEO6000,3,BCO7000,1.0,BCO7004,4.0,Digital Media and Content Creation
+96980,y33cr,Carmen,Ramos,19,Female,Thailand,BCO7005,2,BAO6504,1.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+14270,EXO7k,Ricardo,Rivera,26,Male,Indonesia,BCO7007,2,,,,,Leadership and Strategic Management
+39179,m1Mwj,Fernando,Morales,24,Male,Vietnam,BCO7000,1,,,,,Digital Media and Content Creation
+24887,0r5l9,Miguel,Martinez,21,Male,Indonesia,BCO7003,1,BEO6600,2.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+34882,CCern,Ricardo,Martinez,25,Male,Brunei,BEO6000,3,BCO7007,2.0,,,Operations and Supply Chain Management
+31718,03DJo,Jose,Cruz,28,Male,Brunei,BCO7004,4,BCO7007,2.0,,,Leadership and Strategic Management
+67889,BLXat,Roberto,Ramos,24,Male,Vietnam,BCO7004,4,,,,,Information Technology and Systems
+58534,vgSNA,Ismael,Flores,31,Male,Vietnam,BCO6008,2,,,,,Leadership and Strategic Management
+63306,OdCEi,Antonio,Martinez,20,Male,Singapore,BCO6008,2,BEO6000,3.0,,,Digital Media and Content Creation
+88056,4fHc4,Ricardo,Martinez,33,Male,Philippines,BCO6008,2,BEO6000,3.0,,,Financial and Managerial Accounting
+05829,MiuNI,Sofia,Cruz,26,Female,Cambodia,BCO7000,3,BCO7006,1.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+96399,DkXfn,Isabela,Morales,19,Female,Indonesia,BCO7005,2,BEO6000,3.0,"	
+WOM1000",1.0,Financial and Managerial Accounting
+09633,nih9r,Roberto,Garcia,35,Male,Vietnam,BCO7000,3,BCO7006,4.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+70092,MOW46,Antonio,Rivera,29,Male,Singapore,BCO7005,2,BCO7003,1.0,,,Information Technology and Systems
+71299,ruEbG,Ricardo,Fernandez,20,Male,Philippines,BCO7006,1,,,,,Data-Driven Decision Making and Analytics
+54851,O7Jgz,Jose,Torres,24,Male,Cambodia,BEO6600,2,BEO6000,3.0,,,Financial and Managerial Accounting
+08853,ewMxB,Miguel,Morales,20,Male,Malaysia,BEO6000,3,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+90299,D6329,Ismael,Ramos,22,Male,Vietnam,BCO7007,2,BEO6000,3.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+21851,HN5KC,Ricardo,Cruz,18,Male,Indonesia,BCO7002,4,BCO7007,2.0,,,Information Technology and Systems
+67669,OWT2v,Jessica,Rivera,18,Female,Philippines,BCO7000,3,BCO7006,2.0,BCO7002,4.0,General Business and Management
+91572,kqRgN,Alberto,Morales,29,Male,Philippines,BCO7006,1,BCO7004,4.0,BCO7005,2.0,Data-Driven Decision Making and Analytics
+64885,JbNzx,Antonio,Fernandez,32,Male,Laos,BCO7004,4,BEO6000,3.0,BCO6008,2.0,Marketing Strategy and Consumer Behavior
+25431,HmoOA,Ismael,Rivera,21,Male,Myanmar,BEO6000,3,BCO7006,1.0,BCO7007,2.0,Information Technology and Systems
+77757,OYnVX,Ricardo,Gonzalez,24,Male,Laos,BCO7000,2,BCO7006,4.0,BEO6600,2.0,Financial and Managerial Accounting
+68151,UTbCg,Roberto,Fernandez,30,Male,Cambodia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+10794,IyVHE,Maria,Gonzalez,20,Female,Myanmar,BCO7004,4,BEO6000,3.0,,,Information Technology and Systems
+29190,WuBXy,Ricardo,Martinez,32,Male,Singapore,BCO7004,4,,,,,Operations and Supply Chain Management
+00102,JnXBy,Luisa,Reyes,24,Female,Brunei,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+42732,25OEd,Veronica,Cruz,24,Female,Indonesia,BEO6000,3,"	
+WOM1000",1.0,BCO7004,4.0,General Business and Management
+36944,GnVQA,Roberto,Fernandez,34,Male,Malaysia,BCO7000,3,BCO7006,3.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+87799,OAzGf,Fernando,Garcia,33,Male,Myanmar,BEO6000,3,,,,,Digital Media and Content Creation
+05128,Zf88q,Carlos,Rivera,22,Male,Myanmar,BCO7000,1,BCO7006,3.0,BEO6600,2.0,Information Technology and Systems
+21705,kp2Q6,Veronica,Reyes,30,Female,Indonesia,BCO7003,1,BCO7004,4.0,BCO6008,2.0,Operations and Supply Chain Management
+68306,aLe7Y,Alicia,Garcia,22,Female,Laos,"	
+WOM1000",1,,,,,Financial and Managerial Accounting
+78926,qc8pP,Carmen,Reyes,35,Female,Indonesia,"	
+WOM1000",1,,,,,Marketing Strategy and Consumer Behavior
+52849,xjNiE,Angelica,Ramos,26,Female,Philippines,BCO7005,2,BEO6000,3.0,BCO7004,4.0,Financial and Managerial Accounting
+78498,61dIB,Carlos,Cruz,27,Male,Brunei,BCO7004,4,BCO7007,2.0,,,Leadership and Strategic Management
+54097,CG05R,Jose,Morales,30,Male,Myanmar,BEO6000,3,BCO7002,4.0,BCO6008,2.0,Operations and Supply Chain Management
+69592,NKYEn,Jose,Martinez,34,Male,Myanmar,BEO6000,3,BCO7005,2.0,,,Digital Media and Content Creation
+18543,hHi7C,Maria,Gonzalez,30,Female,Malaysia,BEO6000,3,,,,,Leadership and Strategic Management
+59882,2Q8fx,Rosa,Ramos,21,Female,Laos,BCO7002,4,"	
+WOM1000",1.0,,,Marketing Strategy and Consumer Behavior
+94927,GTNAH,Isabela,Torres,18,Female,Vietnam,BCO7006,1,BEO6000,3.0,,,Digital Media and Content Creation
+79170,47dfV,Miguel,Martinez,22,Male,Vietnam,BCO7005,2,BEO6000,3.0,,,General Business and Management
+30715,Q0YvS,Fernando,Fernandez,32,Male,Singapore,BEO6000,3,"	
+WOM1000",1.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+41702,xZaHL,Sofia,Santos,34,Female,Cambodia,BAO6504,1,,,,,Operations and Supply Chain Management
+06819,lVmYF,Maria,Rivera,30,Female,Cambodia,BAO6504,1,BEO6600,2.0,BEO6000,3.0,Financial and Managerial Accounting
+56293,jtAke,Fernando,Morales,23,Male,Myanmar,"	
+WOM1000",1,BEO6000,3.0,,,General Business and Management
+69342,8dMvh,Maria,Torres,18,Female,Cambodia,BAO6504,1,,,,,Financial and Managerial Accounting
+97466,JDaNf,Miguel,Reyes,34,Male,Vietnam,BCO7002,4,BAO6504,1.0,,,Marketing Strategy and Consumer Behavior
+51432,NHwQy,Sofia,Flores,19,Female,Indonesia,BCO7000,3,BCO7006,3.0,BCO7003,1.0,General Business and Management
+87144,oztcy,Rosa,Cruz,31,Female,Vietnam,BCO7004,4,BCO7005,2.0,BEO6000,3.0,General Business and Management
+00092,wYACQ,Alberto,Rivera,24,Male,Malaysia,BCO7000,3,BCO7006,4.0,BEO6000,3.0,Leadership and Strategic Management
+88212,ZXX3S,Antonio,Rivera,31,Male,Cambodia,BCO7000,2,BCO7006,3.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+60569,nA4GB,Antonio,Morales,18,Male,Malaysia,BCO7003,1,BEO6000,3.0,BCO7004,4.0,Operations and Supply Chain Management
+05967,jPaMp,Ricardo,Martinez,25,Male,Laos,BCO7007,2,BCO7002,4.0,BCO7003,1.0,Operations and Supply Chain Management
+68918,fXPC5,Carmen,Reyes,33,Female,Laos,BEO6000,3,,,,,Information Technology and Systems
+58689,Xh5be,Antonio,Garcia,22,Male,Indonesia,BCO7000,1,BCO7006,1.0,BCO7003,1.0,General Business and Management
+00662,4mIv2,Rosa,Garcia,25,Female,Vietnam,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+11268,6txlM,Isabela,Ramos,21,Female,Thailand,BCO7003,1,BEO6000,3.0,BEO6600,2.0,Marketing Strategy and Consumer Behavior
+83409,hsaAG,Fernando,Morales,35,Male,Cambodia,BCO7002,4,BCO7005,2.0,BCO7006,1.0,Digital Media and Content Creation
+72058,xyVFz,Carlos,Morales,30,Male,Indonesia,BCO7000,1,BEO6600,2.0,,,Financial and Managerial Accounting
+59950,7gUWx,Carlos,Gonzalez,21,Male,Cambodia,BCO7003,1,BEO6000,3.0,BEO6600,2.0,Marketing Strategy and Consumer Behavior
+35524,C64UY,Carlos,Garcia,20,Male,Myanmar,BEO6000,3,BAO6504,1.0,BCO7004,4.0,Digital Media and Content Creation
+07906,jonoK,Jessica,Fernandez,28,Female,Thailand,BCO7000,2,BCO7006,4.0,BEO6000,3.0,General Business and Management
+31207,soBso,Luisa,Rivera,31,Female,Cambodia,BEO6600,2,BCO7004,4.0,BEO6000,3.0,Leadership and Strategic Management
+92095,5TR3K,Rosa,Martinez,26,Female,Brunei,BCO7005,2,BCO7006,1.0,BCO7002,4.0,Information Technology and Systems
+99872,pBwSB,Ricardo,Reyes,25,Male,Vietnam,BCO7004,4,,,,,Leadership and Strategic Management
+13626,EZ7en,Jessica,Martinez,29,Female,Myanmar,BCO7000,1,BCO7006,2.0,BAO6504,1.0,Digital Media and Content Creation
+31394,gj3Cb,Carlos,Torres,18,Male,Singapore,BCO7002,4,,,,,Leadership and Strategic Management
+16091,mDuFj,Maria,Cruz,29,Female,Malaysia,BEO6600,2,BEO6000,3.0,,,Digital Media and Content Creation
+04885,C3PLe,Antonio,Reyes,28,Male,Malaysia,BCO7002,4,,,,,Data-Driven Decision Making and Analytics
+08280,wsaLx,Jose,Rivera,23,Male,Cambodia,BEO6000,3,"	
+WOM1000",1.0,BCO7005,2.0,Operations and Supply Chain Management
+43672,A1i3l,Luisa,Gonzalez,35,Female,Vietnam,BCO7007,2,BEO6000,3.0,,,Leadership and Strategic Management
+37057,DwkOG,Antonio,Garcia,25,Male,Brunei,BCO7005,2,BCO7002,4.0,BAO6504,1.0,Information Technology and Systems
+44333,kIZr8,Ricardo,Rivera,29,Male,Cambodia,BEO6000,3,,,,,Information Technology and Systems
+30192,Bfo5c,Jessica,Gonzalez,30,Female,Myanmar,BCO7000,4,BCO7006,4.0,BCO7005,2.0,Information Technology and Systems
+63108,GYOT5,Jessica,Reyes,35,Female,Vietnam,BCO7000,1,BCO7006,2.0,"	
+WOM1000",1.0,General Business and Management
+26893,oVWLR,Juan,Santos,20,Male,Singapore,BCO7002,4,,,,,General Business and Management
+44849,5pD5s,Ismael,Flores,20,Male,Singapore,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+48462,LcgJX,Ricardo,Morales,26,Male,Indonesia,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Data-Driven Decision Making and Analytics
+40306,vtEsn,Rosa,Rivera,24,Female,Thailand,BCO7000,1,BCO7006,1.0,BCO7004,4.0,General Business and Management
+78767,zMs2c,Jessica,Cruz,25,Female,Indonesia,BCO7007,2,,,,,Information Technology and Systems
+52877,n1MY7,Isabela,Rivera,24,Female,Indonesia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+71048,f96MS,Rosa,Rivera,22,Female,Brunei,BCO7000,4,BCO7006,4.0,BCO7007,2.0,Operations and Supply Chain Management
+53787,4ZVjt,Rosa,Gonzalez,34,Female,Thailand,"	
+WOM1000",1,BEO6600,2.0,,,Leadership and Strategic Management
+32859,wnzqv,Jessica,Gonzalez,32,Female,Philippines,BCO7000,4,BCO7006,3.0,BCO7004,4.0,General Business and Management
+19971,6OyAR,Jose,Reyes,29,Male,Malaysia,BCO7000,4,BCO7006,2.0,BCO6008,2.0,Operations and Supply Chain Management
+56717,Ptt5Z,Luisa,Garcia,34,Female,Vietnam,BCO7002,4,BCO6008,2.0,,,Leadership and Strategic Management
+87183,NgxCw,Isabela,Cruz,34,Female,Singapore,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Digital Media and Content Creation
+03977,x10O4,Angelica,Morales,21,Female,Singapore,BCO7005,2,BEO6000,3.0,,,General Business and Management
+98573,rmFvg,Luisa,Santos,24,Female,Laos,BCO7000,1,BCO7006,1.0,,,General Business and Management
+71540,XlgST,Antonio,Garcia,31,Male,Singapore,BCO7000,2,BCO7006,3.0,BCO7005,2.0,Financial and Managerial Accounting
+13858,WxQyk,Sofia,Santos,25,Female,Laos,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Financial and Managerial Accounting
+22960,v77uo,Rosa,Fernandez,32,Female,Brunei,BCO7004,4,,,,,Data-Driven Decision Making and Analytics
+53180,zvwvS,Veronica,Martinez,35,Female,Indonesia,BCO7000,1,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+34753,BJwdD,Angelica,Torres,35,Female,Laos,BCO7005,2,BAO6504,1.0,BCO7004,4.0,Financial and Managerial Accounting
+92072,FsUDq,Veronica,Santos,35,Female,Thailand,BCO6008,2,BEO6000,3.0,"	
+WOM1000",1.0,Information Technology and Systems
+97854,cLkFB,Carmen,Fernandez,23,Female,Thailand,BCO7000,3,BCO7006,3.0,BCO7003,1.0,General Business and Management
+86097,aoGAj,Ismael,Flores,19,Male,Singapore,BCO7000,4,BCO7006,4.0,"	
+WOM1000",1.0,General Business and Management
+63760,l5OXF,Isabela,Garcia,20,Female,Philippines,BCO7000,1,BCO7004,4.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+71979,oQIiJ,Ismael,Rivera,20,Male,Vietnam,BCO7004,4,,,,,Leadership and Strategic Management
+46060,Y3xax,Roberto,Martinez,24,Male,Malaysia,BCO7006,1,BEO6600,2.0,,,General Business and Management
+13408,UQ1UF,Carmen,Morales,18,Female,Vietnam,BCO7002,4,BEO6000,3.0,BCO7003,1.0,Marketing Strategy and Consumer Behavior
+34776,KGDUC,Angelica,Rivera,31,Female,Vietnam,BCO6008,2,BCO7002,4.0,,,Marketing Strategy and Consumer Behavior
+58297,aU2ls,Carlos,Ramos,28,Male,Vietnam,BCO6008,2,,,,,Digital Media and Content Creation
+34062,KJoNU,Jose,Ramos,27,Male,Thailand,BCO7004,4,BAO6504,1.0,BEO6000,3.0,General Business and Management
+67357,E0FW3,Roberto,Reyes,27,Male,Cambodia,BAO6504,1,BEO6000,3.0,,,Financial and Managerial Accounting
+70030,hFbMb,Maria,Gonzalez,35,Female,Malaysia,"	
+WOM1000",1,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+07505,kKuvZ,Alberto,Gonzalez,31,Male,Thailand,BCO7000,1,BCO7006,4.0,BCO7004,4.0,Leadership and Strategic Management
+67197,b9Vhh,Juan,Garcia,31,Male,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+69300,Kv9td,Alberto,Garcia,28,Male,Indonesia,BEO6600,2,BCO7003,1.0,,,Marketing Strategy and Consumer Behavior
+61417,wcmfS,Roberto,Morales,19,Male,Indonesia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+91144,C1KqY,Maria,Torres,33,Female,Malaysia,BCO7006,1,BCO7005,2.0,,,Marketing Strategy and Consumer Behavior
+89916,Bh9KO,Angelica,Morales,26,Female,Myanmar,BCO7000,1,BCO7006,1.0,BCO7003,1.0,Financial and Managerial Accounting
+80424,DJKpv,Carlos,Torres,29,Male,Singapore,BEO6000,3,,,,,Data-Driven Decision Making and Analytics
+14329,8qFRA,Sofia,Torres,25,Female,Cambodia,BEO6000,3,BCO7007,2.0,BCO7002,4.0,Information Technology and Systems
+54981,dUAof,Ricardo,Flores,19,Male,Myanmar,BCO7000,1,,,,,Operations and Supply Chain Management
+15856,7wN8R,Angelica,Cruz,32,Female,Thailand,BEO6000,3,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+04071,XxyWE,Juan,Fernandez,35,Male,Philippines,BCO6008,2,BEO6000,3.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+50523,OErmE,Veronica,Rivera,24,Female,Cambodia,BCO6008,2,BEO6000,3.0,BCO7004,4.0,Leadership and Strategic Management
+38716,1DEmt,Fernando,Fernandez,26,Male,Thailand,BCO7004,4,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+14860,v7wBi,Sofia,Reyes,21,Female,Vietnam,BCO7005,2,BEO6000,3.0,BCO7003,1.0,Digital Media and Content Creation
+98308,Yn0Pi,Veronica,Rivera,34,Female,Indonesia,BEO6600,2,BCO7004,4.0,BEO6000,3.0,General Business and Management
+76357,qoYDc,Carlos,Ramos,20,Male,Laos,BCO6008,2,BCO7003,1.0,,,Digital Media and Content Creation
+31261,Dtdms,Luisa,Fernandez,18,Female,Philippines,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Information Technology and Systems
+68472,7tdyi,Roberto,Ramos,26,Male,Indonesia,BEO6000,3,BCO7005,2.0,BCO7000,1.0,Marketing Strategy and Consumer Behavior
+38003,opBM6,Jessica,Morales,21,Female,Laos,BCO7007,2,,,,,General Business and Management
+62126,bLdKz,Maria,Garcia,28,Female,Malaysia,BCO7004,4,,,,,Data-Driven Decision Making and Analytics
+52449,mvtl6,Rosa,Reyes,34,Female,Malaysia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+18323,3iDBN,Luisa,Torres,35,Female,Philippines,BCO7002,4,BCO7005,2.0,,,Data-Driven Decision Making and Analytics
+16448,iRXts,Maria,Cruz,20,Female,Vietnam,BCO7000,2,BCO7006,3.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+45408,j9nZF,Jose,Gonzalez,18,Male,Vietnam,BCO7000,2,BCO7006,1.0,BCO7003,1.0,Information Technology and Systems
+29884,F4OdI,Fernando,Santos,28,Male,Malaysia,BCO7006,1,BCO7007,2.0,,,Financial and Managerial Accounting
+07073,50Vyq,Fernando,Garcia,22,Male,Singapore,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Leadership and Strategic Management
+40965,gHlq9,Veronica,Morales,23,Female,Thailand,BCO7002,4,,,,,Financial and Managerial Accounting
+75449,UDt7i,Maria,Flores,19,Female,Philippines,BCO7000,2,BCO7006,1.0,BCO7007,2.0,Financial and Managerial Accounting
+77502,qtAyH,Alberto,Cruz,34,Male,Laos,BCO7000,4,BCO7006,2.0,BCO7002,4.0,Information Technology and Systems
+91675,02mgB,Alberto,Gonzalez,24,Male,Malaysia,BAO6504,1,BCO7007,2.0,BEO6000,3.0,Digital Media and Content Creation
+37035,Jw9xW,Juan,Fernandez,18,Male,Laos,BCO7002,4,BEO6000,3.0,BCO6008,2.0,Leadership and Strategic Management
+93513,hSgcX,Sofia,Reyes,18,Female,Brunei,BCO7005,2,BEO6000,3.0,,,Digital Media and Content Creation
+83372,34lfW,Antonio,Rivera,25,Male,Indonesia,BCO7004,4,BCO7007,2.0,,,Financial and Managerial Accounting
+91238,mvElE,Antonio,Santos,25,Male,Myanmar,BCO6008,2,BCO7002,4.0,BEO6000,3.0,General Business and Management
+61572,Iiad4,Sofia,Garcia,30,Female,Indonesia,BCO7000,1,,,,,Data-Driven Decision Making and Analytics
+98193,Vt37Q,Alicia,Cruz,28,Female,Vietnam,BCO7006,1,BEO6000,3.0,BCO7005,2.0,Marketing Strategy and Consumer Behavior
+09344,mU9DT,Luisa,Reyes,35,Female,Indonesia,BEO6000,3,BCO7005,2.0,,,Financial and Managerial Accounting
+13858,qbMGJ,Luisa,Cruz,28,Female,Vietnam,BEO6600,2,BCO7002,4.0,,,Data-Driven Decision Making and Analytics
+92695,Yek0g,Alberto,Garcia,29,Male,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+04996,dBgio,Jessica,Gonzalez,30,Female,Laos,BEO6600,2,BCO7002,4.0,,,General Business and Management
+89581,Pwb7M,Angelica,Cruz,19,Female,Cambodia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Information Technology and Systems
+40295,QrAve,Ricardo,Torres,31,Male,Indonesia,BCO7005,2,BCO7003,1.0,,,Digital Media and Content Creation
+54118,fp8YT,Roberto,Fernandez,23,Male,Myanmar,"	
+WOM1000",1,BEO6000,3.0,,,Financial and Managerial Accounting
+83171,LJdJj,Roberto,Garcia,22,Male,Thailand,BCO7007,2,BCO7004,4.0,BEO6000,3.0,General Business and Management
+46047,UngT5,Miguel,Gonzalez,32,Male,Malaysia,BCO7005,2,BEO6000,3.0,BCO7000,1.0,General Business and Management
+82498,Dci2A,Carmen,Flores,22,Female,Thailand,BEO6000,3,BCO7002,4.0,,,Information Technology and Systems
+64794,Gpyfr,Luisa,Garcia,22,Female,Indonesia,BCO7005,2,BCO7002,4.0,BEO6000,3.0,Digital Media and Content Creation
+42802,fihri,Miguel,Flores,19,Male,Cambodia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Operations and Supply Chain Management
+38344,mFxZw,Maria,Garcia,33,Female,Cambodia,BAO6504,1,BCO7002,4.0,,,General Business and Management
+61024,iOewM,Juan,Gonzalez,18,Male,Myanmar,BCO7005,2,BEO6000,3.0,,,General Business and Management
+74289,GSGii,Roberto,Torres,28,Male,Singapore,BCO7005,2,BEO6000,3.0,BAO6504,1.0,Financial and Managerial Accounting
+87376,clDbC,Ricardo,Morales,22,Male,Philippines,BCO7000,1,BCO7006,3.0,BCO7007,2.0,Information Technology and Systems
+62894,1MM6R,Antonio,Ramos,19,Male,Laos,BCO7007,2,"	
+WOM1000",1.0,BEO6000,3.0,General Business and Management
+94538,09U6b,Maria,Reyes,35,Female,Myanmar,BEO6000,3,BAO6504,1.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+09921,fgnXr,Angelica,Santos,26,Female,Indonesia,BEO6000,3,BAO6504,1.0,,,Financial and Managerial Accounting
+04362,pA9SP,Jose,Morales,25,Male,Vietnam,BEO6600,2,,,,,Information Technology and Systems
+94049,YqWYI,Carmen,Ramos,18,Female,Laos,BCO7003,1,BCO7005,2.0,BEO6000,3.0,General Business and Management
+37920,fTA6y,Ricardo,Flores,32,Male,Philippines,BCO7002,4,BCO7003,1.0,,,Data-Driven Decision Making and Analytics
+48558,nNLyb,Veronica,Rivera,21,Female,Cambodia,BCO7000,1,BCO7006,2.0,BCO7003,1.0,Digital Media and Content Creation
+57845,EyjfT,Antonio,Garcia,22,Male,Cambodia,BCO7004,4,,,,,Operations and Supply Chain Management
+35081,px8Sv,Roberto,Reyes,34,Male,Cambodia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Digital Media and Content Creation
+52715,DE26K,Sofia,Cruz,18,Female,Thailand,BEO6000,3,BCO7005,2.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+53692,rDCug,Antonio,Martinez,26,Male,Myanmar,BCO7002,4,BCO6008,2.0,BCO7003,1.0,Financial and Managerial Accounting
+17989,9jjyC,Jessica,Flores,31,Female,Cambodia,BCO7004,4,BCO7000,1.0,BEO6000,3.0,Operations and Supply Chain Management
+27604,tiG7v,Rosa,Garcia,29,Female,Philippines,BEO6600,2,BCO7003,1.0,,,Marketing Strategy and Consumer Behavior
+70414,KiyHM,Alicia,Flores,21,Female,Philippines,BCO7000,1,BCO7006,1.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+07463,1ytXS,Angelica,Garcia,32,Female,Brunei,BCO7000,1,BCO7006,4.0,BAO6504,1.0,Marketing Strategy and Consumer Behavior
+29540,uZo2A,Alberto,Cruz,26,Male,Myanmar,BCO7007,2,BCO7003,1.0,,,Data-Driven Decision Making and Analytics
+56041,QMxo6,Carmen,Gonzalez,31,Female,Singapore,BCO7005,2,,,,,General Business and Management
+00897,x5uLB,Antonio,Martinez,25,Male,Thailand,BCO7007,2,,,,,Leadership and Strategic Management
+81991,g0i5d,Juan,Santos,21,Male,Malaysia,BEO6000,3,BCO7002,4.0,"	
+WOM1000",1.0,Marketing Strategy and Consumer Behavior
+35745,kq2uJ,Isabela,Rivera,34,Female,Singapore,BCO7000,3,BCO7006,1.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+68319,lYQ3f,Roberto,Morales,32,Male,Indonesia,BCO7006,1,BCO7005,2.0,BEO6000,3.0,Operations and Supply Chain Management
+13638,CL4p1,Roberto,Santos,31,Male,Philippines,BCO6008,2,,,,,Information Technology and Systems
+80269,WIiGg,Juan,Fernandez,21,Male,Myanmar,BCO7002,4,BAO6504,1.0,,,Financial and Managerial Accounting
+87389,wFU1Q,Sofia,Flores,30,Female,Singapore,BCO7007,2,,,,,Marketing Strategy and Consumer Behavior
+60430,nFlaP,Fernando,Morales,33,Male,Singapore,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Information Technology and Systems
+75713,VrqEB,Miguel,Gonzalez,23,Male,Laos,BEO6000,3,BCO7003,1.0,,,Marketing Strategy and Consumer Behavior
+41555,ZUMA6,Veronica,Torres,20,Female,Vietnam,BCO7002,4,,,,,General Business and Management
+34319,iu50n,Carmen,Torres,30,Female,Singapore,BCO7004,4,BCO7000,1.0,,,Leadership and Strategic Management
+20600,U6qc0,Fernando,Gonzalez,19,Male,Laos,BCO7002,4,BCO6008,2.0,,,General Business and Management
+22438,wQNns,Alicia,Ramos,26,Female,Brunei,BCO7002,4,,,,,Financial and Managerial Accounting
+93030,gABfl,Ricardo,Reyes,33,Male,Thailand,BCO7004,4,,,,,Leadership and Strategic Management
+18272,6eBEs,Ismael,Rivera,35,Male,Brunei,BCO7000,4,BCO7006,4.0,"	
+WOM1000",1.0,Data-Driven Decision Making and Analytics
+38557,AQN8D,Jessica,Rivera,18,Female,Singapore,BCO7004,4,BCO7000,1.0,BCO7007,2.0,Digital Media and Content Creation
+55247,da1hk,Juan,Torres,31,Male,Myanmar,BEO6000,3,BCO7000,1.0,,,Leadership and Strategic Management
+88913,rzYyD,Jose,Rivera,26,Male,Brunei,BCO7004,4,,,,,General Business and Management
+08193,FY2Uj,Maria,Rivera,29,Female,Philippines,BCO7002,4,BEO6000,3.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+87571,0IOgX,Veronica,Gonzalez,32,Female,Philippines,BEO6000,3,BCO7002,4.0,BCO7005,2.0,General Business and Management
+14716,ypZNB,Alberto,Gonzalez,23,Male,Malaysia,BCO7000,4,BCO7006,2.0,BCO7002,4.0,General Business and Management
+97410,IQ5JX,Isabela,Reyes,18,Female,Vietnam,BEO6000,3,BCO7002,4.0,,,Operations and Supply Chain Management
+63052,gJuzX,Miguel,Gonzalez,25,Male,Thailand,BCO7004,4,,,,,Digital Media and Content Creation
+96204,J2kWZ,Antonio,Fernandez,35,Male,Philippines,BCO7000,4,BCO7006,1.0,BCO7004,4.0,Information Technology and Systems
+09538,65yyL,Jose,Morales,23,Male,Vietnam,BEO6600,2,BCO7004,4.0,,,Leadership and Strategic Management
+65983,JWAK6,Carmen,Garcia,29,Female,Malaysia,"	
+WOM1000",1,BEO6000,3.0,BCO7002,4.0,Information Technology and Systems
+93752,QmRfT,Antonio,Gonzalez,26,Male,Myanmar,BEO6000,3,,,,,Financial and Managerial Accounting
+63435,z93d9,Isabela,Morales,34,Female,Singapore,BEO6600,2,,,,,Financial and Managerial Accounting
+69702,X6HxO,Roberto,Gonzalez,22,Male,Myanmar,"	
+WOM1000",1,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+98561,o9394,Juan,Rivera,27,Male,Cambodia,BEO6000,3,BCO6008,2.0,,,Marketing Strategy and Consumer Behavior
+73085,KC1Dx,Carlos,Santos,35,Male,Myanmar,BAO6504,1,BEO6000,3.0,BCO7004,4.0,Leadership and Strategic Management
+12679,pKbOY,Fernando,Cruz,33,Male,Brunei,"	
+WOM1000",1,,,,,Marketing Strategy and Consumer Behavior
+91256,txqYC,Angelica,Cruz,27,Female,Thailand,"	
+WOM1000",1,BCO7002,4.0,,,Data-Driven Decision Making and Analytics
+53140,ipZ7y,Carmen,Martinez,33,Female,Malaysia,BEO6000,3,BCO7000,1.0,BEO6600,2.0,Financial and Managerial Accounting
+01103,j95CY,Ricardo,Flores,30,Male,Indonesia,BCO7000,2,BCO7006,3.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+89639,OrQyC,Alicia,Gonzalez,31,Female,Philippines,BAO6504,1,BCO7007,2.0,BCO7002,4.0,Information Technology and Systems
+31296,I6Luj,Miguel,Cruz,32,Male,Thailand,BCO7006,1,,,,,General Business and Management
+94064,EHjUt,Luisa,Ramos,34,Female,Philippines,BCO7002,4,BEO6600,2.0,,,Operations and Supply Chain Management
+65211,pK5eh,Carmen,Fernandez,20,Female,Indonesia,BCO7007,2,BEO6000,3.0,BAO6504,1.0,Information Technology and Systems
+48565,gwtBl,Ricardo,Cruz,21,Male,Indonesia,BEO6000,3,BCO7003,1.0,BCO7005,2.0,Information Technology and Systems
+27405,qWcfj,Veronica,Santos,27,Female,Vietnam,BCO7007,2,BCO7002,4.0,BCO7006,1.0,Marketing Strategy and Consumer Behavior
+51562,JgoKU,Alberto,Garcia,33,Male,Philippines,BCO7002,4,BCO7007,2.0,,,Financial and Managerial Accounting
+13957,J5W0l,Isabela,Martinez,26,Female,Myanmar,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Financial and Managerial Accounting
+80543,RPFQd,Isabela,Rivera,31,Female,Vietnam,BCO7004,4,,,,,Marketing Strategy and Consumer Behavior
+24937,Dzkdb,Carlos,Gonzalez,24,Male,Philippines,BCO7002,4,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+33258,lwFMH,Maria,Torres,21,Female,Philippines,BCO7004,4,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+69431,jkrq0,Miguel,Ramos,22,Male,Philippines,BEO6000,3,BCO7002,4.0,,,Information Technology and Systems
+37153,D9d5X,Carmen,Torres,20,Female,Thailand,BCO6008,2,,,,,Financial and Managerial Accounting
+65908,jwalx,Fernando,Fernandez,29,Male,Myanmar,BCO7006,1,,,,,Marketing Strategy and Consumer Behavior
+87090,GBXye,Isabela,Reyes,24,Female,Singapore,BEO6600,2,BCO7004,4.0,,,Marketing Strategy and Consumer Behavior
+91225,A3184,Jessica,Martinez,30,Female,Thailand,BEO6000,3,BCO7002,4.0,"	
+WOM1000",1.0,Data-Driven Decision Making and Analytics
+06910,eqcDQ,Rosa,Flores,33,Female,Malaysia,BEO6000,3,,,,,General Business and Management
+26094,Mq1mh,Jessica,Flores,30,Female,Vietnam,BCO7004,4,BCO6008,2.0,,,Leadership and Strategic Management
+86552,DJJTK,Rosa,Morales,34,Female,Vietnam,BCO7004,4,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+51478,xQi8q,Veronica,Fernandez,20,Female,Malaysia,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Digital Media and Content Creation
+23332,esAaR,Rosa,Cruz,30,Female,Indonesia,BCO7000,4,BCO7006,4.0,BAO6504,1.0,General Business and Management
+30806,Mjf0a,Luisa,Garcia,20,Female,Singapore,BCO7004,4,,,,,Financial and Managerial Accounting
+19858,IMPRV,Veronica,Ramos,28,Female,Laos,BAO6504,1,BEO6000,3.0,BCO7004,4.0,Operations and Supply Chain Management
+71780,4YoKC,Sofia,Torres,19,Female,Myanmar,BCO7002,4,,,,,Digital Media and Content Creation
+30132,02wLB,Carmen,Reyes,19,Female,Thailand,BAO6504,1,BCO7007,2.0,BCO7004,4.0,Operations and Supply Chain Management
+95914,6gdQ0,Carlos,Ramos,27,Male,Singapore,"	
+WOM1000",1,BCO7004,4.0,BCO7005,2.0,General Business and Management
+53758,kYVDj,Carmen,Flores,27,Female,Philippines,BCO7005,2,BCO7003,1.0,BCO7002,4.0,Digital Media and Content Creation
+33557,Ha62y,Alicia,Flores,31,Female,Vietnam,BEO6000,3,BCO7006,1.0,,,Information Technology and Systems
+42278,Xmy51,Roberto,Fernandez,33,Male,Vietnam,BCO7003,1,,,,,Leadership and Strategic Management
+53052,4cUxf,Maria,Flores,35,Female,Malaysia,BCO7000,1,,,,,Data-Driven Decision Making and Analytics
+44036,wLihQ,Ricardo,Ramos,19,Male,Thailand,BCO7002,4,,,,,Digital Media and Content Creation
+49437,Nu6PH,Ismael,Gonzalez,21,Male,Singapore,BEO6600,2,,,,,Marketing Strategy and Consumer Behavior
+96593,bSPQh,Veronica,Rivera,20,Female,Laos,BEO6000,3,,,,,Data-Driven Decision Making and Analytics
+36940,wV5Pj,Carmen,Morales,24,Female,Cambodia,BCO7000,4,BCO7006,2.0,BCO7002,4.0,Financial and Managerial Accounting
+48903,j9Yj3,Carmen,Cruz,33,Female,Malaysia,BEO6000,3,BCO7004,4.0,BEO6600,2.0,Operations and Supply Chain Management
+63585,pz5I2,Alberto,Morales,19,Male,Singapore,BEO6000,3,BCO7000,1.0,BEO6600,2.0,Information Technology and Systems
+26710,FcNlF,Carlos,Torres,34,Male,Myanmar,BCO7002,4,BCO6008,2.0,BEO6000,3.0,Financial and Managerial Accounting
+34001,9tSaG,Antonio,Morales,32,Male,Brunei,"	
+WOM1000",1,,,,,Data-Driven Decision Making and Analytics
+56774,k23ww,Rosa,Fernandez,23,Female,Vietnam,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+73429,wJFN5,Carmen,Reyes,21,Female,Cambodia,BCO7000,4,BCO7006,3.0,BCO7002,4.0,Leadership and Strategic Management
+57426,sNB1x,Jessica,Morales,18,Female,Cambodia,BAO6504,1,,,,,Information Technology and Systems
+67994,AHqLF,Veronica,Rivera,29,Female,Indonesia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Information Technology and Systems
+16648,rFLbs,Rosa,Garcia,35,Female,Malaysia,BEO6000,3,BCO7005,2.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+96150,NhR1t,Rosa,Gonzalez,24,Female,Malaysia,BCO7005,2,BCO7002,4.0,,,Marketing Strategy and Consumer Behavior
+30053,XKA8o,Alicia,Martinez,29,Female,Malaysia,BEO6000,3,,,,,Operations and Supply Chain Management
+30865,0HIGf,Ricardo,Santos,31,Male,Laos,BCO7003,1,,,,,Information Technology and Systems
+45906,qOzh2,Alberto,Torres,31,Male,Thailand,BCO7004,4,BCO7007,2.0,,,Marketing Strategy and Consumer Behavior
+79408,umsNg,Carlos,Fernandez,31,Male,Thailand,BCO7005,2,,,,,Operations and Supply Chain Management
+03436,57wvf,Veronica,Morales,19,Female,Thailand,BCO7004,4,,,,,Financial and Managerial Accounting
+57133,kARSi,Isabela,Cruz,32,Female,Laos,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Leadership and Strategic Management
+75546,XPO5h,Maria,Reyes,24,Female,Myanmar,BEO6000,3,BCO7004,4.0,,,Marketing Strategy and Consumer Behavior
+91219,L8nZg,Angelica,Santos,31,Female,Laos,BEO6000,3,BEO6600,2.0,"	
+WOM1000",1.0,Financial and Managerial Accounting
+89747,cPRJ9,Carlos,Ramos,21,Male,Thailand,BCO7004,4,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+30270,AisA5,Alberto,Martinez,27,Male,Philippines,BCO7004,4,,,,,Leadership and Strategic Management
+15771,52nS7,Luisa,Gonzalez,31,Female,Vietnam,BCO7002,4,,,,,Leadership and Strategic Management
+49747,8CXn4,Isabela,Rivera,28,Female,Malaysia,BCO7002,4,BCO7005,2.0,,,Information Technology and Systems
+12926,FNq3F,Ricardo,Torres,21,Male,Singapore,BCO7000,2,BCO7006,2.0,BCO7007,2.0,Leadership and Strategic Management
+95244,2Af6C,Fernando,Flores,25,Male,Singapore,BCO7007,2,BAO6504,1.0,,,Data-Driven Decision Making and Analytics
+75283,5N44u,Maria,Martinez,23,Female,Cambodia,BCO7004,4,BEO6000,3.0,,,Financial and Managerial Accounting
+10294,VTNNu,Carlos,Rivera,30,Male,Malaysia,BCO7004,4,,,,,Digital Media and Content Creation
+37509,G9QPq,Alberto,Rivera,20,Male,Brunei,BCO7000,3,BCO7006,4.0,BCO7004,4.0,Financial and Managerial Accounting
+13970,XZNLd,Roberto,Santos,30,Male,Indonesia,BCO6008,2,,,,,General Business and Management
+59537,Kb51M,Alicia,Fernandez,22,Female,Cambodia,"	
+WOM1000",1,BEO6600,2.0,BCO7004,4.0,Information Technology and Systems
+86482,sGSPU,Ricardo,Ramos,22,Male,Singapore,BCO7000,3,BCO7006,3.0,BCO7005,2.0,Data-Driven Decision Making and Analytics
+63344,ejQAI,Antonio,Reyes,29,Male,Cambodia,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Information Technology and Systems
+04250,DUIjo,Veronica,Rivera,18,Female,Malaysia,BCO7000,3,BCO7006,3.0,BAO6504,1.0,Leadership and Strategic Management
+70408,npwXV,Carmen,Fernandez,27,Female,Vietnam,BEO6600,2,"	
+WOM1000",1.0,,,Operations and Supply Chain Management
+71978,VCQgs,Angelica,Rivera,20,Female,Laos,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+18642,UO4lV,Ismael,Flores,22,Male,Vietnam,BCO6008,2,BCO7002,4.0,,,Financial and Managerial Accounting
+04117,rpC1V,Ricardo,Cruz,23,Male,Thailand,BCO7000,3,BCO7006,2.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+48497,2Cc7E,Veronica,Garcia,31,Female,Malaysia,BCO7000,1,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+07820,Y9Oj0,Isabela,Rivera,21,Female,Singapore,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Leadership and Strategic Management
+29175,0sCMy,Luisa,Ramos,26,Female,Indonesia,BEO6000,3,BCO7003,1.0,BEO6600,2.0,Information Technology and Systems
+00851,gLen4,Luisa,Ramos,22,Female,Cambodia,BCO7002,4,BEO6000,3.0,BEO6600,2.0,Digital Media and Content Creation
+64689,EVyKQ,Roberto,Martinez,28,Male,Cambodia,BCO7002,4,,,,,Marketing Strategy and Consumer Behavior
+03379,J0ZpV,Fernando,Fernandez,27,Male,Philippines,BEO6000,3,,,,,General Business and Management
+84098,6jljt,Carlos,Morales,27,Male,Cambodia,BCO7000,4,BCO7006,1.0,BCO7003,1.0,Operations and Supply Chain Management
+15775,WdzlT,Jose,Reyes,25,Male,Laos,BEO6600,2,BCO7002,4.0,BCO7003,1.0,Marketing Strategy and Consumer Behavior
+53107,DrSmM,Sofia,Reyes,34,Female,Cambodia,BCO7005,2,BEO6000,3.0,,,Operations and Supply Chain Management
+95064,i7dwh,Miguel,Martinez,19,Male,Philippines,BEO6000,3,,,,,Data-Driven Decision Making and Analytics
+03221,e5eD4,Maria,Ramos,35,Female,Cambodia,BCO6008,2,,,,,General Business and Management
+60310,9Vx2w,Rosa,Martinez,34,Female,Laos,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+00955,EiQue,Carmen,Torres,20,Female,Vietnam,BEO6000,3,BCO7002,4.0,,,Digital Media and Content Creation
+23221,JTpSe,Roberto,Fernandez,23,Male,Vietnam,"	
+WOM1000",1,,,,,Digital Media and Content Creation
+48306,rOTGy,Isabela,Reyes,21,Female,Myanmar,"	
+WOM1000",1,BEO6600,2.0,,,General Business and Management
+39345,cFq1v,Ricardo,Garcia,21,Male,Malaysia,BEO6000,3,BCO6008,2.0,,,Information Technology and Systems
+48495,X5TCM,Miguel,Rivera,28,Male,Singapore,BEO6000,3,BCO7004,4.0,BAO6504,1.0,Digital Media and Content Creation
+45538,KfeNi,Sofia,Rivera,27,Female,Philippines,BCO7002,4,BCO7005,2.0,,,Operations and Supply Chain Management
+07716,4Vo9K,Juan,Reyes,28,Male,Laos,BEO6000,3,,,,,General Business and Management
+05377,IzGYA,Jessica,Fernandez,20,Female,Brunei,BCO7004,4,BEO6000,3.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+80023,STqOb,Alberto,Santos,24,Male,Vietnam,BCO7005,2,BCO7000,1.0,BEO6000,3.0,Operations and Supply Chain Management
+38741,m3XaX,Luisa,Reyes,34,Female,Myanmar,"	
+WOM1000",1,,,,,Leadership and Strategic Management
+17868,2kNyG,Antonio,Torres,32,Male,Philippines,BCO7000,2,BCO7006,2.0,BCO7004,4.0,General Business and Management
+43673,1eY4L,Isabela,Fernandez,18,Female,Thailand,BCO7003,1,,,,,Data-Driven Decision Making and Analytics
+28185,7cCaf,Veronica,Reyes,25,Female,Thailand,BCO6008,2,BCO7003,1.0,,,Leadership and Strategic Management
+42049,FHbJm,Antonio,Rivera,25,Male,Singapore,BCO6008,2,"	
+WOM1000",1.0,,,General Business and Management
+47932,IGvzy,Rosa,Gonzalez,30,Female,Brunei,BEO6000,3,BCO7007,2.0,BCO7002,4.0,Digital Media and Content Creation
+73941,5D56c,Roberto,Rivera,27,Male,Singapore,BCO7005,2,BCO7000,1.0,,,Operations and Supply Chain Management
+28372,mr7XX,Ismael,Martinez,25,Male,Myanmar,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Information Technology and Systems
+49360,Apa53,Rosa,Martinez,28,Female,Vietnam,BEO6000,3,BEO6600,2.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+49287,vxalL,Ismael,Fernandez,25,Male,Singapore,BCO7003,1,BEO6000,3.0,,,General Business and Management
+88237,zA40j,Carlos,Reyes,31,Male,Singapore,BEO6600,2,,,,,Marketing Strategy and Consumer Behavior
+69310,Vrd4E,Alberto,Morales,24,Male,Singapore,BCO7004,4,,,,,Leadership and Strategic Management
+84243,kQgMa,Juan,Ramos,26,Male,Singapore,BCO7000,1,BCO7006,1.0,,,General Business and Management
+26094,tyv1L,Veronica,Flores,34,Female,Malaysia,BCO7004,4,BCO7000,1.0,,,General Business and Management
+72518,yj7z3,Juan,Morales,18,Male,Myanmar,BCO7005,2,,,,,General Business and Management
+54957,L1ewY,Angelica,Gonzalez,25,Female,Vietnam,BCO7007,2,BCO7002,4.0,BCO7003,1.0,Digital Media and Content Creation
+71172,Jud6l,Fernando,Fernandez,29,Male,Indonesia,BCO7004,4,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+35541,83Duu,Juan,Martinez,29,Male,Malaysia,BCO7002,4,,,,,Digital Media and Content Creation
+78451,CkEFF,Jose,Reyes,23,Male,Singapore,BCO7003,1,BCO7005,2.0,BEO6000,3.0,Information Technology and Systems
+66551,rttbn,Angelica,Torres,20,Female,Thailand,"	
+WOM1000",1,BCO7007,2.0,BCO7004,4.0,Leadership and Strategic Management
+22859,ICDOo,Maria,Reyes,24,Female,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Operations and Supply Chain Management
+20355,gCxJH,Miguel,Flores,21,Male,Indonesia,BEO6000,3,BCO7003,1.0,BCO7002,4.0,Operations and Supply Chain Management
+97307,XAPWC,Rosa,Ramos,24,Female,Indonesia,BCO7000,1,BCO7006,1.0,,,Information Technology and Systems
+92945,REnls,Ismael,Garcia,25,Male,Cambodia,BCO7002,4,BCO7005,2.0,,,Information Technology and Systems
+12569,4eoCS,Alberto,Morales,31,Male,Vietnam,BCO7004,4,BEO6000,3.0,BCO7007,2.0,General Business and Management
+21998,VOpbO,Ricardo,Fernandez,24,Male,Thailand,BCO6008,2,"	
+WOM1000",1.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+01656,XvMlT,Maria,Gonzalez,32,Female,Indonesia,BEO6000,3,BEO6600,2.0,,,Marketing Strategy and Consumer Behavior
+64948,J4QvG,Luisa,Gonzalez,33,Female,Malaysia,BCO7003,1,BCO7002,4.0,,,Data-Driven Decision Making and Analytics
+86385,u7wvl,Maria,Fernandez,23,Female,Indonesia,BEO6000,3,BCO7004,4.0,BEO6600,2.0,Operations and Supply Chain Management
+77139,9qPRN,Angelica,Torres,24,Female,Cambodia,BCO7000,4,BCO7006,4.0,BCO7002,4.0,General Business and Management
+86550,HQFgf,Angelica,Fernandez,35,Female,Singapore,BCO7004,4,,,,,Data-Driven Decision Making and Analytics
+59971,OyuOa,Carlos,Santos,29,Male,Laos,"	
+WOM1000",1,BEO6000,3.0,,,Financial and Managerial Accounting
+72038,9MoBo,Antonio,Reyes,20,Male,Myanmar,BEO6000,3,,,,,Information Technology and Systems
+46990,tUyV8,Rosa,Morales,35,Female,Thailand,BCO6008,2,BCO7004,4.0,,,Information Technology and Systems
+89185,em4kR,Luisa,Torres,25,Female,Laos,BAO6504,1,,,,,Leadership and Strategic Management
+30958,w2yp7,Juan,Morales,18,Male,Singapore,BCO7006,1,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+18088,QDizK,Jose,Rivera,32,Male,Laos,BEO6000,3,BAO6504,1.0,,,Information Technology and Systems
+60599,lVzPu,Carlos,Morales,22,Male,Cambodia,BEO6600,2,BCO7006,1.0,,,Digital Media and Content Creation
+76412,auIqc,Fernando,Flores,22,Male,Thailand,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+74577,CdgTc,Juan,Garcia,35,Male,Thailand,BCO7002,4,,,,,Financial and Managerial Accounting
+07598,E5Z6j,Veronica,Cruz,27,Female,Cambodia,BEO6600,2,BEO6000,3.0,,,Leadership and Strategic Management
+83155,Kp58h,Fernando,Cruz,24,Male,Indonesia,BCO7002,4,,,,,Operations and Supply Chain Management
+31258,W6Z12,Carmen,Gonzalez,19,Female,Myanmar,BCO7004,4,,,,,Marketing Strategy and Consumer Behavior
+32255,r5aBF,Sofia,Torres,28,Female,Laos,BCO7003,1,BEO6000,3.0,,,Digital Media and Content Creation
+39688,NaKT7,Fernando,Torres,33,Male,Vietnam,BEO6000,3,BCO7004,4.0,,,General Business and Management
+31718,HBooT,Miguel,Flores,20,Male,Cambodia,BAO6504,1,,,,,Digital Media and Content Creation
+97835,StS00,Jose,Gonzalez,20,Male,Singapore,BCO7000,4,BCO7006,2.0,BCO7007,2.0,General Business and Management
+15609,c3uiO,Maria,Reyes,29,Female,Thailand,BEO6000,3,,,,,Digital Media and Content Creation
+68198,3Ojbd,Jose,Rivera,25,Male,Singapore,BCO7002,4,BCO7000,1.0,,,Digital Media and Content Creation
+38654,9lR2o,Jose,Cruz,35,Male,Vietnam,BEO6600,2,BCO7002,4.0,"	
+WOM1000",1.0,General Business and Management
+18755,djZq1,Maria,Reyes,27,Female,Myanmar,"	
+WOM1000",1,BCO7005,2.0,BCO7002,4.0,General Business and Management
+56957,iD6kj,Antonio,Santos,22,Male,Brunei,BEO6600,2,BCO7002,4.0,"	
+WOM1000",1.0,Digital Media and Content Creation
+94292,Gcbo4,Miguel,Morales,22,Male,Laos,BCO7000,1,BCO7006,4.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+58533,ERtJF,Alicia,Reyes,28,Female,Brunei,BCO7000,1,BCO7006,1.0,"	
+WOM1000",1.0,Digital Media and Content Creation
+43144,UdTrz,Jessica,Torres,25,Female,Thailand,BCO7003,1,,,,,General Business and Management
+81461,uzsLB,Jose,Flores,22,Male,Brunei,BCO7005,2,"	
+WOM1000",1.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+90295,Ef6by,Luisa,Gonzalez,31,Female,Thailand,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+67422,ac42X,Carlos,Morales,26,Male,Indonesia,BCO7004,4,BCO7007,2.0,,,Data-Driven Decision Making and Analytics
+71280,fFktl,Jose,Morales,18,Male,Vietnam,BEO6000,3,BCO7004,4.0,,,Information Technology and Systems
+50160,zSF25,Alberto,Ramos,21,Male,Thailand,BCO7000,1,BCO7006,1.0,,,Digital Media and Content Creation
+11559,Treev,Roberto,Rivera,18,Male,Thailand,BCO7000,3,BCO7006,1.0,BEO6600,2.0,Leadership and Strategic Management
+88052,EZLwd,Jessica,Torres,25,Female,Cambodia,BCO7000,2,BCO7006,2.0,BEO6000,3.0,Digital Media and Content Creation
+76800,dp7Jv,Rosa,Garcia,33,Female,Singapore,BCO7000,1,BCO7006,1.0,BCO7002,4.0,Digital Media and Content Creation
+53786,RcVTb,Maria,Garcia,20,Female,Indonesia,BEO6000,3,BCO7004,4.0,"	
+WOM1000",1.0,General Business and Management
+31191,4KJXr,Ismael,Flores,28,Male,Malaysia,BCO7002,4,,,,,Marketing Strategy and Consumer Behavior
+69820,9aowE,Jessica,Torres,27,Female,Thailand,BCO7004,4,,,,,Financial and Managerial Accounting
+78289,JroW3,Ricardo,Santos,29,Male,Malaysia,BCO7002,4,,,,,Operations and Supply Chain Management
+35154,vSMAH,Rosa,Gonzalez,30,Female,Philippines,BCO7007,2,,,,,Data-Driven Decision Making and Analytics
+47522,YHZ4l,Miguel,Garcia,35,Male,Philippines,"	
+WOM1000",1,BEO6000,3.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+71837,IAOoi,Veronica,Rivera,24,Female,Vietnam,BCO7005,2,BCO7000,1.0,BEO6000,3.0,Information Technology and Systems
+49279,AMA1s,Alberto,Martinez,34,Male,Cambodia,BCO7003,1,BEO6000,3.0,BCO7004,4.0,Digital Media and Content Creation
+06262,7KpNk,Fernando,Ramos,22,Male,Brunei,BCO7002,4,,,,,Information Technology and Systems
+10430,9EheW,Alberto,Gonzalez,25,Male,Vietnam,BCO7002,4,BEO6600,2.0,,,Financial and Managerial Accounting
+09880,sJxES,Carlos,Fernandez,35,Male,Singapore,BCO7000,3,BCO7006,3.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+97035,kaXKc,Carmen,Gonzalez,24,Female,Laos,BCO6008,2,,,,,Marketing Strategy and Consumer Behavior
+82660,0Raze,Rosa,Gonzalez,32,Female,Myanmar,BEO6000,3,,,,,Information Technology and Systems
+05956,XJj6u,Angelica,Gonzalez,24,Female,Thailand,BCO7003,1,BEO6000,3.0,BCO7004,4.0,Leadership and Strategic Management
+41007,p7pDD,Fernando,Santos,27,Male,Vietnam,"	
+WOM1000",1,BCO7004,4.0,BCO7007,2.0,Operations and Supply Chain Management
+91099,Jzt1j,Ricardo,Cruz,23,Male,Philippines,BEO6600,2,,,,,Financial and Managerial Accounting
+13723,wxRIR,Carmen,Gonzalez,22,Female,Indonesia,BCO7005,2,"	
+WOM1000",1.0,BEO6000,3.0,Financial and Managerial Accounting
+14477,3s368,Antonio,Torres,31,Male,Singapore,BEO6000,3,,,,,Information Technology and Systems
+30658,bAoke,Alicia,Martinez,28,Female,Singapore,BCO6008,2,BEO6000,3.0,BCO7002,4.0,Information Technology and Systems
+41384,PtwF4,Maria,Cruz,31,Female,Vietnam,BCO7004,4,BEO6600,2.0,BEO6000,3.0,Financial and Managerial Accounting
+97344,BPzsg,Carmen,Flores,29,Female,Vietnam,BEO6600,2,BCO7000,1.0,,,Digital Media and Content Creation
+01845,UiCGM,Carmen,Fernandez,30,Female,Singapore,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+04955,z0ml2,Jose,Rivera,28,Male,Philippines,BAO6504,1,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+54702,B8qZ8,Ricardo,Santos,24,Male,Cambodia,BCO7000,1,,,,,Operations and Supply Chain Management
+25035,b6sDD,Isabela,Torres,20,Female,Vietnam,BCO7002,4,,,,,Leadership and Strategic Management
+41524,tAUCD,Juan,Santos,21,Male,Singapore,BCO7002,4,BCO7005,2.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+83102,35d9x,Carlos,Rivera,26,Male,Thailand,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+89786,NYqOy,Juan,Garcia,25,Male,Vietnam,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+74893,G1hqE,Alicia,Martinez,29,Female,Malaysia,BCO7000,1,,,,,Digital Media and Content Creation
+87775,3WO6G,Roberto,Cruz,20,Male,Brunei,BCO7000,1,BEO6000,3.0,,,Marketing Strategy and Consumer Behavior
+13943,QVQ8y,Ismael,Morales,27,Male,Indonesia,BEO6000,3,BCO7002,4.0,BCO7000,1.0,Marketing Strategy and Consumer Behavior
+94368,56vSS,Carlos,Torres,33,Male,Vietnam,BCO7000,2,BCO7006,2.0,BCO7002,4.0,Financial and Managerial Accounting
+24577,v0lp6,Ismael,Martinez,35,Male,Singapore,BCO7000,1,BEO6000,3.0,,,Leadership and Strategic Management
+14167,52UmC,Ricardo,Flores,22,Male,Thailand,BEO6000,3,BAO6504,1.0,BCO7005,2.0,Information Technology and Systems
+15929,g2rGS,Carmen,Garcia,22,Female,Laos,BCO7004,4,,,,,Digital Media and Content Creation
+76495,cFMbi,Juan,Rivera,23,Male,Myanmar,BAO6504,1,BCO7002,4.0,BCO7005,2.0,Digital Media and Content Creation
+57028,JRoXb,Isabela,Rivera,27,Female,Malaysia,BCO6008,2,BCO7002,4.0,BCO7000,1.0,Financial and Managerial Accounting
+71549,ax4Xw,Carlos,Garcia,20,Male,Singapore,BCO7006,1,,,,,Digital Media and Content Creation
+89031,uOxh5,Jessica,Rivera,26,Female,Vietnam,BEO6000,3,BCO7007,2.0,BCO7002,4.0,Leadership and Strategic Management
+88409,TQHzk,Rosa,Cruz,20,Female,Brunei,BEO6000,3,,,,,Leadership and Strategic Management
+61912,xZoit,Isabela,Torres,20,Female,Brunei,BCO7000,1,BCO7006,2.0,BEO6600,2.0,Operations and Supply Chain Management
+43204,Ou0AY,Ismael,Martinez,25,Male,Singapore,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Information Technology and Systems
+74969,TPvXc,Ismael,Garcia,23,Male,Malaysia,BEO6000,3,BCO7007,2.0,,,Leadership and Strategic Management
+29409,RZPvv,Juan,Cruz,21,Male,Singapore,BCO7002,4,BEO6000,3.0,,,Digital Media and Content Creation
+60373,bgEwL,Roberto,Ramos,31,Male,Brunei,BEO6000,3,BCO7002,4.0,,,Marketing Strategy and Consumer Behavior
+18797,PHjqD,Carmen,Martinez,25,Female,Indonesia,BCO6008,2,,,,,Data-Driven Decision Making and Analytics
+95624,wdU29,Fernando,Rivera,23,Male,Cambodia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Information Technology and Systems
+91371,64gC4,Jessica,Martinez,22,Female,Singapore,BCO7002,4,"	
+WOM1000",1.0,,,Digital Media and Content Creation
+04539,TlBNF,Jessica,Fernandez,34,Female,Brunei,BEO6000,3,BCO7002,4.0,,,Digital Media and Content Creation
+37698,Kc3wt,Isabela,Garcia,23,Female,Cambodia,BCO7007,2,BCO7000,1.0,BCO7002,4.0,Digital Media and Content Creation
+24927,bnuQ4,Roberto,Rivera,34,Male,Thailand,BCO7007,2,,,,,General Business and Management
+33917,Nw2tB,Jose,Ramos,32,Male,Indonesia,BEO6000,3,BCO7006,1.0,,,Digital Media and Content Creation
+28087,UmYkS,Alicia,Flores,24,Female,Singapore,BEO6000,3,BCO6008,2.0,,,Financial and Managerial Accounting
+16128,wM8mr,Antonio,Reyes,29,Male,Myanmar,BCO7000,2,BCO7006,4.0,BCO6008,2.0,Financial and Managerial Accounting
+05950,lc912,Miguel,Rivera,23,Male,Thailand,BAO6504,1,,,,,Digital Media and Content Creation
+93392,klNzp,Rosa,Fernandez,19,Female,Thailand,BCO7000,1,BCO7004,4.0,,,Financial and Managerial Accounting
+56677,YCqbJ,Maria,Ramos,24,Female,Thailand,BAO6504,1,BEO6000,3.0,,,Operations and Supply Chain Management
+10543,C1Kbh,Jose,Cruz,25,Male,Cambodia,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+01340,v1m0P,Veronica,Cruz,21,Female,Indonesia,BEO6600,2,BAO6504,1.0,BCO7002,4.0,Financial and Managerial Accounting
+85006,Esml3,Ricardo,Torres,18,Male,Singapore,"	
+WOM1000",1,BEO6000,3.0,,,Financial and Managerial Accounting
+69605,tmytq,Luisa,Reyes,30,Female,Thailand,BEO6000,3,BCO7003,1.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+93705,F8XfI,Carlos,Gonzalez,21,Male,Cambodia,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Operations and Supply Chain Management
+03098,GK2oi,Rosa,Morales,25,Female,Indonesia,BCO7003,1,BCO7004,4.0,,,Financial and Managerial Accounting
+18337,AUwMQ,Isabela,Morales,34,Female,Myanmar,BAO6504,1,BEO6000,3.0,BCO7004,4.0,Financial and Managerial Accounting
+90270,PhLIP,Carmen,Garcia,29,Female,Singapore,BCO7000,1,BCO7006,1.0,BCO7002,4.0,Operations and Supply Chain Management
+15651,WTymT,Ricardo,Gonzalez,30,Male,Indonesia,BEO6600,2,BAO6504,1.0,BEO6000,3.0,General Business and Management
+52291,dwZpc,Jessica,Cruz,26,Female,Philippines,BCO7005,2,BEO6000,3.0,BCO7002,4.0,Leadership and Strategic Management
+28583,KvlRq,Juan,Morales,30,Male,Laos,BEO6000,3,BCO7004,4.0,,,Marketing Strategy and Consumer Behavior
+88415,33noS,Alberto,Garcia,28,Male,Cambodia,BCO7000,3,BCO7006,2.0,BEO6000,3.0,Leadership and Strategic Management
+08508,CNyUP,Fernando,Gonzalez,24,Male,Thailand,BCO7006,1,,,,,Financial and Managerial Accounting
+66150,RbiCW,Carmen,Fernandez,23,Female,Myanmar,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+44236,KsdFG,Juan,Santos,34,Male,Indonesia,BEO6000,3,,,,,Financial and Managerial Accounting
+79063,BL4AW,Juan,Santos,33,Male,Indonesia,BCO7007,2,BEO6000,3.0,,,Information Technology and Systems
+57689,1qi6F,Juan,Gonzalez,23,Male,Brunei,BCO7005,2,BCO7004,4.0,,,General Business and Management
+45105,L8MoQ,Fernando,Garcia,31,Male,Singapore,BCO7000,1,BCO7006,1.0,BEO6000,3.0,Information Technology and Systems
+75937,tYYgW,Angelica,Martinez,19,Female,Philippines,BEO6000,3,BCO7004,4.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+72337,gTKcW,Ricardo,Reyes,27,Male,Indonesia,BCO7002,4,BEO6000,3.0,,,Information Technology and Systems
+53709,QOvqR,Veronica,Flores,26,Female,Malaysia,BCO7006,1,BCO6008,2.0,BCO7004,4.0,Financial and Managerial Accounting
+14390,TdojY,Maria,Torres,20,Female,Laos,BCO7005,2,BCO7004,4.0,,,General Business and Management
+41689,mJXLe,Ismael,Rivera,24,Male,Brunei,BCO7005,2,BCO7003,1.0,,,Financial and Managerial Accounting
+10322,45Cqi,Carlos,Martinez,32,Male,Malaysia,BCO7007,2,,,,,Financial and Managerial Accounting
+19689,6fSQg,Carlos,Morales,31,Male,Brunei,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+01354,MJztV,Sofia,Fernandez,26,Female,Philippines,BCO7000,1,BCO7006,1.0,BEO6000,3.0,Information Technology and Systems
+23977,Qr9mA,Roberto,Reyes,22,Male,Cambodia,"	
+WOM1000",1,,,,,Digital Media and Content Creation
+85871,HNmmR,Ricardo,Martinez,22,Male,Vietnam,BAO6504,1,BCO6008,2.0,BEO6000,3.0,Financial and Managerial Accounting
+78236,Q6YDb,Alicia,Torres,27,Female,Philippines,BCO7000,3,BCO7006,1.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+23745,Zd3uI,Ricardo,Garcia,33,Male,Malaysia,BCO7005,2,,,,,Information Technology and Systems
+24527,lc5gI,Ricardo,Rivera,18,Male,Malaysia,BEO6000,3,BCO7005,2.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+36095,yLKDp,Alicia,Cruz,22,Female,Myanmar,BCO7000,1,BCO7006,4.0,BAO6504,1.0,Marketing Strategy and Consumer Behavior
+89146,vEjCx,Miguel,Reyes,18,Male,Myanmar,BCO7000,1,BCO7006,1.0,,,General Business and Management
+40150,ohSBy,Fernando,Flores,26,Male,Vietnam,BCO7003,1,,,,,Leadership and Strategic Management
+04881,EnIhT,Alberto,Fernandez,34,Male,Thailand,BEO6000,3,,,,,Digital Media and Content Creation
+06822,qWIVF,Alicia,Martinez,25,Female,Laos,BCO7007,2,BCO7003,1.0,,,Digital Media and Content Creation
+26581,LD2cD,Juan,Cruz,34,Male,Philippines,BCO7000,3,BCO7006,4.0,BCO7007,2.0,General Business and Management
+38352,K93c4,Carlos,Santos,22,Male,Malaysia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,General Business and Management
+10414,wzKH6,Antonio,Torres,32,Male,Singapore,BEO6000,3,,,,,Operations and Supply Chain Management
+84235,djYOD,Maria,Flores,32,Female,Cambodia,BCO7003,1,BCO7004,4.0,BCO6008,2.0,Digital Media and Content Creation
+39484,l2YD5,Ismael,Martinez,28,Male,Cambodia,BCO7000,4,BCO7006,4.0,BEO6000,3.0,General Business and Management
+93960,uIXi9,Isabela,Rivera,21,Female,Cambodia,BCO6008,2,BCO7000,1.0,,,Marketing Strategy and Consumer Behavior
+48250,it1YA,Carlos,Reyes,32,Male,Vietnam,BEO6000,3,,,,,Operations and Supply Chain Management
+33935,V87d8,Alberto,Flores,30,Male,Myanmar,BCO7006,1,,,,,Digital Media and Content Creation
+95309,yTMxg,Carlos,Santos,22,Male,Myanmar,BEO6000,3,BAO6504,1.0,,,Digital Media and Content Creation
+03080,pflU2,Carmen,Santos,23,Female,Singapore,BEO6600,2,BCO7002,4.0,,,Information Technology and Systems
+03725,esVko,Rosa,Reyes,33,Female,Malaysia,BCO7003,1,BCO6008,2.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+08864,zh0rq,Maria,Santos,35,Female,Singapore,BAO6504,1,BCO7004,4.0,,,Leadership and Strategic Management
+96882,TQAgi,Miguel,Morales,28,Male,Thailand,BCO7002,4,BCO7007,2.0,,,Information Technology and Systems
+89309,ej0A5,Carmen,Cruz,22,Female,Philippines,BEO6000,3,,,,,Leadership and Strategic Management
+74165,bYWWi,Carlos,Reyes,20,Male,Singapore,BCO7002,4,,,,,Data-Driven Decision Making and Analytics
+44164,6B1DN,Miguel,Ramos,27,Male,Singapore,BCO7004,4,BCO7007,2.0,,,Marketing Strategy and Consumer Behavior
+49845,AHT0I,Carlos,Morales,20,Male,Thailand,BCO7000,2,BCO7006,2.0,BCO7007,2.0,Financial and Managerial Accounting
+42115,Kn2PK,Juan,Santos,19,Male,Myanmar,BCO7005,2,BCO7004,4.0,,,Operations and Supply Chain Management
+37620,cquZq,Alberto,Morales,20,Male,Indonesia,BCO7000,1,BCO7006,3.0,BCO7002,4.0,Leadership and Strategic Management
+52609,QYZdc,Fernando,Torres,32,Male,Brunei,BCO6008,2,BAO6504,1.0,BEO6000,3.0,Financial and Managerial Accounting
+43613,ewzAt,Alicia,Fernandez,30,Female,Laos,BCO7002,4,,,,,Digital Media and Content Creation
+94467,BxwgT,Miguel,Reyes,25,Male,Vietnam,BCO7003,1,BEO6000,3.0,,,Digital Media and Content Creation
+06816,dR3XQ,Ismael,Santos,19,Male,Indonesia,BEO6000,3,BCO7004,4.0,,,General Business and Management
+19424,rh6xZ,Maria,Santos,27,Female,Laos,BCO7007,2,,,,,Financial and Managerial Accounting
+99176,gSqrf,Ismael,Fernandez,25,Male,Philippines,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Leadership and Strategic Management
+82209,tZCmQ,Ismael,Flores,20,Male,Vietnam,"	
+WOM1000",1,,,,,Digital Media and Content Creation
+59452,WC9AG,Carlos,Torres,34,Male,Malaysia,BCO7002,4,BEO6000,3.0,BCO7000,1.0,Data-Driven Decision Making and Analytics
+53983,UkN9q,Carlos,Reyes,26,Male,Malaysia,BEO6000,3,BCO7007,2.0,,,Financial and Managerial Accounting
+37444,Akose,Juan,Garcia,22,Male,Thailand,"	
+WOM1000",1,,,,,Marketing Strategy and Consumer Behavior
+25895,XzNlM,Luisa,Fernandez,19,Female,Cambodia,"	
+WOM1000",1,BCO7004,4.0,BCO6008,2.0,Digital Media and Content Creation
+11992,RKZwz,Jessica,Martinez,27,Female,Thailand,BEO6000,3,,,,,Operations and Supply Chain Management
+23525,p2i6s,Ismael,Gonzalez,30,Male,Laos,BCO7002,4,BEO6000,3.0,,,Information Technology and Systems
+38150,YaU2T,Juan,Torres,34,Male,Malaysia,BEO6000,3,,,,,Data-Driven Decision Making and Analytics
+00109,XN18d,Alberto,Cruz,34,Male,Indonesia,BCO7000,4,BCO7006,3.0,BCO7003,1.0,Financial and Managerial Accounting
+82745,67S6n,Maria,Cruz,19,Female,Cambodia,BEO6000,3,BCO7002,4.0,,,Marketing Strategy and Consumer Behavior
+35654,Cm3c6,Fernando,Fernandez,25,Male,Myanmar,BCO7007,2,BCO7006,1.0,BEO6000,3.0,General Business and Management
+38517,UnVBG,Jose,Ramos,30,Male,Brunei,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Operations and Supply Chain Management
+01398,0neYW,Miguel,Fernandez,34,Male,Indonesia,BCO7000,2,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+22027,Ffu7n,Jessica,Fernandez,22,Female,Myanmar,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+68814,rpeV6,Antonio,Torres,26,Male,Thailand,BCO7007,2,BAO6504,1.0,,,Operations and Supply Chain Management
+38578,UcpD7,Ricardo,Reyes,26,Male,Laos,BEO6600,2,BEO6000,3.0,,,Information Technology and Systems
+18325,o9NP3,Juan,Fernandez,21,Male,Malaysia,BEO6000,3,BCO7000,1.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+46785,xbyJc,Carmen,Reyes,26,Female,Thailand,BCO7006,1,BEO6000,3.0,,,Leadership and Strategic Management
+68040,PoUDU,Fernando,Gonzalez,27,Male,Indonesia,BCO7002,4,BEO6000,3.0,,,Digital Media and Content Creation
+26473,zbZmE,Alicia,Fernandez,22,Female,Vietnam,BEO6000,3,,,,,Information Technology and Systems
+84506,8dsTX,Miguel,Torres,21,Male,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+49344,fmj6F,Juan,Torres,30,Male,Thailand,BCO7004,4,BAO6504,1.0,,,General Business and Management
+58294,KJHPM,Ricardo,Martinez,33,Male,Brunei,BCO7005,2,BEO6000,3.0,BAO6504,1.0,Financial and Managerial Accounting
+06100,0p9BP,Luisa,Cruz,26,Female,Indonesia,BCO7004,4,BCO7007,2.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+21003,MZi52,Isabela,Fernandez,23,Female,Singapore,BCO7007,2,BEO6000,3.0,,,Financial and Managerial Accounting
+32792,w0Azr,Sofia,Santos,29,Female,Laos,BCO7004,4,BEO6000,3.0,"	
+WOM1000",1.0,Operations and Supply Chain Management
+86559,siAyl,Antonio,Torres,34,Male,Cambodia,BCO7000,1,BCO7006,1.0,,,Operations and Supply Chain Management
+89031,lsSGS,Jose,Torres,22,Male,Malaysia,BEO6000,3,BCO7004,4.0,BEO6600,2.0,General Business and Management
+22503,kjRcO,Sofia,Ramos,27,Female,Indonesia,BCO7000,4,BCO7006,3.0,BCO7002,4.0,General Business and Management
+03754,A1vux,Alicia,Reyes,25,Female,Indonesia,BEO6600,2,,,,,Marketing Strategy and Consumer Behavior
+91142,nhE9O,Maria,Morales,33,Female,Myanmar,BCO7004,4,BEO6600,2.0,,,Digital Media and Content Creation
+33062,d4DcL,Luisa,Martinez,22,Female,Philippines,BCO7005,2,BCO7003,1.0,BCO7002,4.0,Operations and Supply Chain Management
+81110,EkBtL,Rosa,Gonzalez,28,Female,Laos,BCO7002,4,BEO6600,2.0,BCO7003,1.0,Digital Media and Content Creation
+99696,jCrK1,Maria,Morales,26,Female,Vietnam,BCO7004,4,"	
+WOM1000",1.0,,,Leadership and Strategic Management
+95728,eKDfr,Antonio,Fernandez,19,Male,Singapore,BEO6000,3,BCO7004,4.0,,,Leadership and Strategic Management
+25059,DIZRX,Ismael,Cruz,24,Male,Myanmar,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Information Technology and Systems
+19276,wt1RI,Isabela,Ramos,28,Female,Brunei,BCO7003,1,BEO6600,2.0,,,Financial and Managerial Accounting
+12938,fWGeB,Juan,Rivera,27,Male,Malaysia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+99547,bAf5M,Ismael,Martinez,24,Male,Brunei,BCO6008,2,,,,,Information Technology and Systems
+70225,jtaAg,Luisa,Gonzalez,18,Female,Cambodia,BEO6000,3,BCO7000,1.0,BCO7007,2.0,General Business and Management
+08267,xRruC,Ricardo,Rivera,25,Male,Vietnam,"	
+WOM1000",1,,,,,Data-Driven Decision Making and Analytics
+72799,k8Sp9,Fernando,Rivera,27,Male,Indonesia,BCO7000,1,BCO7002,4.0,,,Financial and Managerial Accounting
+38166,tJ4JM,Sofia,Garcia,19,Female,Indonesia,BCO7004,4,BEO6000,3.0,,,Information Technology and Systems
+98661,7c3zq,Luisa,Morales,26,Female,Vietnam,BCO7004,4,BCO7007,2.0,,,Operations and Supply Chain Management
+67128,x4R9t,Angelica,Santos,19,Female,Philippines,BEO6000,3,BCO7006,1.0,,,Data-Driven Decision Making and Analytics
+03524,WZcXV,Luisa,Cruz,28,Female,Indonesia,BCO7000,1,BEO6000,3.0,BCO7004,4.0,Leadership and Strategic Management
+44006,sj3Wi,Ricardo,Santos,29,Male,Laos,BCO7002,4,,,,,General Business and Management
+04965,1NmlT,Rosa,Reyes,27,Female,Philippines,BCO7000,4,BCO7006,4.0,BCO7005,2.0,Operations and Supply Chain Management
+00230,ee3Nu,Rosa,Ramos,30,Female,Singapore,BAO6504,1,,,,,Digital Media and Content Creation
+31328,ykb8k,Jessica,Rivera,33,Female,Myanmar,BCO7006,1,BCO7002,4.0,BEO6000,3.0,Data-Driven Decision Making and Analytics
+36317,H2WC2,Alberto,Garcia,29,Male,Thailand,BCO6008,2,"	
+WOM1000",1.0,,,Information Technology and Systems
+56791,lPaHc,Veronica,Martinez,21,Female,Indonesia,BCO7007,2,BCO7000,1.0,,,Operations and Supply Chain Management
+53040,9MZES,Alicia,Ramos,20,Female,Vietnam,BCO7005,2,,,,,Financial and Managerial Accounting
+91973,RKqbx,Carmen,Flores,23,Female,Cambodia,BEO6000,3,,,,,Data-Driven Decision Making and Analytics
+64482,u7uQL,Carmen,Martinez,29,Female,Vietnam,BEO6000,3,BCO7004,4.0,"	
+WOM1000",1.0,Operations and Supply Chain Management
+57129,cSnJX,Jose,Santos,29,Male,Brunei,BCO7000,1,,,,,Marketing Strategy and Consumer Behavior
+90584,P0zj2,Maria,Morales,20,Female,Thailand,BCO7000,4,BCO7006,1.0,BCO7002,4.0,Information Technology and Systems
+42907,RcbDf,Sofia,Torres,30,Female,Vietnam,BCO7000,3,BCO7006,2.0,BEO6000,3.0,Information Technology and Systems
+14808,LiQ3Q,Miguel,Reyes,24,Male,Brunei,BCO7000,2,BCO7006,3.0,BEO6600,2.0,Leadership and Strategic Management
+48235,dFaPD,Isabela,Cruz,24,Female,Malaysia,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Leadership and Strategic Management
+38667,zx4nb,Jessica,Rivera,22,Female,Myanmar,BCO7004,4,,,,,Financial and Managerial Accounting
+85636,a5qOt,Ismael,Rivera,19,Male,Cambodia,BCO7000,3,BCO7006,2.0,BEO6600,2.0,Leadership and Strategic Management
+10887,N1LYp,Miguel,Martinez,20,Male,Malaysia,BCO7005,2,BEO6000,3.0,,,General Business and Management
+46849,3a4QR,Miguel,Fernandez,29,Male,Philippines,BCO7004,4,,,,,Leadership and Strategic Management
+85921,hQFPt,Roberto,Cruz,33,Male,Vietnam,BEO6000,3,,,,,Operations and Supply Chain Management
+76900,7gLEG,Juan,Garcia,33,Male,Vietnam,BCO7000,1,BCO7004,4.0,,,Data-Driven Decision Making and Analytics
+24101,NrIRR,Isabela,Fernandez,34,Female,Singapore,"	
+WOM1000",1,,,,,Information Technology and Systems
+03162,KYprn,Sofia,Cruz,25,Female,Brunei,BCO7006,1,BCO7005,2.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+61126,eKaWZ,Miguel,Santos,20,Male,Laos,BCO7006,1,,,,,Digital Media and Content Creation
+64874,fMiBg,Isabela,Fernandez,28,Female,Malaysia,BCO7000,1,BCO7006,4.0,BCO7003,1.0,General Business and Management
+90076,pXuXm,Ricardo,Reyes,29,Male,Myanmar,"	
+WOM1000",1,,,,,Marketing Strategy and Consumer Behavior
+79821,5YBY9,Rosa,Reyes,26,Female,Laos,BEO6000,3,BCO7005,2.0,BCO7002,4.0,Data-Driven Decision Making and Analytics
+51864,trCpX,Carlos,Flores,24,Male,Thailand,BEO6000,3,BCO7007,2.0,,,Digital Media and Content Creation
+80825,F4Y7M,Jessica,Gonzalez,31,Female,Vietnam,BCO7005,2,,,,,Information Technology and Systems
+86882,ahyBM,Maria,Fernandez,18,Female,Thailand,BCO7007,2,BCO7004,4.0,BCO7006,1.0,Operations and Supply Chain Management
+42688,BS0Uz,Jessica,Reyes,21,Female,Myanmar,BCO7003,1,BCO7007,2.0,BEO6000,3.0,General Business and Management
+83582,dRXHo,Alicia,Gonzalez,34,Female,Brunei,BEO6000,3,BEO6600,2.0,,,Financial and Managerial Accounting
+88278,d5OJl,Jose,Cruz,20,Male,Singapore,BEO6600,2,,,,,Financial and Managerial Accounting
+67422,Ak1Ao,Sofia,Torres,28,Female,Brunei,BCO7000,2,BCO7006,2.0,BCO7005,2.0,Leadership and Strategic Management
+53254,lniZx,Angelica,Gonzalez,35,Female,Cambodia,BCO7005,2,,,,,Information Technology and Systems
+13866,D5LkN,Ismael,Martinez,20,Male,Philippines,BCO7007,2,BCO7002,4.0,BEO6000,3.0,Digital Media and Content Creation
+82222,fMqEC,Jessica,Garcia,20,Female,Myanmar,BCO7006,1,,,,,Data-Driven Decision Making and Analytics
+40901,p3oqr,Rosa,Morales,26,Female,Cambodia,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Leadership and Strategic Management
+83370,24d8y,Isabela,Gonzalez,31,Female,Singapore,BCO7000,2,BCO7006,2.0,BCO7007,2.0,Financial and Managerial Accounting
+53717,Fd0jo,Alberto,Martinez,31,Male,Singapore,BCO7003,1,BEO6000,3.0,BCO6008,2.0,Marketing Strategy and Consumer Behavior
+33324,573Ox,Angelica,Rivera,21,Female,Cambodia,BCO7000,1,,,,,Marketing Strategy and Consumer Behavior
+23836,S0rxm,Maria,Cruz,32,Female,Cambodia,"	
+WOM1000",1,BCO7002,4.0,BEO6600,2.0,Digital Media and Content Creation
+79036,5hoMi,Roberto,Flores,34,Male,Laos,BEO6600,2,BCO7000,1.0,,,Leadership and Strategic Management
+26672,g7bib,Alberto,Garcia,32,Male,Myanmar,BEO6000,3,,,,,General Business and Management
+48743,6Z9Dw,Juan,Cruz,33,Male,Myanmar,BCO7004,4,BCO7005,2.0,,,Marketing Strategy and Consumer Behavior
+94006,Eny6G,Jessica,Santos,26,Female,Laos,BCO7003,1,,,,,Operations and Supply Chain Management
+56296,LX8zx,Jose,Rivera,33,Male,Laos,BEO6600,2,BEO6000,3.0,BCO7002,4.0,General Business and Management
+03484,a4q9n,Veronica,Santos,24,Female,Vietnam,BCO7000,1,BCO7007,2.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+60425,Vrmul,Maria,Ramos,34,Female,Philippines,BCO7000,3,BCO7006,1.0,BAO6504,1.0,Leadership and Strategic Management
+77708,KeuVJ,Carmen,Rivera,20,Female,Philippines,BCO7006,1,BCO7004,4.0,BCO7007,2.0,Data-Driven Decision Making and Analytics
+61271,aaEgj,Juan,Santos,23,Male,Laos,BEO6000,3,,,,,Operations and Supply Chain Management
+99953,Bsicx,Alicia,Reyes,27,Female,Brunei,BCO7005,2,,,,,Information Technology and Systems
+30098,RNXjP,Fernando,Torres,32,Male,Myanmar,BCO7002,4,,,,,Digital Media and Content Creation
+25138,dm23I,Miguel,Reyes,21,Male,Thailand,BAO6504,1,,,,,Leadership and Strategic Management
+08447,O7gVo,Jose,Torres,29,Male,Vietnam,"	
+WOM1000",1,,,,,Leadership and Strategic Management
+77742,xnXjB,Ricardo,Fernandez,32,Male,Cambodia,BCO7003,1,BEO6000,3.0,BCO7004,4.0,Digital Media and Content Creation
+17389,AuOqm,Fernando,Cruz,26,Male,Malaysia,BCO7002,4,,,,,General Business and Management
+27143,SMByc,Miguel,Santos,21,Male,Myanmar,BCO7002,4,,,,,Data-Driven Decision Making and Analytics
+37469,VgUNv,Fernando,Morales,22,Male,Philippines,BCO7000,1,BEO6000,3.0,BEO6600,2.0,Operations and Supply Chain Management
+09542,ZZXGM,Alberto,Martinez,30,Male,Thailand,BCO7004,4,BCO7007,2.0,BEO6000,3.0,Information Technology and Systems
+63096,Nt484,Juan,Ramos,21,Male,Singapore,BCO7007,2,BCO7002,4.0,,,Operations and Supply Chain Management
+70558,xxWij,Carmen,Morales,23,Female,Philippines,BCO7000,1,BCO7006,2.0,BCO7007,2.0,General Business and Management
+08043,kqB66,Fernando,Flores,20,Male,Brunei,BCO7004,4,BCO7000,1.0,,,Information Technology and Systems
+81760,jCPWQ,Rosa,Torres,20,Female,Vietnam,BCO7000,2,BCO7006,4.0,BEO6000,3.0,Digital Media and Content Creation
+92115,CmPP5,Carlos,Santos,31,Male,Vietnam,BCO6008,2,,,,,Operations and Supply Chain Management
+15540,1mxOv,Antonio,Martinez,35,Male,Brunei,BCO7000,3,BCO7006,3.0,BCO6008,2.0,Marketing Strategy and Consumer Behavior
+94814,SmoBD,Ricardo,Reyes,23,Male,Indonesia,BCO7004,4,BEO6000,3.0,BCO7005,2.0,Data-Driven Decision Making and Analytics
+71464,DBOUs,Maria,Torres,31,Female,Philippines,BCO7000,1,BCO7005,2.0,BEO6000,3.0,General Business and Management
+14806,ROZeC,Maria,Torres,18,Female,Singapore,BCO7002,4,BEO6000,3.0,BCO7007,2.0,Operations and Supply Chain Management
+18173,nNjxR,Veronica,Martinez,34,Female,Brunei,BCO7002,4,,,,,Marketing Strategy and Consumer Behavior
+61023,w8mlv,Juan,Flores,33,Male,Indonesia,BCO6008,2,BEO6000,3.0,BCO7004,4.0,General Business and Management
+37263,hbeQJ,Carmen,Reyes,35,Female,Thailand,BCO7002,4,,,,,Operations and Supply Chain Management
+22605,F9Oqc,Fernando,Flores,19,Male,Laos,BCO7000,4,BCO7006,4.0,BCO7002,4.0,Marketing Strategy and Consumer Behavior
+59433,HL5jQ,Ismael,Morales,20,Male,Myanmar,BCO7000,1,BCO7006,1.0,,,Financial and Managerial Accounting
+94892,Vjuk1,Sofia,Torres,23,Female,Malaysia,BCO6008,2,BEO6000,3.0,BCO7004,4.0,Operations and Supply Chain Management
+21910,glXR2,Isabela,Martinez,29,Female,Cambodia,BCO7000,1,BCO7002,4.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+88767,fwVbr,Antonio,Rivera,30,Male,Philippines,BCO7002,4,,,,,Digital Media and Content Creation
+38005,rvh2J,Alberto,Cruz,24,Male,Malaysia,BCO7000,1,BCO7006,1.0,BCO7002,4.0,Leadership and Strategic Management
+21773,A2Zp4,Luisa,Garcia,31,Female,Indonesia,BAO6504,1,,,,,Data-Driven Decision Making and Analytics
+44388,zOYhB,Angelica,Reyes,32,Female,Singapore,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Financial and Managerial Accounting
+98913,xJsJg,Alicia,Ramos,23,Female,Myanmar,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Data-Driven Decision Making and Analytics
+01780,CQOYY,Rosa,Fernandez,21,Female,Singapore,BCO7007,2,BCO7006,1.0,,,Marketing Strategy and Consumer Behavior
+53421,Bn64W,Antonio,Gonzalez,22,Male,Myanmar,BCO7000,1,BCO7006,1.0,BAO6504,1.0,Information Technology and Systems
+81648,H4mcm,Rosa,Morales,25,Female,Laos,BEO6000,3,,,,,Information Technology and Systems
+14582,g3cLt,Carlos,Santos,32,Male,Indonesia,BCO7002,4,BCO7005,2.0,BEO6000,3.0,Digital Media and Content Creation
+65573,e7F5c,Maria,Fernandez,23,Female,Cambodia,BCO7000,4,BCO7006,4.0,BCO7004,4.0,Digital Media and Content Creation
+46282,fxLbs,Jessica,Garcia,18,Female,Thailand,BCO6008,2,,,,,Data-Driven Decision Making and Analytics
+15251,cVQAF,Ricardo,Flores,23,Male,Philippines,"	
+WOM1000",1,BCO7002,4.0,BCO7007,2.0,General Business and Management
+14777,QFH6n,Juan,Reyes,25,Male,Singapore,BCO7002,4,BCO7003,1.0,BEO6000,3.0,Information Technology and Systems
+07536,TjTyd,Roberto,Morales,21,Male,Brunei,BCO7003,1,BCO7005,2.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+67221,Uqg93,Luisa,Rivera,26,Female,Malaysia,BEO6000,3,BCO7004,4.0,,,Digital Media and Content Creation
+38658,i8Uwk,Angelica,Torres,28,Female,Vietnam,BCO7002,4,BEO6600,2.0,,,Leadership and Strategic Management
+63524,DkS14,Angelica,Martinez,26,Female,Laos,BCO7000,1,BCO7006,2.0,BCO7004,4.0,Information Technology and Systems
+63149,u912E,Jose,Fernandez,19,Male,Indonesia,BAO6504,1,BEO6000,3.0,,,Operations and Supply Chain Management
+67920,otmu8,Alicia,Santos,26,Female,Laos,BCO7000,2,BCO7006,2.0,BCO7002,4.0,Financial and Managerial Accounting
+79583,CkpmX,Alberto,Garcia,18,Male,Thailand,BCO7002,4,BEO6600,2.0,BEO6000,3.0,General Business and Management
+11521,4HjBc,Carmen,Reyes,28,Female,Philippines,BCO7003,1,BEO6000,3.0,BEO6600,2.0,General Business and Management
+52840,JfDQK,Sofia,Gonzalez,30,Female,Laos,BCO7000,1,BEO6000,3.0,BCO6008,2.0,Operations and Supply Chain Management
+18736,r5lVw,Alberto,Fernandez,22,Male,Singapore,BEO6600,2,,,,,Financial and Managerial Accounting
+68949,kJDuT,Veronica,Reyes,21,Female,Malaysia,BCO7000,1,,,,,Marketing Strategy and Consumer Behavior
+54127,HL3Xn,Sofia,Fernandez,21,Female,Brunei,BCO7005,2,,,,,Leadership and Strategic Management
+52727,5L6L7,Isabela,Rivera,31,Female,Myanmar,BCO7004,4,BEO6000,3.0,,,Leadership and Strategic Management
+11072,JvrOW,Juan,Cruz,22,Male,Laos,BCO7000,3,BCO7006,2.0,BCO7005,2.0,Digital Media and Content Creation
+25469,a3yO9,Carlos,Torres,25,Male,Vietnam,BEO6000,3,BCO7002,4.0,,,Leadership and Strategic Management
+93118,DF8Q4,Alberto,Morales,33,Male,Singapore,BEO6000,3,,,,,Information Technology and Systems
+98321,k1823,Jose,Fernandez,24,Male,Myanmar,BEO6000,3,BCO7006,1.0,,,Information Technology and Systems
+63084,Dcw9R,Antonio,Rivera,25,Male,Myanmar,BEO6000,3,,,,,Marketing Strategy and Consumer Behavior
+88130,Dlj2B,Roberto,Rivera,25,Male,Philippines,BCO7000,4,BCO7006,1.0,BEO6000,3.0,General Business and Management
+36436,oJ29b,Rosa,Reyes,30,Female,Indonesia,BCO7003,1,BEO6000,3.0,BCO7004,4.0,Financial and Managerial Accounting
+72745,DiGqe,Fernando,Garcia,33,Male,Malaysia,BCO7002,4,BEO6000,3.0,BCO7005,2.0,Leadership and Strategic Management
+47957,s14Ev,Jessica,Fernandez,21,Female,Indonesia,BCO7007,2,,,,,Data-Driven Decision Making and Analytics
+93439,5PMOT,Veronica,Morales,27,Female,Brunei,BEO6000,3,"	
+WOM1000",1.0,,,Information Technology and Systems
+74722,AmZsp,Fernando,Ramos,19,Male,Vietnam,BCO7000,1,BCO7006,1.0,BCO7003,1.0,Information Technology and Systems
+48457,EP1AQ,Miguel,Ramos,23,Male,Brunei,BEO6600,2,BEO6000,3.0,,,General Business and Management
+25325,Xcvrl,Alicia,Reyes,18,Female,Thailand,BCO7000,1,BCO7004,4.0,BCO7005,2.0,Financial and Managerial Accounting
+27696,ghvaZ,Roberto,Torres,22,Male,Vietnam,BCO6008,2,,,,,Marketing Strategy and Consumer Behavior
+11963,nXyXN,Carlos,Fernandez,24,Male,Philippines,BCO6008,2,,,,,Data-Driven Decision Making and Analytics
+02675,4mbIv,Luisa,Garcia,32,Female,Brunei,BCO7000,3,BCO7006,3.0,BCO7007,2.0,Leadership and Strategic Management
+26576,3fqVI,Carlos,Santos,21,Male,Vietnam,BEO6000,3,BCO7006,1.0,BCO7004,4.0,Operations and Supply Chain Management
+91862,O6zyd,Maria,Ramos,31,Female,Brunei,BEO6000,3,,,,,Financial and Managerial Accounting
+39247,LtNhS,Veronica,Cruz,26,Female,Malaysia,BEO6000,3,,,,,Leadership and Strategic Management
+40801,cdlKV,Isabela,Torres,23,Female,Malaysia,BCO7000,2,BCO7006,2.0,BCO6008,2.0,Digital Media and Content Creation
+46789,c4kCG,Sofia,Gonzalez,27,Female,Laos,BEO6000,3,BCO7004,4.0,,,Information Technology and Systems
+92092,4j0zr,Isabela,Rivera,35,Female,Laos,BCO6008,2,BEO6000,3.0,,,General Business and Management
+54620,naYF6,Ricardo,Martinez,19,Male,Laos,BAO6504,1,,,,,Operations and Supply Chain Management
+70220,FzlPg,Sofia,Torres,25,Female,Myanmar,BEO6600,2,,,,,Operations and Supply Chain Management
+46400,0UtEQ,Maria,Martinez,33,Female,Myanmar,BCO7002,4,,,,,Operations and Supply Chain Management
+54924,glNea,Ismael,Martinez,29,Male,Cambodia,BCO7004,4,,,,,Marketing Strategy and Consumer Behavior
+28625,2v8BJ,Jose,Martinez,34,Male,Vietnam,BEO6600,2,BAO6504,1.0,,,Financial and Managerial Accounting
+45374,497qH,Angelica,Rivera,22,Female,Laos,BCO7000,3,BCO7006,3.0,BEO6000,3.0,Financial and Managerial Accounting
+36377,sRWqH,Maria,Fernandez,31,Female,Laos,BCO7000,1,BCO7006,4.0,BCO7005,2.0,General Business and Management
+87091,NcINm,Luisa,Gonzalez,25,Female,Vietnam,BCO7006,1,BCO7004,4.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+43586,534NK,Rosa,Santos,27,Female,Singapore,BEO6000,3,,,,,Information Technology and Systems
+17415,VqOHT,Antonio,Santos,28,Male,Malaysia,BEO6600,2,,,,,General Business and Management
+14012,H9k81,Jose,Torres,29,Male,Cambodia,BCO7004,4,,,,,Operations and Supply Chain Management
+19791,8AEIL,Carmen,Cruz,30,Female,Cambodia,BCO7005,2,BCO7000,1.0,,,General Business and Management
+34795,bQhKi,Jessica,Flores,35,Female,Malaysia,BCO7003,1,BCO7004,4.0,BEO6000,3.0,Information Technology and Systems
+97872,LoBPE,Ricardo,Rivera,27,Male,Brunei,BCO7004,4,"	
+WOM1000",1.0,,,Data-Driven Decision Making and Analytics
+43370,2OF7c,Angelica,Torres,34,Female,Indonesia,BCO7000,4,BCO7006,3.0,BCO7002,4.0,Leadership and Strategic Management
+35502,wQOQ6,Miguel,Cruz,26,Male,Vietnam,BCO7005,2,BCO7003,1.0,BCO7002,4.0,General Business and Management
+78415,rr9nQ,Ismael,Flores,30,Male,Thailand,BCO7004,4,BCO7007,2.0,BEO6000,3.0,Leadership and Strategic Management
+86950,Jp58K,Antonio,Garcia,22,Male,Philippines,BCO7007,2,BCO7004,4.0,BAO6504,1.0,General Business and Management
+07186,mg1G1,Jose,Martinez,28,Male,Philippines,BEO6000,3,"	
+WOM1000",1.0,BCO7002,4.0,Financial and Managerial Accounting
+58306,LtcxR,Roberto,Santos,22,Male,Thailand,BCO7007,2,,,,,Marketing Strategy and Consumer Behavior
+82952,bxIPo,Ricardo,Torres,31,Male,Laos,BCO7006,1,BEO6600,2.0,,,General Business and Management
+17673,93T8z,Fernando,Martinez,19,Male,Singapore,BCO7000,2,BCO7006,1.0,BCO7007,2.0,Operations and Supply Chain Management
+48703,6S41b,Alicia,Ramos,20,Female,Vietnam,BCO7000,4,BCO7006,2.0,BCO7002,4.0,Leadership and Strategic Management
+68405,WaArh,Carlos,Ramos,32,Male,Philippines,BAO6504,1,BCO6008,2.0,,,Data-Driven Decision Making and Analytics
+10680,UXUeu,Rosa,Martinez,27,Female,Laos,BCO7003,1,BCO6008,2.0,BCO7004,4.0,Data-Driven Decision Making and Analytics
+42628,kM9F0,Carlos,Reyes,20,Male,Malaysia,BCO7007,2,,,,,Leadership and Strategic Management
+36531,pkczl,Sofia,Reyes,23,Female,Thailand,BCO7000,3,BCO7006,3.0,BEO6600,2.0,Data-Driven Decision Making and Analytics
+16644,GMwfn,Carmen,Rivera,19,Female,Laos,BCO7000,1,,,,,Operations and Supply Chain Management
+17668,rkRMB,Luisa,Rivera,31,Female,Myanmar,BCO7000,1,BCO7006,4.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+24664,D6ccB,Veronica,Morales,23,Female,Brunei,BCO7000,1,BCO7004,4.0,BCO7005,2.0,Information Technology and Systems
+70101,SBuhO,Carlos,Cruz,32,Male,Thailand,BCO7006,1,BCO7004,4.0,BEO6000,3.0,Marketing Strategy and Consumer Behavior
+24101,MyI4y,Carlos,Ramos,29,Male,Cambodia,BEO6000,3,,,,,Information Technology and Systems
+72311,IZkyg,Luisa,Torres,28,Female,Philippines,BEO6000,3,"	
+WOM1000",1.0,,,Digital Media and Content Creation
+14037,gvgbK,Ricardo,Cruz,33,Male,Brunei,BCO7000,2,BCO7006,2.0,BEO6600,2.0,Information Technology and Systems
+44378,Nm1KG,Sofia,Flores,23,Female,Thailand,BEO6000,3,BCO6008,2.0,BCO7004,4.0,Marketing Strategy and Consumer Behavior
+75727,ErJ9i,Carmen,Cruz,21,Female,Singapore,BCO7002,4,BEO6000,3.0,BCO7003,1.0,Marketing Strategy and Consumer Behavior
+82957,mTExR,Maria,Morales,19,Female,Malaysia,BEO6600,2,BEO6000,3.0,,,Data-Driven Decision Making and Analytics
+77021,1mkvK,Veronica,Martinez,19,Female,Cambodia,BEO6000,3,BCO7005,2.0,,,Operations and Supply Chain Management
+46934,qLqFH,Luisa,Torres,19,Female,Thailand,BCO7000,4,BCO7006,3.0,BCO7004,4.0,Leadership and Strategic Management
+95314,pUtgM,Ismael,Garcia,30,Male,Philippines,BCO7004,4,BCO6008,2.0,"	
+WOM1000",1.0,Financial and Managerial Accounting
+14781,jbtVV,Sofia,Rivera,28,Female,Laos,"	
+WOM1000",1,,,,,Leadership and Strategic Management
+84046,6HB8p,Carmen,Fernandez,21,Female,Vietnam,"	
+WOM1000",1,BCO6008,2.0,,,Operations and Supply Chain Management
+42807,1ZbeW,Fernando,Rivera,35,Male,Singapore,BEO6000,3,,,,,Digital Media and Content Creation
+59430,OmOOY,Maria,Gonzalez,35,Female,Malaysia,BCO6008,2,,,,,Financial and Managerial Accounting
