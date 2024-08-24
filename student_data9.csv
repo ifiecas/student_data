@@ -1,0 +1,501 @@
+st_id,password,first_name,last_name,age,gender,nationality,interest,CompletedUnit_1_Code,CompletedUnit1_Title,CompletedUnit1_Semester,CompletedUnit1_Credits,CompletedUnit_2_Code,CompletedUnit2_Title,CompletedUnit2_Semester,CompletedUnit2_Credits,CompletedUnit_3_Code,CompletedUnit3_Title,CompletedUnit3_Semester,CompletedUnit3_Credits
+02989,wzHQu,Sofia,Santos,19,Female,Myanmar,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+54565,d8td9,Ismael,Reyes,28,Male,Philippines,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+39847,B2lWK,Angelica,Santos,20,Female,Thailand,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+85282,9vY0b,Ricardo,Cruz,28,Male,Singapore,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+81969,gXjzu,Miguel,Santos,30,Male,Thailand,Information Technology and Systems,WOM1000,Women in STEM,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+70446,b79RM,Fernando,Ramos,32,Male,Myanmar,Marketing Strategy and Consumer Behavior,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+43616,QT1Ue,Sofia,Ramos,33,Female,Vietnam,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+77758,27EKF,Jessica,Torres,25,Female,Cambodia,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+15525,RINO5,Jose,Cruz,22,Male,Vietnam,Operations and Supply Chain Management,BCO7002,Experience Management,Sem 4,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+30955,8A68I,Fernando,Santos,21,Male,Vietnam,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+40837,cqDsj,Roberto,Torres,19,Male,Laos,Leadership and Strategic Management,BCO6008,Predictive Analytics,Sem 2,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+23993,Ihv8m,Alicia,Fernandez,23,Female,Indonesia,Data-Driven Decision Making and Analytics,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+90607,jIf7a,Angelica,Santos,30,Female,Indonesia,Data-Driven Decision Making and Analytics,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+86395,l88v7,Jessica,Garcia,21,Female,Thailand,Operations and Supply Chain Management,BCO7005,Data Security and Governance,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+27324,3vFDE,Maria,Torres,33,Female,Thailand,General Business and Management,WOM1000,Women in STEM,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+35019,JdCTP,Isabela,Morales,21,Female,Philippines,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+96510,FYkJS,Fernando,Gonzalez,30,Male,Vietnam,Digital Media and Content Creation,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+77025,qgVL8,Jose,Garcia,34,Male,Thailand,General Business and Management,BCO7007,Machine Learning,Sem 2,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+58987,UG2ce,Carmen,Rivera,34,Female,Philippines,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+91965,EpIT2,Angelica,Santos,26,Female,Vietnam,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+59831,nb0kh,Juan,Cruz,31,Male,Indonesia,Marketing Strategy and Consumer Behavior,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+18884,UYkvh,Alicia,Morales,21,Female,Philippines,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+32937,vaB9G,Ismael,Reyes,29,Male,Vietnam,Leadership and Strategic Management,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+49860,wk2TA,Jessica,Morales,28,Female,Cambodia,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+10922,Num4Z,Miguel,Garcia,30,Male,Thailand,Information Technology and Systems,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+78109,phAqD,Rosa,Ramos,25,Female,Laos,General Business and Management,BEO6600,Business Economics,Sem 2,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+82106,BylIF,Veronica,Gonzalez,22,Female,Malaysia,Information Technology and Systems,BCO7007,Machine Learning,Sem 2,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+18277,jEy7J,Ismael,Rivera,32,Male,Vietnam,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+69490,pl8c4,Carlos,Reyes,19,Male,Singapore,General Business and Management,BCO7003,Analytics Project M anagement,Sem 1,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+75218,r7zji,Roberto,Martinez,35,Male,Cambodia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+60437,5YBWb,Isabela,Gonzalez,20,Female,Laos,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+74772,lPkVv,Fernando,Martinez,26,Male,Philippines,Leadership and Strategic Management,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+33178,pe5B5,Fernando,Torres,24,Male,Malaysia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+47264,cPzty,Rosa,Reyes,30,Female,Cambodia,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+81711,VbZwb,Alberto,Cruz,19,Male,Indonesia,Digital Media and Content Creation,WOM1000,Women in STEM,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+37266,MQpip,Carmen,Garcia,22,Female,Philippines,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+15782,Qbfev,Antonio,Gonzalez,24,Male,Singapore,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+53682,Y0hvn,Alicia,Santos,26,Female,Brunei,Digital Media and Content Creation,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+47715,mGyIz,Isabela,Morales,34,Female,Philippines,Marketing Strategy and Consumer Behavior,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+94749,5GrpG,Veronica,Torres,31,Female,Laos,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+63262,Nth5c,Luisa,Gonzalez,23,Female,Cambodia,General Business and Management,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+41964,I21sp,Ismael,Cruz,20,Male,Singapore,Financial and Managerial Accounting,BEO6000,Data Analysis for Business,Sem 3,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+63027,PyxK3,Miguel,Martinez,32,Male,Thailand,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+72697,Vhgj0,Alberto,Gonzalez,21,Male,Indonesia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+47884,wkMan,Isabela,Fernandez,25,Female,Laos,Operations and Supply Chain Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+71371,nhmu1,Jose,Ramos,28,Male,Brunei,Financial and Managerial Accounting,BEO6600,Business Economics,Sem 2,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+38283,fYrzg,Jose,Cruz,24,Male,Vietnam,Leadership and Strategic Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+05540,wqQh0,Angelica,Ramos,21,Female,Brunei,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+76732,flxS2,Veronica,Flores,27,Female,Brunei,Operations and Supply Chain Management,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+56263,OKSs2,Ricardo,Garcia,20,Male,Vietnam,Leadership and Strategic Management,WOM1000,Women in STEM,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+34389,Ltx9J,Veronica,Torres,26,Female,Myanmar,Marketing Strategy and Consumer Behavior,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+49217,xfGRS,Roberto,Ramos,26,Male,Vietnam,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+86611,6ZhMX,Carlos,Gonzalez,29,Male,Indonesia,Operations and Supply Chain Management,BCO6008,Predictive Analytics,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+84894,knA2o,Angelica,Morales,32,Female,Cambodia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+10669,LEKeu,Alicia,Garcia,35,Female,Laos,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+90675,lfjIP,Ricardo,Santos,30,Male,Cambodia,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+24652,CVma3,Jose,Reyes,22,Male,Indonesia,Information Technology and Systems,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+47522,N7g7Y,Roberto,Garcia,18,Male,Myanmar,Operations and Supply Chain Management,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+60444,I8CLL,Carmen,Flores,22,Female,Myanmar,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+23629,RKg0n,Angelica,Rivera,33,Female,Malaysia,Leadership and Strategic Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+00101,hP0Vf,Carlos,Garcia,18,Male,Myanmar,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+84391,0xM0U,Miguel,Ramos,20,Male,Philippines,Digital Media and Content Creation,BEO6600,Business Economics,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+33646,59dKd,Jose,Martinez,31,Male,Thailand,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+42334,uRGXD,Alberto,Reyes,31,Male,Cambodia,General Business and Management,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+87378,4XSc8,Alberto,Rivera,33,Male,Myanmar,Operations and Supply Chain Management,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+86395,GeC8a,Veronica,Fernandez,26,Female,Myanmar,General Business and Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+59610,BeWwj,Ricardo,Flores,25,Male,Philippines,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+96409,e4mMm,Jessica,Garcia,22,Female,Brunei,Operations and Supply Chain Management,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+57831,z4Gx9,Isabela,Flores,30,Female,Cambodia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+97202,GhsBD,Veronica,Morales,18,Female,Malaysia,Data-Driven Decision Making and Analytics,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+15207,Vrd9U,Sofia,Martinez,25,Female,Singapore,Digital Media and Content Creation,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+97395,QRvXw,Alberto,Fernandez,31,Male,Philippines,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+61848,NIsNM,Isabela,Flores,34,Female,Cambodia,Data-Driven Decision Making and Analytics,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+37396,lGHth,Rosa,Santos,30,Female,Laos,Digital Media and Content Creation,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+54327,ofvdj,Ricardo,Ramos,27,Male,Myanmar,Leadership and Strategic Management,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+26829,18DHi,Fernando,Flores,32,Male,Laos,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+12061,1lPnC,Miguel,Martinez,18,Male,Cambodia,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+03745,x4GVr,Antonio,Gonzalez,33,Male,Myanmar,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+21187,SWwAd,Fernando,Fernandez,29,Male,Philippines,Financial and Managerial Accounting,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+30372,LlC2M,Jessica,Torres,20,Female,Myanmar,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+86928,BMHR2,Jessica,Ramos,31,Female,Cambodia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+71158,6mZiT,Roberto,Flores,32,Male,Vietnam,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+97252,vf8QY,Fernando,Torres,29,Male,Indonesia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+02623,eVjgs,Veronica,Morales,19,Female,Indonesia,Marketing Strategy and Consumer Behavior,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+08324,CskeS,Sofia,Martinez,22,Female,Vietnam,General Business and Management,BCO7007,Machine Learning,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+39402,wGyYx,Carlos,Cruz,26,Male,Thailand,Information Technology and Systems,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+89659,hhTEB,Fernando,Gonzalez,25,Male,Philippines,Digital Media and Content Creation,BCO6008,Predictive Analytics,Sem 2,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+01727,lUJe9,Luisa,Cruz,33,Female,Indonesia,Financial and Managerial Accounting,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+07414,w5dvw,Veronica,Torres,34,Female,Laos,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+16116,xnk0E,Alicia,Flores,20,Female,Singapore,Financial and Managerial Accounting,BCO7007,Machine Learning,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+18339,6MEMM,Rosa,Torres,18,Female,Cambodia,Financial and Managerial Accounting,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+23149,ETPjg,Ricardo,Fernandez,20,Male,Vietnam,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+91650,17ftz,Jose,Gonzalez,28,Male,Malaysia,Operations and Supply Chain Management,BAO6504,Accounting for Management,Sem 1,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+61123,XvPg3,Jose,Garcia,29,Male,Indonesia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+42366,TjLlh,Ricardo,Santos,24,Male,Cambodia,Leadership and Strategic Management,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+35237,hwNIu,Antonio,Rivera,18,Male,Vietnam,Digital Media and Content Creation,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+19399,Y0zf0,Sofia,Flores,29,Female,Indonesia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+11620,vrSpY,Ricardo,Martinez,21,Male,Brunei,Marketing Strategy and Consumer Behavior,BCO7004,Business Data Mining and Warehousing,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+96648,j2IgH,Maria,Ramos,31,Female,Cambodia,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+46791,yIztN,Juan,Morales,19,Male,Malaysia,Marketing Strategy and Consumer Behavior,BEO6600,Business Economics,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+30004,bZfvJ,Juan,Torres,23,Male,Malaysia,Digital Media and Content Creation,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+24660,cJEwB,Jose,Gonzalez,25,Male,Brunei,Information Technology and Systems,WOM1000,Women in STEM,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+13627,cM8Jd,Ismael,Garcia,31,Male,Indonesia,Information Technology and Systems,BCO7007,Machine Learning,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+87183,pBq0J,Ismael,Flores,23,Male,Cambodia,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+10285,BRM4L,Sofia,Flores,30,Female,Myanmar,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+93251,GKrAo,Alberto,Rivera,26,Male,Thailand,Marketing Strategy and Consumer Behavior,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+77962,Ybdj5,Isabela,Flores,20,Female,Myanmar,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+21967,tipji,Alberto,Gonzalez,21,Male,Singapore,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+13275,bDKpy,Angelica,Rivera,24,Female,Laos,Marketing Strategy and Consumer Behavior,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+20847,CCSEY,Rosa,Torres,19,Female,Myanmar,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+68553,xr8jj,Jessica,Reyes,25,Female,Brunei,Digital Media and Content Creation,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+84109,YSdw1,Miguel,Cruz,30,Male,Indonesia,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+02057,kGLZ5,Ismael,Garcia,28,Male,Laos,Data-Driven Decision Making and Analytics,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+16203,AZrRw,Sofia,Gonzalez,35,Female,Laos,Leadership and Strategic Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+44525,b1fiy,Sofia,Garcia,33,Female,Cambodia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+98798,XGl97,Ricardo,Rivera,18,Male,Vietnam,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+10430,hzcTf,Antonio,Morales,24,Male,Vietnam,Leadership and Strategic Management,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+48748,ZkF8j,Jessica,Reyes,35,Female,Indonesia,Operations and Supply Chain Management,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+79682,dnZeb,Angelica,Reyes,19,Female,Laos,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+90479,FmYLg,Isabela,Fernandez,30,Female,Myanmar,Data-Driven Decision Making and Analytics,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+62052,TPeOU,Ricardo,Cruz,25,Male,Malaysia,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+89801,ccCwW,Carmen,Cruz,28,Female,Philippines,Leadership and Strategic Management,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+30843,FNmQy,Jose,Garcia,25,Male,Thailand,Digital Media and Content Creation,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+20073,fb7wq,Sofia,Santos,22,Female,Thailand,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+42899,duiwW,Antonio,Martinez,19,Male,Laos,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+86136,inbKS,Antonio,Fernandez,20,Male,Thailand,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+87185,Fgz8U,Alicia,Santos,31,Female,Brunei,Information Technology and Systems,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+56871,a7Xbo,Antonio,Gonzalez,33,Male,Vietnam,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+85572,w13e8,Jessica,Gonzalez,26,Female,Vietnam,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+56042,loiz5,Fernando,Santos,19,Male,Indonesia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+86568,KibUI,Ismael,Martinez,21,Male,Myanmar,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+02319,EVzU4,Ismael,Rivera,25,Male,Indonesia,Information Technology and Systems,BAO6504,Accounting for Management,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+20859,v1yla,Carlos,Santos,21,Male,Myanmar,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+12170,HeP9b,Rosa,Ramos,31,Female,Thailand,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+77872,OzOMY,Veronica,Morales,27,Female,Singapore,General Business and Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+29744,JAroG,Juan,Rivera,19,Male,Malaysia,Digital Media and Content Creation,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+59283,FufXC,Carlos,Rivera,18,Male,Myanmar,Data-Driven Decision Making and Analytics,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+62342,b2FH4,Luisa,Santos,22,Female,Vietnam,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+15143,Z1N5N,Alberto,Cruz,24,Male,Malaysia,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+49809,N5mE0,Alicia,Garcia,18,Female,Myanmar,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+98803,jgbh7,Ismael,Ramos,22,Male,Thailand,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+49907,aOYci,Ricardo,Reyes,32,Male,Vietnam,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+88573,tW3NF,Ricardo,Flores,35,Male,Myanmar,Leadership and Strategic Management,BCO7007,Machine Learning,Sem 2,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+46052,mGwzP,Sofia,Reyes,19,Female,Indonesia,Data-Driven Decision Making and Analytics,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+73654,6g8ix,Miguel,Garcia,24,Male,Singapore,General Business and Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+40932,79q3V,Roberto,Morales,29,Male,Myanmar,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+89829,OXAd3,Angelica,Gonzalez,30,Female,Singapore,General Business and Management,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+25521,u1O1v,Rosa,Rivera,33,Female,Singapore,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+61974,MRMnc,Isabela,Fernandez,34,Female,Laos,General Business and Management,WOM1000,Women in STEM,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+95678,aqted,Miguel,Gonzalez,29,Male,Vietnam,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+07533,pPPgK,Ricardo,Garcia,29,Male,Philippines,Data-Driven Decision Making and Analytics,BCO7002,Experience Management,Sem 4,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+19741,0n7Xd,Fernando,Fernandez,30,Male,Brunei,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+72202,q8ZmD,Carlos,Martinez,24,Male,Cambodia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+93968,1yo8Y,Alicia,Ramos,27,Female,Brunei,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+83783,6mdCw,Rosa,Morales,20,Female,Malaysia,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+43345,DmURi,Isabela,Gonzalez,26,Female,Thailand,Operations and Supply Chain Management,BCO7006,Coding for Business Analytics,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+08252,FWhd5,Carlos,Garcia,33,Male,Singapore,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+46826,H3bvO,Maria,Garcia,21,Female,Indonesia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+11957,dsDRW,Antonio,Garcia,32,Male,Singapore,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+78996,5ehth,Antonio,Fernandez,33,Male,Laos,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+51777,ecjpm,Maria,Morales,31,Female,Philippines,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+88095,QFnvP,Isabela,Fernandez,21,Female,Brunei,Information Technology and Systems,BCO6008,Predictive Analytics,Sem 2,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+60433,KCAsD,Carlos,Martinez,25,Male,Brunei,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+29848,AMTZU,Angelica,Ramos,28,Female,Brunei,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+84721,oVEr5,Sofia,Cruz,35,Female,Laos,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+94487,M0CPE,Fernando,Gonzalez,22,Male,Vietnam,Marketing Strategy and Consumer Behavior,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+22696,c4PjQ,Rosa,Santos,34,Female,Malaysia,Information Technology and Systems,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+87077,M59t1,Carlos,Flores,24,Male,Thailand,General Business and Management,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+66344,oYMUl,Ricardo,Reyes,24,Male,Cambodia,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+40241,91g0r,Isabela,Torres,29,Female,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+72140,cGBz8,Sofia,Santos,19,Female,Singapore,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+15209,ju4fy,Carlos,Torres,19,Male,Cambodia,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+05964,UXnIZ,Carmen,Fernandez,25,Female,Thailand,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+20027,HXvoH,Veronica,Martinez,31,Female,Laos,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+65390,1VvDz,Fernando,Rivera,32,Male,Indonesia,Digital Media and Content Creation,BEO6600,Business Economics,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+03515,yq4FU,Roberto,Martinez,29,Male,Thailand,Data-Driven Decision Making and Analytics,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+76124,JTgGy,Ricardo,Fernandez,34,Male,Myanmar,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+06145,qHLH8,Miguel,Morales,26,Male,Myanmar,Financial and Managerial Accounting,WOM1000,Women in STEM,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+70679,mZZz1,Antonio,Rivera,33,Male,Myanmar,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+04582,YdobD,Juan,Garcia,20,Male,Brunei,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+96164,vzVQI,Antonio,Santos,23,Male,Cambodia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+66620,bsjFp,Carmen,Morales,20,Female,Singapore,Marketing Strategy and Consumer Behavior,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+24818,yiJ42,Alberto,Ramos,26,Male,Cambodia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+05934,pcqRJ,Isabela,Ramos,18,Female,Laos,Data-Driven Decision Making and Analytics,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+40885,g6FS5,Isabela,Flores,29,Female,Vietnam,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+92222,XCojv,Veronica,Rivera,28,Female,Brunei,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+81129,qvlEU,Antonio,Cruz,24,Male,Philippines,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+97194,EbYvU,Angelica,Torres,19,Female,Myanmar,Digital Media and Content Creation,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+99001,0ig7Z,Veronica,Flores,30,Female,Malaysia,Data-Driven Decision Making and Analytics,BEO6000,Data Analysis for Business,Sem 3,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+19486,NnK2j,Veronica,Morales,20,Female,Myanmar,General Business and Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+54306,jBAJa,Juan,Fernandez,34,Male,Singapore,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+39725,ftrSu,Maria,Reyes,25,Female,Indonesia,General Business and Management,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+09837,4acld,Antonio,Cruz,26,Male,Philippines,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+70137,2B3qI,Ismael,Garcia,35,Male,Cambodia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+37033,jOUE1,Carmen,Martinez,18,Female,Philippines,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+07992,5uNMD,Fernando,Santos,32,Male,Indonesia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+40833,jUj6Z,Roberto,Garcia,23,Male,Singapore,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+64281,LtiZB,Antonio,Ramos,30,Male,Thailand,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+44462,KiXfv,Antonio,Gonzalez,21,Male,Vietnam,Leadership and Strategic Management,BCO7007,Machine Learning,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+01397,wqLlm,Angelica,Flores,35,Female,Singapore,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+21523,I3tR5,Jessica,Cruz,24,Female,Cambodia,Data-Driven Decision Making and Analytics,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+34437,98x1v,Alicia,Torres,21,Female,Cambodia,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+26443,VwvWs,Antonio,Rivera,26,Male,Malaysia,General Business and Management,BAO6504,Accounting for Management,Sem 1,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+24185,ECfCN,Angelica,Garcia,27,Female,Thailand,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+00992,iQfJ4,Maria,Cruz,21,Female,Thailand,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+16960,IjZmy,Alicia,Rivera,27,Female,Philippines,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+90671,cbzkE,Jose,Reyes,35,Male,Singapore,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+42197,NIIOm,Veronica,Garcia,30,Female,Cambodia,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+83381,4vGx0,Luisa,Santos,32,Female,Myanmar,Information Technology and Systems,BCO6008,Predictive Analytics,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+49409,qXdH6,Jose,Garcia,32,Male,Singapore,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+49194,FHtCe,Juan,Ramos,29,Male,Thailand,Digital Media and Content Creation,BCO7005,Data Security and Governance,Sem 2,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+96522,Biv0F,Rosa,Morales,20,Female,Brunei,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+34358,10qO2,Carmen,Cruz,25,Female,Malaysia,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+70560,fCHMi,Veronica,Fernandez,23,Female,Vietnam,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+62034,FQ9OB,Veronica,Martinez,19,Female,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+29470,Qp6gm,Angelica,Gonzalez,23,Female,Brunei,Operations and Supply Chain Management,BCO7007,Machine Learning,Sem 2,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+68272,pCIWx,Ricardo,Gonzalez,28,Male,Indonesia,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+45435,TTMGA,Isabela,Gonzalez,28,Female,Laos,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+65939,3QbAb,Ismael,Morales,29,Male,Myanmar,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+54849,9JL7A,Isabela,Fernandez,22,Female,Laos,Digital Media and Content Creation,BCO7003,Analytics Project M anagement,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+16699,MDApO,Carlos,Flores,23,Male,Indonesia,General Business and Management,BCO7006,Coding for Business Analytics,Sem 1,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+29417,xH9Rl,Isabela,Flores,33,Female,Philippines,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+14513,RAMNQ,Sofia,Santos,30,Female,Cambodia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+52919,qqof9,Jessica,Reyes,29,Female,Malaysia,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+27762,X6Jwv,Veronica,Torres,20,Female,Thailand,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+89310,8fxLB,Jose,Fernandez,22,Male,Malaysia,Financial and Managerial Accounting,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+97160,QN8qV,Alicia,Ramos,22,Female,Thailand,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+22498,Caba3,Roberto,Santos,25,Male,Laos,General Business and Management,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+91097,Khiro,Antonio,Ramos,21,Male,Laos,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+14578,5V5gi,Roberto,Flores,24,Male,Myanmar,Financial and Managerial Accounting,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+96139,WVNyz,Alberto,Fernandez,32,Male,Singapore,Operations and Supply Chain Management,WOM1000,Women in STEM,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+78250,HRWaq,Angelica,Garcia,33,Female,Singapore,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+28213,Xiatm,Luisa,Santos,27,Female,Philippines,General Business and Management,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+23153,75ogG,Luisa,Morales,35,Female,Indonesia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+16806,ysya9,Jose,Fernandez,33,Male,Singapore,Data-Driven Decision Making and Analytics,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+22271,R3SSC,Luisa,Torres,33,Female,Cambodia,Data-Driven Decision Making and Analytics,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+09703,tyxDK,Ismael,Gonzalez,24,Male,Vietnam,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+45256,RMmIl,Ricardo,Cruz,28,Male,Laos,Information Technology and Systems,BEO6000,Data Analysis for Business,Sem 3,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+25412,U4ZEN,Ricardo,Santos,25,Male,Philippines,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+90284,OzRRv,Jose,Morales,22,Male,Laos,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+38940,J3PaZ,Isabela,Garcia,35,Female,Laos,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+41223,clsh5,Juan,Ramos,29,Male,Laos,Data-Driven Decision Making and Analytics,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+72409,PUtVH,Jose,Cruz,19,Male,Philippines,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+54243,obJbQ,Jose,Fernandez,22,Male,Malaysia,Leadership and Strategic Management,BEO6600,Business Economics,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+27761,85okU,Alberto,Gonzalez,22,Male,Singapore,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+94337,SZsAd,Maria,Garcia,27,Female,Vietnam,General Business and Management,BCO7002,Experience Management,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+28346,LtYcS,Luisa,Garcia,30,Female,Laos,Financial and Managerial Accounting,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+85136,mT2ZY,Jessica,Ramos,30,Female,Laos,Operations and Supply Chain Management,BCO7007,Machine Learning,Sem 2,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+94351,zfQ3d,Ismael,Morales,18,Male,Vietnam,Marketing Strategy and Consumer Behavior,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+54370,vIk7g,Angelica,Gonzalez,31,Female,Indonesia,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+30051,hHMmk,Carmen,Torres,33,Female,Laos,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+97419,B0syL,Alberto,Reyes,30,Male,Thailand,Operations and Supply Chain Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+43999,s8liG,Ricardo,Cruz,34,Male,Philippines,Data-Driven Decision Making and Analytics,BCO7004,Business Data Mining and Warehousing,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+01452,dFbCU,Jessica,Martinez,34,Female,Myanmar,Digital Media and Content Creation,BCO6008,Predictive Analytics,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+63403,dENRU,Alberto,Fernandez,31,Male,Brunei,Leadership and Strategic Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+82844,pPI67,Isabela,Reyes,28,Female,Singapore,General Business and Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+47902,MMh55,Carlos,Morales,24,Male,Laos,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+96944,ftyTl,Rosa,Fernandez,18,Female,Malaysia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+41963,MT2Ya,Sofia,Ramos,29,Female,Brunei,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+32336,RTCOk,Miguel,Fernandez,28,Male,Philippines,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+70918,WdrHb,Angelica,Morales,19,Female,Myanmar,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+02991,1FNPK,Jose,Torres,22,Male,Indonesia,Financial and Managerial Accounting,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+16840,eDJEq,Carmen,Garcia,18,Female,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+82428,xYHZG,Ricardo,Rivera,28,Male,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+67148,vXrib,Veronica,Morales,20,Female,Malaysia,Operations and Supply Chain Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+28657,RvXxB,Juan,Flores,20,Male,Singapore,Information Technology and Systems,BCO7007,Machine Learning,Sem 2,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+68097,HYuLB,Angelica,Morales,32,Female,Laos,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+39638,QeZeM,Alberto,Ramos,27,Male,Thailand,General Business and Management,BCO7002,Experience Management,Sem 4,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+57022,3g8Pe,Antonio,Torres,34,Male,Singapore,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+01806,GQnZn,Luisa,Reyes,34,Female,Singapore,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+53618,dgDsY,Miguel,Cruz,33,Male,Vietnam,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+77852,H2kOO,Alicia,Cruz,27,Female,Laos,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+34607,PBDOc,Fernando,Santos,32,Male,Malaysia,Digital Media and Content Creation,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+92769,d7Q0W,Carlos,Flores,24,Male,Brunei,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+88772,WQTFP,Jessica,Flores,22,Female,Philippines,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+36452,JnG71,Antonio,Morales,24,Male,Vietnam,Data-Driven Decision Making and Analytics,BEO6000,Data Analysis for Business,Sem 3,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+22458,3HQuw,Fernando,Ramos,27,Male,Laos,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+10872,uMJYU,Jessica,Garcia,30,Female,Cambodia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+18285,oY89U,Jessica,Reyes,26,Female,Philippines,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+73972,McqSn,Sofia,Santos,28,Female,Myanmar,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+04094,P3f8X,Miguel,Gonzalez,29,Male,Cambodia,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+98927,fNuA1,Isabela,Morales,26,Female,Indonesia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+08768,58art,Rosa,Fernandez,33,Female,Singapore,Operations and Supply Chain Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+87569,fU6OK,Sofia,Santos,28,Female,Philippines,Operations and Supply Chain Management,BAO6504,Accounting for Management,Sem 1,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+04767,RNkir,Juan,Rivera,32,Male,Cambodia,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+25127,yV48G,Sofia,Flores,26,Female,Malaysia,Leadership and Strategic Management,BCO7006,Coding for Business Analytics,Sem 1,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+85070,o1FbD,Alicia,Torres,24,Female,Indonesia,Digital Media and Content Creation,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+85694,h4XYf,Roberto,Reyes,28,Male,Myanmar,Marketing Strategy and Consumer Behavior,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+18494,yiLzc,Alberto,Rivera,22,Male,Indonesia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+88633,Xe21J,Carlos,Morales,34,Male,Thailand,Financial and Managerial Accounting,BAO6504,Accounting for Management,Sem 1,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+08964,D0XVt,Rosa,Cruz,32,Female,Brunei,Data-Driven Decision Making and Analytics,BCO7002,Experience Management,Sem 4,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+85339,zMwEK,Angelica,Fernandez,23,Female,Thailand,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+29361,X55kw,Antonio,Morales,32,Male,Singapore,Leadership and Strategic Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+44313,c0AXI,Rosa,Cruz,32,Female,Philippines,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+02980,l4Dff,Carlos,Torres,29,Male,Singapore,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+42077,DjQ3P,Antonio,Garcia,19,Male,Thailand,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+55194,jToR2,Juan,Rivera,29,Male,Myanmar,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+40384,XXmQe,Isabela,Santos,29,Female,Myanmar,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+80477,RzZCH,Jose,Martinez,31,Male,Cambodia,General Business and Management,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+55790,i6IoM,Ricardo,Reyes,22,Male,Indonesia,Data-Driven Decision Making and Analytics,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+76881,vnw9v,Fernando,Flores,25,Male,Brunei,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+49382,NpzIL,Maria,Rivera,31,Female,Indonesia,Operations and Supply Chain Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+57671,bf4iN,Alicia,Garcia,30,Female,Indonesia,Financial and Managerial Accounting,WOM1000,Women in STEM,Sem 1,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+93709,0qZJM,Antonio,Santos,20,Male,Indonesia,Leadership and Strategic Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+92378,r05et,Veronica,Morales,18,Female,Philippines,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+14746,oNlyg,Carlos,Martinez,24,Male,Cambodia,Marketing Strategy and Consumer Behavior,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+87208,zzEHP,Miguel,Flores,18,Male,Thailand,Financial and Managerial Accounting,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+03258,epfIA,Sofia,Fernandez,30,Female,Indonesia,Digital Media and Content Creation,BCO7007,Machine Learning,Sem 2,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+10257,dy04r,Veronica,Morales,22,Female,Myanmar,Information Technology and Systems,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+79505,yKrkz,Antonio,Rivera,23,Male,Vietnam,General Business and Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+15660,9TpiK,Roberto,Gonzalez,34,Male,Philippines,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+11901,cPsuC,Maria,Rivera,21,Female,Indonesia,General Business and Management,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+66023,JVMMj,Alicia,Martinez,28,Female,Cambodia,Marketing Strategy and Consumer Behavior,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+95704,s2CEs,Luisa,Ramos,22,Female,Vietnam,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+50140,VOalK,Miguel,Rivera,26,Male,Philippines,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+17350,VeHFf,Veronica,Reyes,18,Female,Malaysia,Information Technology and Systems,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+02312,k1R3y,Alberto,Gonzalez,18,Male,Thailand,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+65764,HeaMI,Carlos,Gonzalez,21,Male,Singapore,Digital Media and Content Creation,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+39975,NTkyd,Juan,Santos,30,Male,Philippines,General Business and Management,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+14757,sUl6x,Maria,Morales,22,Female,Myanmar,Information Technology and Systems,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+10481,htHMd,Alberto,Martinez,24,Male,Vietnam,Leadership and Strategic Management,WOM1000,Women in STEM,Sem 1,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+17056,GNuBU,Carmen,Santos,22,Female,Malaysia,Information Technology and Systems,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+71297,Ettmj,Ismael,Flores,20,Male,Myanmar,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+50732,jzd4t,Carmen,Rivera,21,Female,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+20696,sumsU,Carmen,Martinez,35,Female,Philippines,Information Technology and Systems,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+68599,D1q8B,Alberto,Cruz,28,Male,Myanmar,Information Technology and Systems,BCO7006,Coding for Business Analytics,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+41984,PLphX,Angelica,Fernandez,28,Female,Philippines,Financial and Managerial Accounting,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+12453,hl6U9,Rosa,Santos,23,Female,Cambodia,Financial and Managerial Accounting,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+49326,9CDC3,Ismael,Morales,21,Male,Malaysia,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+00758,qpiul,Fernando,Rivera,31,Male,Philippines,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+55602,9EdpO,Isabela,Santos,23,Female,Thailand,Financial and Managerial Accounting,WOM1000,Women in STEM,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+70893,1aHly,Rosa,Santos,20,Female,Cambodia,Operations and Supply Chain Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+08271,QHauf,Roberto,Cruz,28,Male,Philippines,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+94038,j0vPT,Antonio,Garcia,29,Male,Philippines,General Business and Management,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+71761,qVUYZ,Jose,Fernandez,29,Male,Malaysia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+54345,ATNzo,Jose,Santos,26,Male,Malaysia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+16714,fdo38,Miguel,Ramos,30,Male,Laos,Financial and Managerial Accounting,BCO6008,Predictive Analytics,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+79478,3t3ii,Ismael,Morales,18,Male,Vietnam,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+14178,4ylPL,Ricardo,Martinez,26,Male,Philippines,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+65700,GzIbq,Maria,Santos,32,Female,Malaysia,Data-Driven Decision Making and Analytics,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+50428,tg8z0,Carlos,Fernandez,24,Male,Vietnam,Information Technology and Systems,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+84245,Uzbg5,Luisa,Gonzalez,19,Female,Laos,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+13573,Gy0YF,Carmen,Martinez,30,Female,Philippines,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+17886,oBOOE,Roberto,Gonzalez,24,Male,Singapore,Digital Media and Content Creation,BEO6600,Business Economics,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+61857,LzoFb,Alicia,Fernandez,34,Female,Philippines,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+12565,GtjQ4,Maria,Morales,21,Female,Singapore,Financial and Managerial Accounting,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+17463,lUawg,Fernando,Garcia,21,Male,Malaysia,Leadership and Strategic Management,BCO7005,Data Security and Governance,Sem 2,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+32569,7wolc,Miguel,Reyes,30,Male,Brunei,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+06405,H7ZwW,Carmen,Ramos,30,Female,Myanmar,Digital Media and Content Creation,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+55088,3LsuJ,Antonio,Morales,31,Male,Cambodia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+77429,DH4m5,Alberto,Cruz,23,Male,Cambodia,Information Technology and Systems,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+85826,WJArn,Ismael,Cruz,26,Male,Laos,General Business and Management,BEO6600,Business Economics,Sem 2,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+78625,wsgE9,Rosa,Torres,30,Female,Singapore,Leadership and Strategic Management,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+80459,UqzEb,Alberto,Gonzalez,35,Male,Malaysia,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+04428,hzn0t,Roberto,Gonzalez,25,Male,Myanmar,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+65787,UbbHl,Sofia,Fernandez,31,Female,Malaysia,Leadership and Strategic Management,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+67069,HmvL0,Luisa,Garcia,18,Female,Laos,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+54112,HDIaw,Jose,Torres,19,Male,Cambodia,Data-Driven Decision Making and Analytics,BCO7007,Machine Learning,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+87040,I8F4i,Ricardo,Flores,25,Male,Cambodia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+44453,INURp,Alberto,Martinez,30,Male,Brunei,Marketing Strategy and Consumer Behavior,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+85340,tC0GW,Veronica,Santos,35,Female,Vietnam,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+54754,EteeV,Fernando,Garcia,24,Male,Indonesia,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+53033,JAZ7s,Veronica,Reyes,33,Female,Indonesia,Digital Media and Content Creation,WOM1000,Women in STEM,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+07848,pb71q,Ricardo,Garcia,22,Male,Thailand,Digital Media and Content Creation,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+17598,IoZCs,Jessica,Garcia,32,Female,Malaysia,Leadership and Strategic Management,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+30809,iJfay,Alicia,Cruz,30,Female,Vietnam,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+28103,YuOcg,Isabela,Santos,31,Female,Brunei,Data-Driven Decision Making and Analytics,WOM1000,Women in STEM,Sem 1,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+92741,n1Lyh,Veronica,Fernandez,18,Female,Brunei,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+72806,G8afY,Antonio,Flores,34,Male,Philippines,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+50872,Th5S1,Miguel,Rivera,35,Male,Vietnam,General Business and Management,BCO7002,Experience Management,Sem 4,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+92099,5jVKv,Miguel,Torres,31,Male,Singapore,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+65315,SborU,Juan,Rivera,19,Male,Indonesia,Financial and Managerial Accounting,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+49084,UABSz,Antonio,Torres,26,Male,Indonesia,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+88186,NnUpk,Veronica,Gonzalez,20,Female,Laos,Leadership and Strategic Management,BCO7002,Experience Management,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+31387,cxp4Z,Jose,Rivera,23,Male,Philippines,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7002,Experience Management,Sem 4,12.0
+37827,tnzZK,Isabela,Gonzalez,28,Female,Cambodia,Data-Driven Decision Making and Analytics,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+63829,a7rJO,Antonio,Flores,20,Male,Cambodia,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+58160,qxpNe,Alberto,Ramos,30,Male,Vietnam,Operations and Supply Chain Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+22576,mmqPH,Maria,Flores,32,Female,Cambodia,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+91388,FFsot,Jose,Rivera,31,Male,Brunei,Data-Driven Decision Making and Analytics,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+78518,zTYzl,Carmen,Rivera,22,Female,Singapore,Data-Driven Decision Making and Analytics,BCO7005,Data Security and Governance,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+43301,NGiQn,Carmen,Flores,34,Female,Thailand,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+74788,9u771,Alicia,Morales,35,Female,Myanmar,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+78336,ArNkN,Angelica,Cruz,24,Female,Singapore,General Business and Management,BEO6600,Business Economics,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+86323,4HEoM,Sofia,Rivera,18,Female,Singapore,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+41959,M1BeQ,Miguel,Santos,30,Male,Singapore,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+38927,ZIzp3,Antonio,Cruz,22,Male,Cambodia,Data-Driven Decision Making and Analytics,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+10020,YMUaA,Alberto,Martinez,22,Male,Vietnam,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+69662,bm2E6,Luisa,Santos,19,Female,Laos,Information Technology and Systems,BCO7005,Data Security and Governance,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+74131,z7wd8,Rosa,Rivera,35,Female,Malaysia,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+86073,tWbGQ,Ricardo,Ramos,26,Male,Philippines,Leadership and Strategic Management,BAO6504,Accounting for Management,Sem 1,12,,,,,,,,
+26433,OorS0,Fernando,Rivera,22,Male,Philippines,Digital Media and Content Creation,BEO6000,Data Analysis for Business,Sem 3,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+16162,osVyr,Carmen,Morales,21,Female,Myanmar,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+31947,LzMeY,Alberto,Reyes,30,Male,Brunei,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+00046,RCTcM,Veronica,Fernandez,29,Female,Malaysia,Data-Driven Decision Making and Analytics,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0,,,,
+10301,j40L3,Juan,Reyes,34,Male,Thailand,Financial and Managerial Accounting,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+82334,U7zhO,Alberto,Rivera,18,Male,Brunei,Leadership and Strategic Management,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+23182,TvROe,Alicia,Garcia,31,Female,Brunei,Leadership and Strategic Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+04726,NLLVV,Fernando,Martinez,25,Male,Laos,Digital Media and Content Creation,BEO6000,Data Analysis for Business,Sem 3,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+94859,TXT1w,Luisa,Torres,31,Female,Indonesia,General Business and Management,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+50424,3LYj8,Juan,Ramos,23,Male,Cambodia,Marketing Strategy and Consumer Behavior,BCO7006,Coding for Business Analytics,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+18693,pAaWS,Miguel,Gonzalez,29,Male,Singapore,Digital Media and Content Creation,BCO7003,Analytics Project M anagement,Sem 1,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+67759,UU5yE,Luisa,Torres,20,Female,Indonesia,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+87539,sI5xC,Juan,Ramos,30,Male,Myanmar,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+95540,Y4hL7,Carlos,Morales,26,Male,Singapore,Financial and Managerial Accounting,BCO7006,Coding for Business Analytics,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+11351,VE9tk,Fernando,Morales,35,Male,Myanmar,Marketing Strategy and Consumer Behavior,BCO7006,Coding for Business Analytics,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+96071,nnGzH,Isabela,Torres,33,Female,Laos,Data-Driven Decision Making and Analytics,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+10000,If5Jc,Juan,Rivera,24,Male,Thailand,Data-Driven Decision Making and Analytics,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+10967,y6HHw,Fernando,Santos,23,Male,Myanmar,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+21408,mqJeB,Maria,Santos,21,Female,Philippines,Information Technology and Systems,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+62780,1Aq9I,Isabela,Rivera,23,Female,Philippines,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+94483,i3VFP,Angelica,Fernandez,34,Female,Brunei,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+68358,qxSte,Luisa,Fernandez,25,Female,Laos,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+91808,jAEpM,Roberto,Cruz,23,Male,Laos,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+75263,nH17g,Carmen,Rivera,23,Female,Indonesia,General Business and Management,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+79668,XfzN8,Alberto,Fernandez,25,Male,Brunei,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+09006,TXp9z,Veronica,Martinez,34,Female,Philippines,Operations and Supply Chain Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+92113,4XF6k,Luisa,Torres,21,Female,Thailand,Leadership and Strategic Management,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+77449,lvYAc,Rosa,Garcia,34,Female,Myanmar,Financial and Managerial Accounting,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+07692,lAA8D,Alicia,Morales,23,Female,Singapore,Operations and Supply Chain Management,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+96948,OKybV,Ismael,Fernandez,29,Male,Myanmar,Marketing Strategy and Consumer Behavior,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+01637,sReSL,Alberto,Gonzalez,23,Male,Malaysia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+34559,1MP0W,Miguel,Santos,26,Male,Philippines,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7007,Machine Learning,Sem 2,12.0
+75688,MnLHq,Juan,Cruz,24,Male,Myanmar,Digital Media and Content Creation,BCO7007,Machine Learning,Sem 2,12,,,,,,,,
+31786,TVoMG,Veronica,Cruz,28,Female,Myanmar,Data-Driven Decision Making and Analytics,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+67944,52WPK,Sofia,Morales,21,Female,Singapore,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+50414,xWpBQ,Roberto,Martinez,23,Male,Vietnam,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+63981,uQwx1,Antonio,Rivera,21,Male,Malaysia,Financial and Managerial Accounting,BCO7004,Business Data Mining and Warehousing,Sem 4,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+22346,NpniL,Jose,Ramos,33,Male,Thailand,Digital Media and Content Creation,BCO7007,Machine Learning,Sem 2,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+33707,OtAHr,Sofia,Cruz,32,Female,Vietnam,Marketing Strategy and Consumer Behavior,BCO7006,Coding for Business Analytics,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+56616,jdeeK,Miguel,Reyes,19,Male,Myanmar,Leadership and Strategic Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+34590,sNbiM,Veronica,Gonzalez,23,Female,Myanmar,Operations and Supply Chain Management,WOM1000,Women in STEM,Sem 1,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+28599,Ng9L4,Luisa,Garcia,34,Female,Myanmar,Information Technology and Systems,BCO6008,Predictive Analytics,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+50943,6pHQl,Maria,Morales,31,Female,Brunei,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+57030,oyO4W,Juan,Torres,18,Male,Thailand,General Business and Management,BEO6600,Business Economics,Sem 2,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+97393,Kf5h7,Ismael,Gonzalez,31,Male,Thailand,Leadership and Strategic Management,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+02681,jbnMQ,Ismael,Cruz,22,Male,Myanmar,Financial and Managerial Accounting,BAO6504,Accounting for Management,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+10144,XJpah,Angelica,Morales,28,Female,Thailand,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+36661,ilLUw,Antonio,Cruz,31,Male,Cambodia,Digital Media and Content Creation,BCO6008,Predictive Analytics,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+51761,BAB7P,Alicia,Santos,22,Female,Thailand,Operations and Supply Chain Management,WOM1000,Women in STEM,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+46364,xduvs,Carmen,Gonzalez,25,Female,Brunei,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7005,Data Security and Governance,Sem 2,12.0
+87281,ELSyw,Fernando,Flores,35,Male,Brunei,Marketing Strategy and Consumer Behavior,WOM1000,Women in STEM,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+69741,TtchY,Jessica,Torres,19,Female,Brunei,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+70187,YfNm9,Alberto,Reyes,23,Male,Cambodia,Digital Media and Content Creation,BEO6000,Data Analysis for Business,Sem 3,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+33993,7APTl,Maria,Fernandez,30,Female,Laos,Data-Driven Decision Making and Analytics,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+48054,Mp2Hh,Carlos,Reyes,19,Male,Laos,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+79785,dOyy3,Fernando,Rivera,30,Male,Malaysia,Operations and Supply Chain Management,WOM1000,Women in STEM,Sem 1,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+69978,vWF9C,Sofia,Garcia,24,Female,Malaysia,Financial and Managerial Accounting,BCO7004,Business Data Mining and Warehousing,Sem 4,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+49486,MwbHg,Alicia,Rivera,30,Female,Laos,Data-Driven Decision Making and Analytics,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
+18139,sEZXM,Veronica,Santos,19,Female,Thailand,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+56307,xDviB,Fernando,Reyes,19,Male,Myanmar,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+71299,QUHcF,Ismael,Santos,18,Male,Malaysia,General Business and Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+24661,bx8cl,Jessica,Fernandez,33,Female,Indonesia,Financial and Managerial Accounting,BCO6008,Predictive Analytics,Sem 2,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+14642,pl5zQ,Fernando,Cruz,21,Male,Singapore,Digital Media and Content Creation,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+48488,w7x0l,Ricardo,Cruz,30,Male,Laos,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+71569,4IIaT,Fernando,Martinez,35,Male,Cambodia,Information Technology and Systems,BCO7006,Coding for Business Analytics,Sem 1,12,BCO6008,Predictive Analytics,Sem 2,12.0,,,,
+06127,rM9RT,Juan,Ramos,34,Male,Thailand,Marketing Strategy and Consumer Behavior,BEO6000,Data Analysis for Business,Sem 3,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+91294,jxiIK,Carmen,Rivera,23,Female,Philippines,Marketing Strategy and Consumer Behavior,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+53055,QqzIP,Luisa,Martinez,20,Female,Philippines,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7004,Business Data Mining and Warehousing,Sem 4,12.0
+22488,rxrSi,Angelica,Fernandez,26,Female,Philippines,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+34054,a17Tj,Alberto,Garcia,26,Male,Philippines,Marketing Strategy and Consumer Behavior,BCO6008,Predictive Analytics,Sem 2,12,,,,,,,,
+61887,Xs9ov,Alicia,Flores,19,Female,Indonesia,Operations and Supply Chain Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6000,Data Analysis for Business,Sem 3,12.0
+24016,a4lw9,Miguel,Fernandez,32,Male,Vietnam,General Business and Management,BCO7000,Business Analytics,Sem 1,12,,,,,,,,
+04988,RFizc,Miguel,Ramos,32,Male,Philippines,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+53745,nFO0d,Alicia,Flores,27,Female,Indonesia,General Business and Management,BAO6504,Accounting for Management,Sem 1,12,BCO7002,Experience Management,Sem 4,12.0,,,,
+04260,BqiAb,Alberto,Morales,25,Male,Philippines,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+93859,3gHu2,Carlos,Gonzalez,19,Male,Vietnam,Leadership and Strategic Management,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+12285,xAX4Z,Roberto,Reyes,27,Male,Vietnam,Financial and Managerial Accounting,BCO7005,Data Security and Governance,Sem 2,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+43135,gejFR,Ismael,Reyes,30,Male,Singapore,Leadership and Strategic Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+95703,QvuUX,Jose,Cruz,34,Male,Brunei,Financial and Managerial Accounting,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+16502,X0jJq,Angelica,Santos,25,Female,Brunei,Data-Driven Decision Making and Analytics,WOM1000,Women in STEM,Sem 1,12,,,,,,,,
+03229,LIbDT,Alicia,Cruz,20,Female,Malaysia,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO7003,Analytics Project M anagement,Sem 1,12.0
+18135,x8lut,Alicia,Cruz,30,Female,Malaysia,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+59726,biU0K,Antonio,Santos,23,Male,Indonesia,General Business and Management,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,WOM1000,Women in STEM,Sem 1,12.0
+66178,4H6Ku,Ismael,Cruz,18,Male,Vietnam,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+89704,AZCqA,Carmen,Garcia,33,Female,Thailand,Information Technology and Systems,BEO6600,Business Economics,Sem 2,12,BEO6000,Data Analysis for Business,Sem 3,12.0,,,,
+98084,VyIn8,Ricardo,Fernandez,34,Male,Cambodia,General Business and Management,BEO6000,Data Analysis for Business,Sem 3,12,,,,,,,,
+67796,FkdaX,Carlos,Garcia,28,Male,Thailand,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+73488,1yKPD,Ricardo,Torres,27,Male,Cambodia,Operations and Supply Chain Management,BCO7006,Coding for Business Analytics,Sem 1,12,,,,,,,,
+45377,bK7QY,Carlos,Cruz,21,Male,Cambodia,Information Technology and Systems,BCO7002,Experience Management,Sem 4,12,,,,,,,,
+27040,jUOux,Isabela,Santos,22,Female,Thailand,Information Technology and Systems,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+41963,Ti6kr,Rosa,Morales,27,Female,Brunei,Data-Driven Decision Making and Analytics,BCO6008,Predictive Analytics,Sem 2,12,BCO7003,Analytics Project M anagement,Sem 1,12.0,,,,
+73551,lEfkz,Alberto,Gonzalez,29,Male,Indonesia,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BCO6008,Predictive Analytics,Sem 2,12.0
+72743,ZpKFw,Roberto,Gonzalez,29,Male,Laos,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+74384,3cZ9I,Isabela,Torres,27,Female,Laos,General Business and Management,BCO6008,Predictive Analytics,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+85166,Bk6FL,Ismael,Cruz,25,Male,Philippines,General Business and Management,BCO7003,Analytics Project M anagement,Sem 1,12,BAO6504,Accounting for Management,Sem 1,12.0,,,,
+87875,Sam1O,Carlos,Rivera,18,Male,Brunei,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+31351,gdj5i,Rosa,Fernandez,25,Female,Myanmar,Leadership and Strategic Management,BCO7004,Business Data Mining and Warehousing,Sem 4,12,,,,,,,,
+07568,O7d3q,Miguel,Morales,33,Male,Cambodia,Financial and Managerial Accounting,BCO7002,Experience Management,Sem 4,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,,,,
+40648,fcz44,Alberto,Flores,30,Male,Singapore,Digital Media and Content Creation,BCO7005,Data Security and Governance,Sem 2,12,,,,,,,,
+79520,aWuSm,Juan,Cruz,26,Male,Philippines,Marketing Strategy and Consumer Behavior,BCO7005,Data Security and Governance,Sem 2,12,WOM1000,Women in STEM,Sem 1,12.0,,,,
+47586,Rjf0V,Isabela,Garcia,29,Female,Cambodia,Operations and Supply Chain Management,WOM1000,Women in STEM,Sem 1,12,BCO7007,Machine Learning,Sem 2,12.0,,,,
+61444,yp7pJ,Rosa,Flores,27,Female,Indonesia,Marketing Strategy and Consumer Behavior,BAO6504,Accounting for Management,Sem 1,12,BEO6600,Business Economics,Sem 2,12.0,,,,
+61324,afGm8,Alberto,Flores,20,Male,Laos,Information Technology and Systems,BCO7006,Coding for Business Analytics,Sem 1,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+89818,Ynl6j,Carlos,Rivera,33,Male,Vietnam,Digital Media and Content Creation,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BEO6600,Business Economics,Sem 2,12.0
+73972,xMCvC,Rosa,Torres,21,Female,Singapore,Operations and Supply Chain Management,BCO7005,Data Security and Governance,Sem 2,12,BCO7000,Business Analytics,Sem 1,12.0,,,,
+20137,lyLjS,Fernando,Gonzalez,33,Male,Malaysia,Leadership and Strategic Management,BEO6000,Data Analysis for Business,Sem 3,12,BCO7005,Data Security and Governance,Sem 2,12.0,,,,
+78495,Z2EEJ,Carlos,Santos,22,Male,Indonesia,Marketing Strategy and Consumer Behavior,BEO6600,Business Economics,Sem 2,12,,,,,,,,
+75231,Ap3zg,Carlos,Gonzalez,20,Male,Laos,Marketing Strategy and Consumer Behavior,BCO7000,Business Analytics,Sem 1,12,BCO7006,Coding for Business Analytics,Sem 1,12.0,BAO6504,Accounting for Management,Sem 1,12.0
+30133,VX3ZX,Alberto,Garcia,31,Male,Indonesia,Financial and Managerial Accounting,BCO7003,Analytics Project M anagement,Sem 1,12,,,,,,,,
